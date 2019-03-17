@@ -1,0 +1,3047 @@
+,school_name,school_city,school_score,school_post_code,address
+0,Al-Risala,Mississauga,10,L4Y4A2,1224 Dundas Street E
+1,Avondale Alternative,Toronto,10,M2N2V4,171 Avondale Ave
+2,Havergal,Toronto,10,M5N2H9,1451 Avenue Rd
+3,IQRA Islamic,Mississauga,10,L4Z1R9,5751 Coopers Ave
+4,Islamic Foundation,Ajax,10,1T7,2944 Audley Road N.
+5,Islamic Institute of Toronto,Toronto,10,M1X1S3,1630 NEILSON RD
+6,Islamic School of Cambridge,Cambridge,10,N1R8J5,1550 Dunbar Rd
+7,Khalsa Community,Brampton,10,L6S3B5,69 Maitland Street
+8,Khalsa School Malton,Mississauga,10,L4T2H3,7280 Airport Rd.
+9,Laggan,Dalkeith,10,K0B1E0,20345 Laggan-Glenelg Road
+10,Northmount,Toronto,10,M3B1S3,26 Mallard Rd
+11,Safa & Marwa,Mississauga,10,L4Z1P1,5550 Mcadam Road
+12,Sathya Sai,Toronto,10,M1R4E5,505 Ellesmere Rd  4
+13,St Justin Martyr,Unionville,10,L3R8K4,140 Hollingham Rd
+14,St Mildred's-Lightbourn,Oakville,10,L6J2L1,1080 Linbrook Rd
+15,St Sebastian,Toronto,10,M6H3P1,717 Brock Ave
+16,Islamic School of Hamilton,Hamilton,9.9,L8W3P8,1545 Stone Church Rd E
+17,Silver Stream,Richmond Hill,9.9,L4S2K9,180 Farmstead Rd
+18,Sainte-Marguerite-Bourgeoys,Markham,9.8,L3R9C1,111 boulevard John Button
+19,St Benedict,Unionville,9.8,L3R7E4,50 Aldergrove Dr
+20,Convent Glen,Orléans,9.7,K1C2M4,6212 Jeanne d'Arc Blvd
+21,Donald Cousens,Markham,9.7,L6E1T5,315 Mingay Avenue
+22,Nile Academy,Toronto,9.6,M9M1W5,5 Blue Haven Crescent
+23,Olive Grove,Mississauga,9.6,L5K1B4,2300 Speakman Dr
+24,Al-Ameen,Brampton,9.5,L6X3P1,389 Main Street North
+25,Errol Village,Camlachie,9.5,N0N1E0,3568 Egremont Road
+26,Fleming,Toronto,9.5,M1B5B5,20 Littles Rd
+27,Guru Tegh Bahadur,Brampton,9.5,1Y4,180 Sandalwood Parkway East
+28,Lyn-Tincap,Lyn,9.5,K0E1M0,38 Main Street East 184
+29,Stonebridge,Markham,9.5,L6C2Z8,168 Stonebridge Dr
+30,Whitney,Toronto,9.5,M4T1C7,119 Rosedale Heights Dr
+31,St Rose of Lima,Mississauga,9.4,L5M3A9,4590 The Gallops
+32,Wali ul Asr,Brampton,9.4,0A1,7580 Kennedy Road
+33,Clara Hughes,Oshawa,9.3,L1H6T9,250 Harmony Rd. S.
+34,Denlow,Toronto,9.3,M3B1P7,50 Denlow Blvd
+35,Fallingbrook,Whitby,9.3,L1R2G2,155 Fallingbrook St
+36,Humber Valley Village,Toronto,9.3,M9A3E1,65 Hartfield Rd
+37,ISNA Islamic,Mississauga,9.3,L4X1C5,1525 Sherway Dr
+38,John Ross Robertson,Toronto,9.3,M4R1P2,130 Glengrove Ave W
+39,John XXIII,Arnprior,9.3,K7S1B9,75 Edey St
+40,Masonville,London,9.3,N6G3A7,25 Hillview Blvd
+41,St Raphaels,Burlington,9.3,L7L1S9,4056 New St
+42,Beverly Glen,Toronto,9.2,M1W1W4,85 Beverly Glen Blvd
+43,Islamic Foundation,Toronto,9.2,M1S5E1,441 Nugget Ave
+44,St Ann,St Catharines,9.2,L2N4W1,218 Main St
+45,Wali ul Asr,Caledon,9.2,4G2,84 Simpson Road
+46,Ahlul Bayt Islamic,Ottawa,9.1,K1L7R6,200 Baribeau St
+47,Alexandra,Lindsay,9.1,K9V4H9,65 Sussex St N
+48,Arc-en-ciel,Orléans,9.1,K4A3T6,1830 boul. Portobello
+49,Blythwood,Toronto,9.1,M4N2Z5,2 Strathgowan Cres
+50,Elizabeth B Phin,Pickering,9.1,L1V1N1,1500 Rougemount Dr
+51,North Cavan,Cavan,9.1,L0A1C0,2001 County Rd 10
+52,Ossington/Old Orchard,Toronto,9.1,M6J3A5,380 Ossington Ave
+53,Pine Grove,St Catharines,9.1,L2N4J5,690 Lake St
+54,St Helen,Mississauga,9.1,L5J3X1,1325 Bodley Rd
+55,St Mark,Mississauga,9.1,L5L2Z5,3675 Sawmill Valley Dr
+56,Swansea,Toronto,9.1,M6S3J9,207 Windermere Ave
+57,Coledale,Markham,9,L3R7W8,60 Coledale Rd
+58,Holy Name of Mary,Ancaster,9,L9K1H8,161 Meadowlands Blvd
+59,Iroquois,Toronto,9,M1S2S6,265 Chartland Blvd S
+60,John T Tuck,Burlington,9,L7N1J7,3365 Spruce Ave
+61,Sacré-Coeur,Bourget,9,K0A1E0,2233 rue Dollard
+62,Saint-François-d'Assise,Ottawa,9,K1Y1T8,35 av. Melrose
+63,San Lorenzo Ruiz,Markham,9,L6E0E1,840 Bur Oak Ave
+64,St Matthew's,Oakville,9,L6M2G3,1050 Nottinghill Gate
+65,Withrow Avenue,Toronto,9,M4K1E5,25 Bain Ave
+66,C D Farquharson,Toronto,8.9,M1S2B1,1965 Brimley Rd
+67,Chine Drive,Toronto,8.9,M1M2K8,51 Chine Dr
+68,Corpus Christi,Hamilton,8.9,L9B1G3,25 Alderson Dr
+69,David Lewis,Toronto,8.9,M1W3G1,130 Fundy Bay Blvd
+70,E I McCulley,St Catharines,8.9,L2M6B8,16 Berkley Dr
+71,Georges-Étienne-Cartier,Ottawa,8.9,K1V6Y3,880 prom. Thorndale
+72,Glendale,Welland,8.9,L3C3R1,24 Farnham Ave
+73,Jacob Beam,Beamsville,8.9,L0R1B0,4300 William St Box 390
+74,Kanata,Kanata,8.9,K2K2P9,1385 terrasse Halton
+75,Merrickville,Merrickville,8.9,K0G1N0,306 Drummond Street East 520
+76,Michael Cranny,Maple,8.9,L6A1Y9,155 Melville Ave
+77,R L Beattie,Sudbury,8.9,P3E2P7,102 Loach's Rd
+78,St Paul,Stoney Creek,8.9,L8J2H9,24 Amberwood St
+79,St Thomas the Apostle,Renfrew,8.9,K7V2M9,41 Bolger Lane
+80,St. Michael's,Simcoe,8.9,N3Y4K1,972 St. John's Road West R. R. #2
+81,Westmount,Thorold,8.9,L2V2J8,73 Ann St
+82,William Berczy,Unionville,8.9,L3R1Z9,120 Carlton Rd
+83,Bessborough Drive,Toronto,8.8,M4G3K2,211 Bessborough Dr
+84,Cedarvale,Toronto,8.8,M6C1W4,145 Ava Rd
+85,Cedarwood,Markham,8.8,L3S4R8,399 Elson St
+86,Christ the King,Richmond Hill,8.8,L4B2E1,329 Valleymede Dr
+87,Downtown Alternative,Toronto,8.8,M5E1R8,85 Lower Jarvis St
+88,Jack Chambers,London,8.8,N5X3E3,1650 Hastings Dr
+89,Josyf Cardinal Slipyj,Toronto,8.8,M9B2R5,35 West Deane Park Dr
+90,La Source,Orléans,8.8,K1E1E8,1445 prom. Duford
+91,Marius-Barbeau,Ottawa,8.8,K1V6T3,1345 av. Nottinghill
+92,Park,Grimsby,8.8,L3M1P5,217 Main St E
+93,Pleasantville,Richmond Hill,8.8,L4C4B9,400 Mill St
+94,Port Royal,Toronto,8.8,M1V4R1,408 Port Royal Trail
+95,Renaissance,Burlington,8.8,L7S1H1,1226 chemin Lockhart
+96,St Andrew's,Killaloe,8.8,K0J2A0,131 Queen St Box 339
+97,St Clement,Toronto,8.8,M9C2A2,4319 Bloor St
+98,St Michael's Choir,Toronto,8.8,M5B1X2,66 Bond St
+99,Summit Heights,Toronto,8.8,M3H1M1,139 Armour Blvd
+100,Twenty Valley,Vineland,8.8,2C0,4057 Victoria Avenue N
+101,Applewood,St Catharines,8.7,L2P3T7,130 Woodrow St
+102,Bayview Fairways,Thornhill,8.7,L3T2Z6,255 Bayview Fairways Dr
+103,Bellewood,Windsor,8.7,N9E1B6,2500 LABELLE ST
+104,Brookmill Boulevard,Toronto,8.7,M1W2L5,25 Brookmill Blvd
+105,E J James,Oakville,8.7,L6J4M6,338 Cairncroft Rd
+106,Edward Johnson,Guelph,8.7,N1E5C1,397 Stevenson St N
+107,Island Public/Natural Science,Toronto,8.7,M5J2E9,30 Centre Island Pk
+108,John XXIII,Mississauga,8.7,L5C1M1,915 McBride Ave
+109,Milliken,Toronto,8.7,M1V2T4,130 Port Royal Trail
+110,Prince Philip,St Catharines,8.7,L2M3V1,600 Vine St
+111,Rosedale,Toronto,8.7,M4W1R1,22 South Dr
+112,Runnymede,Toronto,8.7,M6S2Y7,357 Runnymede Rd
+113,St Bonaventure,Toronto,8.7,M3C2K9,1340 Leslie St
+114,St David of Wales,Mississauga,8.7,L5C3V9,4200 Beacon Lane
+115,St Gregory the Great,Woodbridge,8.7,L4L6Z6,140 Greenpark Blvd
+116,St Joseph,River Canard,8.7,N9J2W6,9381 Townline Rd
+117,St Mary-St Cecilia,Morrisburg,8.7,K0C1X0,28 Shea Dr 892
+118,St Pius X,Tecumseh,8.7,N8N2C1,644 Lacasse Blvd
+119,St. Anne,Burlington,8.7,L7R4L3,4675 Doug Wright Drive
+120,Valley View,Greenwood,8.7,L0H1H0,3530 Westney Rd
+121,W. Erskine Johnston,Kanata,8.7,K2K1G7,50 Varley Dr
+122,Altona Forest,Pickering,8.6,L1V7A3,405 Woodsmere Cres
+123,Bedford Park,Toronto,8.6,M4N1X2,81 Ranleigh Ave
+124,Bellmere,Toronto,8.6,M1H2E6,470 Brimorton Dr
+125,Bond Lake,Richmond Hill,8.6,L4E5B9,245 Old Colony Road
+126,Centennial Road,Toronto,8.6,M1C2A2,271 Centennial Rd
+127,Davisville,Toronto,8.6,M4S1J6,43 Millwood Rd
+128,Dunlace,Toronto,8.6,M2L2S1,20 Dunlace Dr
+129,Édouard-Bond,Ottawa,8.6,K2B5K3,920 av. Parkhaven
+130,Forest Hill,Toronto,8.6,M5P2T6,78 Dunloe Rd
+131,Forest Trail,Oakville,8.6,L6M4B9,1406 Pine Glen Road
+132,Henderson Avenue,Thornhill,8.6,L3T2K7,66 Henderson Ave
+133,Kanata Highlands,Kanata,8.6,K2T0N3,425 Terry Fox
+134,Munns,Oakville,8.6,L6H1X8,1511 Sixth Line
+135,New Central,Oakville,8.6,L6J3X4,133 Balsam Dr
+136,Our Lady of Perpetual Help,Toronto,8.6,M4T1E6,1 1/2 Garfield Ave
+137,Richmond Rose,Richmond Hill,8.6,L4S1S7,160 Frank Endean Rd
+138,Rockcliffe Park,Ottawa,8.6,K1M1C1,350 Buena Vista Rd
+139,St John of the Cross,Mississauga,8.6,L5N3S5,3180 Aquitaine Ave
+140,St. Joseph,Toledo,8.6,K0E1Y0,"80 County Road 1, Main St"
+141,Stephen Leacock,Kanata,8.6,K2K1S2,25 Leacock Dr
+142,Tecumseh,Mississauga,8.6,L5H1V4,1480 Chriseden Dr
+143,A K Wigg,Fonthill,8.5,L0S1E0,1337 Haist St Box 740
+144,Abraham Erb,Waterloo,8.5,N2V2V3,710 Laurelwood Dr
+145,Aurora,Aurora,8.5,L4G2P3,125 Wellington St W
+146,Baythorn,Thornhill,8.5,L3T3V2,201 Baythorn Dr
+147,Beckett Farm,Markham,8.5,L6C0T3,78 Beckett Ave
+148,Bialik Hebrew Day,Toronto,8.5,M6B3A1,2760 Bathurst St
+149,Courcelette,Toronto,8.5,M1N2T6,100 Fallingbrook Rd
+150,Eramosa,Rockwood,8.5,N0B2K0,5757 Fifth Line
+151,John Wanless,Toronto,8.5,M5M1T2,245 Fairlawn Ave
+152,Le-Petit-Prince,Vaughan,8.5,L6A1Y3,79 chemin Avro
+153,L'Étoile-de-l'Est,Orléans,8.5,K1C8E4,6220 prom. Beauséjour
+154,Mount Joy,Markham,8.5,L6E1X1,281 Williamson Rd
+155,Notre-Dame-de-Grâce,Toronto,8.5,1Y5,59 Clement Rd
+156,Pierre Berton,Vaughan,8.5,L4H0X9,470 Via Campanile
+157,Pilgrim Wood,Oakville,8.5,L6M2W7,1551 Pilgrims Way
+158,Pope Francis,Kleinburg,8.5,L4H3Z3,15 Secord Avenue
+159,Springbrook,Brampton,8.5,L6X0S1,145 Jordensen Drive
+160,St Augustine,Cambridge,8.5,N1S4Y2,177 Bismark Dr
+161,St Matthew,Mississauga,8.5,L5R1L3,280 Kingsbridge Garden Circle
+162,Armour Heights,Toronto,8.4,M5M3A5,148 Wilson Ave
+163,Blessed Kateri Tekakwitha,Hamilton,8.4,L8W1Z6,22 Queensbury Dr
+164,Central Park,Markham,8.4,L3P7G2,100 Central Park Dr
+165,Corpus Christi,Richmond Hill,8.4,L4S1C6,35 Squire Dr
+166,Earl A Fairman,Whitby,8.4,L1N2W8,620 Walnut St
+167,Elmdale,Ottawa,8.4,K1Y3L9,49 Iona St
+168,Gainsborough Central,St Anns,8.4,L0R1Y0,5459 Hwy 20 Hwy
+169,Joshua Creek,Oakville,8.4,L6H7P9,1450 Arrowhead Road
+170,Kennedy,Toronto,8.4,M1V2Y6,20 Elmfield Cres
+171,MacLeod's Landing,Richmond Hill,8.4,L4E4Z1,195 Silver Maple Rd
+172,Our Lady of Fatima,Courtland,8.4,N0J1E0,120 Talbot Rd Box 288
+173,Ryerson,London,8.4,N6A3X3,940 Waterloo St
+174,Sainte-Marguerite-d'Youville,Toronto,8.4,M8Y2T3,755 chemin Royal York
+175,Saint-Joseph d'Orléans,Orléans,8.4,K1C1J4,6664 rue Carrière
+176,Sister Catherine Donnelly,Barrie,8.4,L4M6W2,123 Hanmer St E
+177,Sixteenth Avenue,Richmond Hill,8.4,L4C7A9,400 16th Ave
+178,St Augustines,Dundas,8.4,L9H2C9,25 Alma St
+179,St Brigid,Ayr,8.4,N0B1E0,50 Broom St
+180,St Clement,Woodbridge,8.4,L4L3Y1,40 Bainbridge Ave
+181,St Daniel,Ottawa,8.4,K2C2P9,1313 Field Street
+182,St Demetrius,Toronto,8.4,M9P1A6,125 La Rose Ave
+183,St Edmund,Mississauga,8.4,L4Y1L5,1250 Melton Dr
+184,St Finnan's,Alexandria,8.4,K0C1A0,220 Main St
+185,St James,Seaforth,8.4,N0K1W0,13 Chalk St Box 100
+186,St John the Baptist,Hamilton,8.4,L8K2G6,115 London St S
+187,St Michael's,Douglas,8.4,K0J1S0,5346 Queen St E Box 100
+188,St Patrick,Markham,8.4,L3P1B6,5607 Highway #7
+189,St Paul,Whitby,8.4,L1N3K6,200 Garrard Rd
+190,St Therese of the Child Jesus,Mississauga,8.4,L5N6X7,6930 Forest Park Dr
+191,Thomas L Wells,Toronto,8.4,M1X1V6,69 Nightstar Road
+192,William Dunbar,Pickering,8.4,L1V5E5,1030 Glenanna Rd
+193,Bernard-Grandmaître,Ottawa,8.3,K1V0Z5,4170 chemin Spratt
+194,Central,Grimsby,8.3,L3M1K7,10 Livingston Ave
+195,Father Serra,Toronto,8.3,M9P3J3,111 Sun Row Dr
+196,Glen Shields,Concord,8.3,L4K1T8,158 Glen Shields Ave
+197,Herbert H Carnegie,Maple,8.3,L6A0G1,575 Via Romano Blvd
+198,John McCrae,Markham,8.3,L6E1N7,565 Fred McLaren Blvd
+199,Northlea,Toronto,8.3,M4G1R4,305 Rumsey Rd
+200,Our Lady of Mount Carmel,Carlisle,8.3,L0R1H0,1624 Centre Rd Box 272
+201,Prince of Peace,Toronto,8.3,M1V4E7,255 Alton Towers Cir
+202,Rick Hansen,Aurora,8.3,L4G0J6,490 Mavrinac Boulevard
+203,Samuel-de-Champlain,Orillia,8.3,L3V5W1,275 rue Park
+204,St Bernard of Clairvaux,Mississauga,8.3,L5M7V5,3345 Escada Drive
+205,St Elizabeth,Cambridge,8.3,N3C4B7,50 Adler Dr
+206,St Henry,Toronto,8.3,M1W3R3,100 Bamburgh Circle
+207,St Josaphat,Toronto,8.3,M6N1A5,55 Pelham Ave
+208,St Joseph's,Oakville,8.3,L6L4N4,477 Warminister Dr
+209,St Mary's,Deep River,8.3,K0J1P0,33110D Hwy 17 E Box 365
+210,Stevensville,Stevensville,8.3,L0S1V0,3521 Main St E
+211,Woodroffe Avenue,Ottawa,8.3,K2A3V3,235 Woodroffe Ave
+212,Abraar,Ottawa,8.2,K2G2Y7,70 Fieldrow Street
+213,Adrienne Clarkson,Ottawa,8.2,K2G6R2,170 Stoneway Dr
+214,Allenby,Toronto,8.2,M5N1M2,391 St Clements Ave
+215,As-Sadiq Islamic,Thornhill,8.2,L4J8A7,9000 Bathurst St
+216,Black Walnut,Markham,8.2,L6B0P4,30 John Allan Cameron Street
+217,Carleton,St Catharines,8.2,L2M4M9,1 Carlton Park Dr
+218,Castlemore,Markham,8.2,L6C2R5,256 Ridgecrest Rd
+219,Charles R. Beaudoin,Burlington,8.2,L7M5A1,4313 Clubview Dr
+220,Churchville,Brampton,8.2,L6Y0Y3,90 Bonnie Braes Drive
+221,E T Crowle,Markham,8.2,L3P4P8,15 Larkin Ave
+222,Fairglen,Toronto,8.2,M1W1H8,2200 Pharmacy Ave
+223,Fessenden,Ancaster,8.2,L9G1V7,168 Huron Avenue
+224,Georges Vanier,Kanata,8.2,K2K1G5,40 Varley Dr
+225,Glen Morris Central,Glen Morris,8.2,N0B1W0,522 Glen Morris Rd E Box 94
+226,Glynn A Green,Fonthill,8.2,L0S1E0,1353 Pelham St
+227,King George,Peterborough,8.2,K9H1H1,220 Hunter St E
+228,Knoxdale,Nepean,8.2,K2H5V2,170 Greenbank Rd
+229,Lamoureux,Ottawa,8.2,K1V8C5,2540 av. Kaladar
+230,Laurelwood,Waterloo,8.2,N2T2R5,460 Brentcliffe Dr
+231,Lincoln Alexander,Markham,8.2,L6C2H4,38 Hillmount Rd
+232,Oodenawi,Oakville,8.2,L6M0Z4,385 Sixteen Mile Drive
+233,Orchard Park,Burlington,8.2,L7L7J3,5151 Dryden Ave
+234,Our Lady of Sorrows,Toronto,8.2,M8X1Z4,32 Montgomery Rd
+235,Parkview,Unionville,8.2,L3R1V6,22 Fonthill Blvd
+236,Percy Williams,Toronto,8.2,M1V1P6,35 White Heather Blvd
+237,Post's Corners,Oakville,8.2,L6H6B5,2220 Caldwell Dr
+238,Roy H Crosby,Markham,8.2,L3P1G9,115 Drakefield Rd
+239,Southwood,Windsor,8.2,N9G1C3,1355 Cabana Rd W
+240,St Angela Merici,Woodbridge,8.2,L4H1C3,8881 Martin Grove Rd
+241,St Anne,Richmond Hill,8.2,L4C7N1,105 Don Head Village Blvd
+242,St John the Baptist,Belle River,8.2,N0R1A0,494 St Peter St Box 610
+243,St Martin of Tours,Stoney Creek,8.2,L8G2X5,60 Grays Rd
+244,St Monica,Buttonville,8.2,L6C1V1,290 Calvert Rd
+245,St Vincent de Paul,Niagara Falls,8.2,L2E6S4,3900 Kalar Rd
+246,Sts Martha & Mary,Mississauga,8.2,L4W2B9,1760 Bough Beeches Blvd
+247,Vimy Ridge,Ajax,8.2,L1T4Z4,40 Telford Street East
+248,Woodland,St Catharines,8.2,L2R6P9,1511 7th St Louth
+249,Agincourt,Toronto,8.1,M1S1N3,29 Lockie Ave
+250,AI-Manarat Heights,Mississauga,8.1,L5N5R1,2550 Argentia Road
+251,Ange-Gabriel,Mississauga,8.1,L5N7L2,1830 boulevard Meadowvale
+252,An-Noor,Windsor,8.1,N8X1Z4,1480 Janette Ave
+253,Bayview Hill,Richmond Hill,8.1,L4B2J5,81 Strathearn Ave
+254,Blessed Kateri,London,8.1,N5X3R1,220 Sunnyside Drive
+255,Connaught,Ottawa,8.1,K1Y3H7,1149 Gladstone Ave
+256,du Chêne,Oakville,8.1,L6H1B8,"150, promenade Ridge"
+257,Gracefield,St Catharines,8.1,L2N4Z7,117 Bayview Dr
+258,Harriet Tubman,St Catharines,8.1,L2R5V4,84 Henry Street
+259,Hon Earl Rowe,Bradford,8.1,L3Z2A5,2516 12th Line
+260,Hopewell Avenue,Ottawa,8.1,K1S2Y7,17 Hopewell Ave
+261,Langton,Fenelon Falls,8.1,K0M1N0,35 Wychwood Cres Box 520
+262,Macville,Bolton,8.1,L7C0S3,7280 King St W
+263,Moraine Hills,Richmond Hill,8.1,L4E4C7,85 Rollinghill Rd
+264,Mother Teresa,Russell,8.1,K4R1C7,1035 Concession Rd
+265,North Bendale,Toronto,8.1,M1H2P4,29 Aveline Cres
+266,Ontario Muslim Academy,Cambridge,8.1,N1R2B7,100 pollock avenue  27
+267,Oscar Peterson,Stouffville,8.1,L4A0E7,850 Hoover Park Drvie
+268,Our Lady of Fatima,Renfrew,8.1,K7V3Y3,228 Mason Ave
+269,Our Lady of the Rosary,Concord,8.1,L4K1T8,206 Glen Shields Ave
+270,Pope John Paul II,Richmond Hill,8.1,L4B4P9,155 Red Maple Rd
+271,Sainte-Madeleine,Toronto,8.1,M3A2W1,1 promenade Ness
+272,Salaheddin Islamic,Toronto,8.1,M1K2C6,741 Kennedy Road
+273,St Charles Garnier,Richmond Hill,8.1,L4C5H5,16 Castlerock Dr
+274,St Clare,Orléans,8.1,K4A3M2,2133 Gardenway Dr
+275,St Mary of the Angels,Toronto,8.1,M6H4C7,1477 Dufferin St
+276,St Michael,Niagara-on-the-Lake,8.1,L0S1J0,387 Line 3
+277,St Richard,Mississauga,8.1,L5N2C3,7270 Copenhagen Rd.
+278,St. Cecilia,Nepean,8.1,K2J0V1,3490 Cambrian Road
+279,Sunningdale,Oakville,8.1,L6H1T4,1434 Oxford Ave
+280,Terre-des-Jeunes,Ottawa,8.1,K2C2V8,1303 rue Fellows
+281,The Divine Infant,Toronto,8.1,M1V3H7,30 Ingleton Blvd
+282,West Preparatory,Toronto,8.1,M6C2J6,70 Ridge Hill Dr
+283,All Saints,Unionville,8,L6C2P9,130 Castlemore Ave
+284,Byron Southwood,London,8,N6K3R6,1379 Lola St
+285,Charlton,Thornhill,8,L4J6J5,121 Joseph Aaron Blvd
+286,Dewson Street,Toronto,8,M6H2N9,65 Concord Ave
+287,Divine Infant,Orléans,8,K1E2E1,8100 Jeanne d'Arc Blvd
+288,Earl Haig,Toronto,8,M4C1E2,15 Earl Haig Ave
+289,Fred Varley,Markham,8,L6E0J8,81 Alexander Lawrie Avenue
+290,Gandatsetiagon,Pickering,8,L1W2H7,1868 Parkside Dr
+291,Georges-Étienne-Cartier,Toronto,8,M4L3C6,250 chemin Gainsborough
+292,Harry Bowes,Stouffville,8,L4A0N8,90 Greenwood Road
+293,Hilson Avenue,Ottawa,8,K1Z6B9,407 Hilson Ave
+294,Holy Spirit,Aurora,8,L4G6Y7,315 Stone Rd
+295,Ingleborough,Brampton,8,L6X0X5,60 Ingleborough Drive
+296,Inglewood Heights,Toronto,8,M1T2T6,45 Dempster St
+297,Jeanne-Lajoie,Toronto,8,M4A2K7,150 Rd Carnforth
+298,Johnsview Village,Thornhill,8,L3T5C3,41 Porterfield Cres
+299,Lakeview,Grimsby,8,L3M2B9,33 Olive St
+300,Lumen Christi,Milton,8,0Z1,841 Savoline Blvd.
+301,MAC Maple Grove,Kitchener,8,N2G3M6,160 Courtland Avenue East
+302,Maple Grove,Oakville,8,L6J4V5,288 Maple Grove Dr
+303,Maplehurst,Burlington,8,L7T2E2,481 Plains Rd E
+304,McMaster,Ottawa,8,K1H6R8,1760 McMaster Ave
+305,Mother Teresa,Oakville,8,L6M3N2,1190 Westview Terrace
+306,Mountview Alternative,Toronto,8,M6P2L5,99 Mountview Ave
+307,Naismith Memorial,Almonte,8,K0A1A0,260 King Street 280
+308,Notre-Place,Orléans,8,K4A0Z3,665 Des Aubepines Drive
+309,Our Lady Help of Christians,Richmond Hill,8,L4S2H1,275 Redstone Rd
+310,Our Lady of Lourdes,Kingston,8,K7M4M9,20 Cranbrook St
+311,Our Lady of Peace,Oakville,8,L6H5X5,391 River Glen Dr
+312,Our Lady of Providence,Brantford,8,N3R6X1,55 Kent Rd
+313,Palmerston Avenue,Toronto,8,M6G2R4,734 Palmerston Ave
+314,Pape Avenue,Toronto,8,M4K1B9,220 Langley Ave
+315,Parkland,Markham,8,L3S3B8,18 Coxworth Ave
+316,Power Glen,St Catharines,8,L2S4C1,34 Westland St
+317,Princess Elizabeth,Welland,8,L3B1P2,330 Scholfield Ave S
+318,Resurrection,Brantford,8,N3R6L4,17 Ravenwood Rd
+319,Rolph Road,Toronto,8,M4G3M5,31 Rolph Rd
+320,St Alexander,Fonthill,8,L0S1E0,26 20 Hwy Box 509
+321,St Andrew,Nepean,8,K2G6Z3,201 Crestway Dr
+322,St Andrews,Toronto,8,M1P3Z1,60 Brimorton Dr
+323,St Ann,Fenwick,8,L0S1C0,832 Canboro Rd Box 160
+324,St Anne,Kanata,8,K2M2V6,500 Stonehaven Dr
+325,St Cecilia,Maple,8,L6A4P3,300 Peter Rupert Avenue
+326,St Clare of Assisi,Stoney Creek,8,L8G4E7,185 Glenashton Dr
+327,St Davids/Laura Secord,St Davids,8,L0S1P0,1344 York Rd  General Delivery
+328,St Francis Xavier,Markham,8,L3S1Y4,223 Highglen Ave
+329,St Michael,Fitzroy Harbour,8,K0A1X0,159 Kedey St
+330,St. James,Mississauga,8,L5G1B8,98 Wanita Road
+331,Waverly,Oshawa,8,L1J5V1,100 Waverly St S
+332,Westdale,St Catharines,8,L2S2B4,130 Rykert St
+333,Alvin Curling,Toronto,7.9,M1B6K4,50 Upper Rouge Trail
+334,Beaverton,Beaverton,7.9,L0K1A0,270 King Street West Box 400
+335,Bridlewood,Toronto,7.9,M1T1P7,60 Bridlewood Blvd
+336,Buttonville,Markham,7.9,L3R9C2,141 John Button Blvd
+337,Canadian Martyrs,Burlington,7.9,L7M1K1,3201 Lansdown Dr
+338,Castor Valley,Greely,7.9,K4P1N2,2630 Grey's Creek Rd
+339,Dalewood,St Catharines,7.9,L2N3P3,61 Duncan Dr
+340,Duke of Cambridge,Bowmanville,7.9,L1C2L8,47 Liberty St N
+341,Fitch Street,Welland,7.9,L3C4V5,164 Fitch St
+342,Jackman Avenue,Toronto,7.9,M4K2X5,79 Jackman Ave
+343,Kettleby,Kettleby,7.9,L0G1J0,3286 Lloydtown/Aurora Rd
+344,Khairul Ummah,Toronto,7.9,M3C1C4,45 Grenoble Drive
+345,Lackner Woods,Kitchener,7.9,N2A4H4,151 Zeller Dr
+346,Lancaster Drive,Kingston,7.9,K7P2R7,1020 Lancaster Dr
+347,Mary Phelan,Guelph,7.9,N1G2R9,8 Bishop Crt
+348,McKay,Port Colborne,7.9,L3K4T7,320 Fielden Ave
+349,McNaughton Ave,Chatham,7.9,N7L2G9,480 McNaughton Ave E
+350,Monseigneur Jean Noël,Windsor,7.9,N9E3K5,3225 avenue California
+351,Mutchmor,Ottawa,7.9,K1S2N1,185 Fifth Ave
+352,Niagara Street,Toronto,7.9,M6J2L3,222 Niagara St
+353,Norseman,Toronto,7.9,M8Z2R1,105 Norseman St
+354,Northumberland Hills,Castleton,7.9,K0K1M0,2246 Spring St
+355,Our Lady of Good Voyage,Mississauga,7.9,L5M4W2,5850 River Grove Ave
+356,Our Lady of Grace,Kitchener,7.9,N2E1R9,70 Gracefield Cres
+357,Our Lady of Lourdes,Waterloo,7.9,N2L6N5,55 Roslin Ave S
+358,Our Lady of Victory,Milton,7.9,L9T3R2,540 Commercial St
+359,Owen,Toronto,7.9,M2P1G6,111 Owen Blvd
+360,Pape-François,Stouffville,7.9,L4A3R1,276 Sunset Blvd
+361,Park Lawn,Toronto,7.9,M8Y4B6,71 Ballacaine Dr
+362,Pineland,Burlington,7.9,L7L3K7,5121 Meadowhill Rd
+363,Quaker Road,Welland,7.9,L3C3G7,333 Quaker Rd
+364,Redstone,Richmond Hill,7.9,L4S2E2,235 Redstone Rd
+365,Rickson Ridge,Guelph,7.9,N1G4Y6,177 Rickson Ave
+366,Rivière Castor,Embrun,7.9,K0A1W0,100 rue Maheu 1229
+367,Senator Gibson,Beamsville,7.9,L0R1B6,4944 John St
+368,St Andrew,Woodbridge,7.9,L4H1S4,151 Forest Fountain Dr
+369,St Jacobs,St Jacobs,7.9,N0B2N0,72 Queensway Dr PO Box 93
+370,St James,Maple,7.9,L6A3J7,171 Mast Rd
+371,St Jerome,Gloucester,7.9,K1V2A7,4330 Spratt Rd
+372,St John Bosco,Oshawa,7.9,L1K2P6,1600 Clearbrook Dr
+373,St Joseph,Markham,7.9,L3P2G5,55 Parkway Ave
+374,St Marguerite d'Youville,Oakville,7.9,L6H6C7,1359 Bayshire Dr
+375,St Mark,London,7.9,N5X1V2,1440 Glenora Dr
+376,St Mark the Evangelist,Whitby,7.9,L1R1Z7,95 Waller St
+377,St Mary's,Listowel,7.9,N4W3G9,1209 Tremaine Ave S
+378,St Michael,Thornhill,7.9,L3T2L5,150 Henderson Avenue
+379,St. Gabriel,Kanata,7.9,K2T0G6,400 Keyrock Drive
+380,St. Rose of Lima,Nepean,7.9,K2B6M8,50 Bayshore Dr
+381,The Waterfront,Toronto,7.9,M5V3G3,635 Queen's Quay W
+382,Tom Thomson,Burlington,7.9,L7R1Z6,2171 Prospect St
+383,Trillium,Orléans,7.9,K4A3S1,1515 Varennes Blvd
+384,Trillium Woods,Richmond Hill,7.9,L4S2P3,18 Alamo Heights Dr
+385,Unionville Meadows,Markham,7.9,L3R5C8,355 South Unionville Ave
+386,Whitchurch Highlands,Stouffville,7.9,L4A7X5,13812 Warden Ave
+387,A J Baker,Kintore,7.8,N0M2C0,528 Allen St
+388,Adam Beck,Toronto,7.8,M4E3M8,400 Scarborough Rd
+389,Alexander,Sudbury,7.8,P3E1K3,39 St Brendan St
+390,Alton Village,Burlington,7.8,L7M0W1,3290 Steeplechase Drive
+391,Anne Frank,Maple,7.8,L6A0X2,431 Ilan Ramon Blvd
+392,Bayview Glen,Thornhill,7.8,L3T2V5,42 Limcombe Dr
+393,Broadview,Ottawa,7.8,K2A2L8,590 Broadview Ave
+394,Caistor Central,Caistor Centre,7.8,L0R1E0,1794 Regional Rd 6
+395,Central,Guelph,7.8,N1H4N2,97 Dublin St N
+396,Chartland,Toronto,7.8,M1S2R7,109 Chartland Blvd S
+397,Cobden,Cobden,7.8,K0J1K0,16 Cowley St Box 130
+398,Frankland,Toronto,7.8,M4K3E1,816 Logan Ave
+399,Georges P Vanier,Chatham,7.8,N7M2C3,20 Cecile Ave
+400,Greenbank/Epsom,Greenbank,7.8,L0C1B0,1325 Cragg Rd Box 68 Greenbank
+401,Highview,Aurora,7.8,L4G6N9,240 McClellan Way
+402,Holy Cross,LaSalle,7.8,N9H2P7,2555 Sandwich W Pkwy
+403,Holy Family,Oakville,7.8,L6H2X8,1420 Grosvenor St
+404,Hullett Central,Londesboro,7.8,N0M2H0,269 King St Box 130
+405,James W. Hill,Oakville,7.8,L6J6R3,2860 Kingsway Drive
+406,John English,Toronto,7.8,M8V1R4,95 Mimico Ave
+407,Kettle Lakes,Richmond Hill,7.8,L4E4X5,62 Kingshill Rd
+408,Lambton Kingsway,Toronto,7.8,M8X2M6,525 Prince Edward Dr
+409,Le Prélude,Orléans,7.8,K1W1G3,6025 promenade Longleaf
+410,Mackenzie Glen,Maple,7.8,L6A2M4,575 Melville Ave
+411,Madeleine-de-Roybon,Kingston,7.8,K7M9G6,72 avenue Gilmour
+412,Millen Woods,Waterloo,7.8,N2K0A5,640 New Hampshire Street
+413,Oakridge,St Catharines,7.8,L2T3R7,1 Marsdale Avenue
+414,Orde Street,Toronto,7.8,M5T1N7,18 Orde St
+415,Our Lady of Grace,Toronto,7.8,M1V1E5,121 Brimwood Blvd
+416,Palgrave,Palgrave,7.8,L7E0L2,8962 Patterson Sideroad
+417,Saint-Guillaume,Cumberland,7.8,K0A3H0,5750 chemin Buckland
+418,San Lorenzo Ruiz,Mississauga,7.8,L4Z3R1,100 Barondale Dr
+419,Sherwood,Oshawa,7.8,L1K2W6,633 Ormond Dr
+420,Sir Adam Beck,Baden,7.8,N3A0A8,1140 Snyder's Rd. W.
+421,Sir Richard W Scott,Markham,7.8,L3S3S8,90 Roxbury St
+422,St Alfred,St Catharines,7.8,L2M4T3,280 Vine St
+423,St Andrew,Oakville,7.8,L6H6G3,145 Millbank Dr
+424,St Brendan,Toronto,7.8,M1C1Z9,186 Centennial Rd
+425,St Brigid,Toronto,7.8,M4C3X9,50 Woodmount Ave
+426,St Frances Cabrini,Delhi,7.8,N4B2R4,373 Northern Ave
+427,St Francis,Sault Ste. Marie,7.8,P6C5P2,147 Brookfield Ave
+428,St Gabriel,Brantford,7.8,N3T6M2,14 Flanders Dr
+429,St Lawrence,Toronto,7.8,M1P2P9,2216 Lawrence Ave E
+430,St Mark's,Stoney Creek,7.8,L8J3T1,43 Whitedeer Rd
+431,St Mary's,Sault Ste. Marie,7.8,P6A5H6,124 Gibbs St
+432,St Michael (Corkery),Carp,7.8,K0A1L0,1572 Corkery Rd
+433,St Patrick,Schomberg,7.8,L0G1T0,51 Western Ave 377
+434,St Paul,Thunder Bay,7.8,P7A2C3,539 Grenville Ave
+435,St Pius X,Toronto,7.8,M6S3Y3,71 Jane St
+436,St Sylvester,Toronto,7.8,M1V1S4,260 Silver Springs Blvd
+437,St Timothy,Mississauga,7.8,L5A2N9,2214 Cliff Rd
+438,St. Ignatius of Loyola,Guelph,7.8,N1L0G4,251 Colonial Dr.
+439,Stoneybrook,London,7.8,N5X1C4,1460 Stoneybrook Cres
+440,Terry Fox,Ajax,7.8,L1Z1K1,30 Kerrison Dr W
+441,Victory,Guelph,7.8,N1H4R4,135 Exhibition St
+442,W H Morden,Oakville,7.8,L6K2S3,180 Morden Rd
+443,Whitby Shores,Whitby,7.8,L1R2K6,400 Taunton Rd. E
+444,Wismer,Markham,7.8,L6E1H8,171 Mingay Ave
+445,Agnes Macphail,Toronto,7.7,M1V1W5,112 Goldhawk Trail
+446,Alton,Alton,7.7,L7K0E1,19657 Main St
+447,Bendale,Toronto,7.7,M1H1M4,61 Benshire Dr
+448,Bennington Heights,Toronto,7.7,M4G1B1,76 Bennington Heights Dr
+449,Bogart,Newmarket,7.7,L3Y8G7,855 College Manor Dr
+450,Cathedrale,Kingston,7.7,K7L1Y5,301 Johnson St
+451,Chapman Mills,Ottawa,7.7,K2J3V1,260 Leamington Way
+452,College Hill,Oshawa,7.7,L1J6R2,530 Laval St
+453,Elda-Rouleau,Alexandria,7.7,K0C1A0,115 rue Sandfield
+454,Enniskillen,Enniskillen,7.7,L0B1J0,8145 Old Scugog Rd
+455,Forest Run,Woodbridge,7.7,L4K5H3,200 Forest Run Boulevard  200
+456,Gregory Drive,Chatham,7.7,N7L2L4,180 Gregory Dr W
+457,Guardian Angels,Milton,7.7,L9T6B1,650 Bennett Blvd
+458,Guardian Angels,Stittsville,7.7,K2S1K5,4 Baywood Dr
+459,Humberwood Downs,Toronto,7.7,M9W7A6,850 Humberwood Blvd  850 Humberwood Blvd
+460,James Grieve,Caledon,7.7,L7C2P9,12175 Bramalea Road
+461,Jean-Paul II,Val Caron,7.7,P3N1R8,1795 rue Main
+462,Kanata Nord,Kanata,7.7,K2K0G8,100  promenade Walden
+463,Lakeside,Ajax,7.7,L1S4X1,4 Parkes Dr
+464,Legacy,Markham,7.7,L3S4B1,61 Russell Jarvis Dr
+465,McKellar Park Central,Thunder Bay,7.7,P7C3Y3,301 North Archibald St
+466,Monseigneur-Jamot,Peterborough,7.7,K9J2C3,186 rue Romaine
+467,Monsignor Leo Cleary,Courtice,7.7,L1E2L5,3820 Courtice Rd N
+468,Morrish,Toronto,7.7,M1C3T7,61 Canmore Blvd
+469,Mount Royal,Brampton,7.7,L6P2K4,65 Mount Royal Crl
+470,North Preparatory,Toronto,7.7,M5N2M6,1100 Spadina Rd
+471,Pine Grove,Oakville,7.7,L6L5A8,529 Fourth Line
+472,Prince of Wales,St Catharines,7.7,L2M5J6,95 Facer St
+473,Queen's Rangers,Copetown,7.7,L0R1J0,1886 Governor's Road
+474,Rippleton,Toronto,7.7,M3B1H4,21 Rippleton Rd
+475,Roch Carrier,Kanata,7.7,K2M3B5,401 Stonehaven Dr
+476,Saginaw,Cambridge,7.7,N1T1V6,740 Saginaw Pkwy
+477,Sir Isaac Brock,Guelph,7.7,N1L1R3,111 Colonial Dr
+478,Sir John A. Macdonald,Markham,7.7,L6C0J4,45 Murison Drive
+479,St Edward,Jordan,7.7,L0R1S0,2807 4th Ave
+480,St James,Kanata,7.7,K2M2K6,50 Stonehaven Dr
+481,St James,St Catharines,7.7,L2N2J3,615 Geneva St
+482,St Paul,Burlington,7.7,L7N2X2,530 Cumberland Ave
+483,St Peter Canisius,Watford,7.7,N0M2S0,424 Victoria St
+484,St Thomas More,Ottawa,7.7,K1G5N6,1620 Blohm Dr
+485,St. Benedict,Nepean,7.7,K2J5Z1,2525 River Mist Road
+486,St. Luke,North Bay,7.7,P1B7P4,225 Milani Road
+487,Steve MacLean,Gloucester,7.7,K1V1T6,4175 Spratt Rd
+488,Stoney Creek,London,7.7,N5X4M7,1335 Nicole Avenue
+489,Sts Cosmas and Damian,Toronto,7.7,M6B3L3,111 Danesbury Ave
+490,West Oak,Oakville,7.7,L6M3K1,2071 Fourth Line
+491,White Haven,Toronto,7.7,M1S2Z1,105 Invergordon Ave
+492,Wilshire,Thornhill,7.7,L4J7S8,265 Beverley Glen Blvd
+493,Winston Churchill,Kingston,7.7,K7L2K3,530 Earl St
+494,All Saints,Toronto,7.6,M9P3A7,1435 Royal York Rd
+495,ApsleyCentral,Apsley,7.6,K0L1A0,238 Burleigh St Box 279
+496,Ardagh Bluffs,Barrie,7.6,L4N6H2,159 Summerset Drive
+497,Balmy Beach,Toronto,7.6,M4E1L6,14 Pine Ave
+498,Beatrice Strong,Port Hope,7.6,L1A3V6,90 Rose Glen Rd N
+499,Blair Ridge,Whitby,7.6,L1M0E8,100 Blackfriar Avenue
+500,Blessed Kateri,Kitchener,7.6,N2P1P2,560 Pioneer Dr
+501,Bright's Grove,Bright's Grove,7.6,N0N1C0,2612 Hamilton Rd
+502,Byron Northview,London,7.6,N6K1E1,1370 Commissioners Rd W
+503,Clara Brenton,London,7.6,N6H3X8,1025 St Croix Ave
+504,Colonel J E Farewell,Whitby,7.6,L1P1J1,810 McQuay Blvd
+505,David Suzuki,Markham,7.6,L6B0L9,45 Riverwalk Dr
+506,Dr Emily Stowe,Courtice,7.6,L1E1W8,71 Sandringham Dr
+507,Dr S J Phillips,Oshawa,7.6,L1G4V5,625 Simcoe St N
+508,Ferris Glen,Corbeil,7.6,P0H1K0,30 Voyer Rd
+509,Forest Avenue,Mississauga,7.6,L5G1K7,20 Forest Ave
+510,Franklin Street,Markham,7.6,L3P2S7,21 Franklin St
+511,Garden Avenue,Toronto,7.6,M6R1M9,225 Garden Ave
+512,Givins/Shaw,Toronto,7.6,M6J2X5,49 Givins St
+513,Guthrie,Oro Station,7.6,L0L2E0,22 5 LINE 1 Lot 22
+514,Hélène-Gravel,Sudbury,7.6,P3E4L5,1412 rue Stephen
+515,Holy Name,King City,7.6,L7B1H3,2585 King Rd
+516,Immaculate Conception,Formosa,7.6,N0G1W0,201 Concession 12 73
+517,Jack Donohue,Kanata,7.6,K2W1H4,101 Penrith St
+518,Jack Miner,Whitby,7.6,L1R2N1,144 Whitburn St
+519,Ledbury Park,Toronto,7.6,M5M4K1,95 Falkirk St
+520,Light of Christ,Aurora,7.6,L4G6P3,290 McClellan Way
+521,Markham Gateway,Markham,7.6,L3S3X3,30 Fonda Rd
+522,Monseigneur Augustin Caron,LaSalle,7.6,N9J3P1,8200 rue Matchette
+523,Northport,Port Elgin,7.6,N0H2C2,1000 Waterloo St
+524,Nottingham,Ajax,7.6,L1T4Y4,50 Seggar Ave
+525,Ogden Community,Thunder Bay,7.6,P7C4Z3,600 McKenzie St
+526,Our Lady of Fatima,St Catharines,7.6,L2M3S6,439 Vine St N
+527,Our Lady of Lourdes,Brampton,7.6,L6P1W3,25 Mount Royal Circle
+528,Our Lady of Mercy,Mississauga,7.6,L5M5J9,5820 Glen Erin Dr
+529,Our Lady of Mount Carmel,Windsor,7.6,N9G1V9,1400 Cousineau Rd
+530,Plum Tree Park,Mississauga,7.6,L5N5R2,6855 Tenth Line W
+531,Prince Andrew,LaSalle,7.6,N9A6Z6,1950 Kelly Rd  RR 3
+532,R Gordon Sinclair,Kingston,7.6,K7M3P7,19 Crerar Blvd
+533,Saint-Joseph,Russell,7.6,K4R1C8,1008 chemin Russell Nord
+534,Saint-Joseph,Wendover,7.6,K0A3K0,3250 rue Principale C.P. 70
+535,Sandwich West,LaSalle,7.6,N9H1P6,2055 Wyoming Ave
+536,Silver Pines,Richmond Hill,7.6,L4C9J2,112 Stave Cres
+537,Sir Samuel Steele,Whitby,7.6,L1R2S6,55 Bakerville St
+538,SouthFields Village,Caledon,7.6,L7C3R1,110 LEARMONT AVE
+539,St Bridget,Brooklin,7.6,L1M2J8,200 Carnwith Dr W
+540,St Christopher,Mississauga,7.6,L5J2W1,1195 Clarkson Rd N
+541,St Edith Stein,Mississauga,7.6,L5N5V5,6234 Osprey Blvd
+542,St Gabriel Lalemant,Toronto,7.6,M1B1Y3,160 Crow Trail
+543,St Georges,London,7.6,N6A3W4,782 Waterloo St
+544,St Gregory,Nepean,7.6,K2G2S5,148 Meadowlands Dr W
+545,St James,Tottenham,7.6,L0G1W0,7332 St James Lane
+546,St Joseph's,Arnprior,7.6,K7S2P6,324 John St N
+547,St Leonard,Manotick,7.6,K4M1E8,5344 Long Island Rd
+548,St Paul,London,7.6,N6H4G6,1090 Guildwood Blvd
+549,St Teresa of Avila,Hamilton,7.6,L9C6P8,171 San Remo Dr
+550,St Thomas More,Mississauga,7.6,L4Y2Y7,3270 Tomken Rd
+551,St. Benedict,Milton,7.6,L9T8N2,80 McLaughlin Ave
+552,Terre des Jeunes,Alexandria,7.6,K0C1A0,33 rue Lochiel Est
+553,Valley Farm,Pickering,7.6,L1X2K5,1615 Pepperwood Gate
+554,Walnut Grove,Caledon,7.6,L7C2P9,12175 Bramalea Road
+555,Wilkinson,Toronto,7.6,M4J3N7,53 Donlands Ave
+556,Williamsburg,Kitchener,7.6,N2E4K7,760 Commonwealth Cr
+557,Winger,Wainfleet,7.6,L0S1V0,53220 Winger Rd
+558,Alexander Muir/Gladstone Ave,Toronto,7.5,M6J3L2,108 Gladstone Ave
+559,Arbour Vista,Guelph,7.5,N1G0C5,200 McCann St
+560,Blessed Sacrament,Toronto,7.5,M5M1H9,24 Bedford Park Ave
+561,Brown,Toronto,7.5,M4V2J1,454 Avenue Rd  City Community Centre
+562,Byron Somerset,London,7.5,N6K4C6,175 Whisperwood Ave
+563,C M L Snider,Wellington,7.5,K0K3L0,240 Main St Box 430
+564,Captain Michael VandenBos,Whitby,7.5,L1P1N3,3121 Country Lane
+565,Churchill Heights,Toronto,7.5,M1G2S4,749 Brimorton Dr
+566,Colchester North,Essex,7.5,N8M2X6,2651 Country Rd 12
+567,Conestogo,Conestogo,7.5,N0B1N0,1948 Sawmill Rd
+568,Discovery,Maple,7.5,L6A2Z2,120 Discovery Trail
+569,Divine Mercy,Mississauga,7.5,L5M5C6,2840 Duncairn Dr
+570,Donald Young,Emo,7.5,P0W1E0,Highway 602 Hwy Box 57
+571,Eagle Ridge,Ajax,7.5,L1T4N1,425 Delaney Dr
+572,Ealing,London,7.5,N5Z1V5,840 Hamilton Rd
+573,East Garafraxa,East Garafraxa,7.5,7J1,063066 County Road #3
+574,Eastview,Oakville,7.5,L6L1T4,2266 Hixon St
+575,Glenview,Burlington,7.5,L7T1Z1,143 Townsend Ave
+576,Hewitt's Creek,Barrie,7.5,L4N3P4,41 Sandringham Drive
+577,Holy Angels,Toronto,7.5,M8Z2G6,65 Jutland Rd
+578,Holy Family,Paris,7.5,N3L3W4,20 Sunset Dr
+579,Holy Trinity,Guelph,7.5,N1E7C4,487 Grange Rd
+580,Hyde Park,Barrie,7.5,L4M7J3,72 The Queensway
+581,Iona,Williamstown,7.5,K0C2J0,20019 Kings Road
+582,Jeanne Sauve,St Catharines,7.5,L2P3G8,91 Bunting Road
+583,La Source,Moose Creek,7.5,K0C1W0,17095 chemin McLean
+584,La Vérendrye,Gloucester,7.5,K1J6Z6,614 prom. Eastvale
+585,Lexington,Waterloo,7.5,N2K2J5,431 Forestlawn Rd
+586,Lincoln Alexander,Ajax,7.5,L1T2W4,95 Church St N
+587,MacKenzie Community,Deep River,7.5,K0J1P0,87 Brockhouse Way P.O. Box 397
+588,Maple Ridge,Pickering,7.5,L1X2M2,2010 Bushmill St
+589,Maurice-Lapointe,Kanata,7.5,K2M0E9,17 DR BRIDGESTONE
+590,Maxville,Maxville,7.5,K0C1T0,15 Alexander Street West 550
+591,Mother Teresa,Ajax,7.5,L1Z1H1,15 Fishlock St
+592,Nellie McClung,Vaughan,7.5,L6A4M1,360 Thomas Cook Avenue
+593,Our Lady of Fatima,Milton,7.5,L9T6Z3,709 Bolingbroke Drive
+594,Our Lady of Lourdes,Pembroke,7.5,K8A2V2,535 Irving St
+595,Our Lady of the Annunciation,Richmond Hill,7.5,L4E2L3,30 Bayswater Ave
+596,Pope John Paul II,Kitchener,7.5,N2A4K1,75 Pebblecreek Drive
+597,Seneca Trail,Oshawa,7.5,L1K0S1,1915 Queensbury Drive
+598,Sheridan Park,St Catharines,7.5,L2N6N8,114 Linwell Rd
+599,South Perth Centennial,St Marys,7.5,N4X1C4,1866 County Rd. 163
+600,St Ambrose,Toronto,7.5,M8W2N9,20 Coules Crt
+601,St Ann,Thunder Bay,7.5,P7E3J1,1130 Georgina Ave
+602,St Bernadette,Oakville,7.5,L6M3A4,1201 Heritage Way
+603,St Cecilia's,Port Dover,7.5,N0A1N5,3 Lynn Park Ave
+604,St Christopher,Burlington,7.5,L7L7A9,2400 Sutton Drive
+605,St Elizabeth Seton,Burlington,7.5,L7L6Y3,5070 Dryden Ave
+606,St Elizabeth Seton,Mississauga,7.5,L5N2T7,6133 Glen Erin Dr
+607,St Gregory,Toronto,7.5,M9B2K6,126 Rathburn Rd
+608,St Herbert,Mississauga,7.5,L5V2C6,5180 Fallingbrook Dr
+609,St John de Brebeuf,Kingsville,7.5,N9Y1T8,43 Spruce St South
+610,St Luke,Nepean,7.5,K2J4B8,60 Mountshannon Dr
+611,St Mark,Kitchener,7.5,N2N1K8,240 Autumn Hill Cres
+612,St Mark,Stouffville,7.5,L4A1E4,333 Glad Park Ave
+613,St Mary Immaculate,Richmond Hill,7.5,L4C9N9,161 Regent St
+614,St Nicholas,Waterloo,7.5,N2V2N1,525 Laurelwood Dr
+615,St Padre Pio,Woodbridge,7.5,L4H1W9,770 NAPA VALLEY AVE
+616,St Peter's & St Paul's,Durham,7.5,N0G1R0,190 John St W Box 361
+617,St Teresa,Kitchener,7.5,N2H4P4,270 Edwin St
+618,Talbot Trail,Windsor,7.5,N9G0A1,4000 DUCHARME ST
+619,West Rouge,Toronto,7.5,M1C2X8,401 Friendship Ave
+620,Wilclay,Markham,7.5,L3S1R4,60 Wilclay Ave
+621,Alexander Kuska KSG,Welland,7.4,L3C2V9,333 Rice Rd
+622,Algonquin Road/Long Lake,Sudbury,7.4,P3E4X6,2650 Algonquin Rd E
+623,Ancaster Meadow,Ancaster,7.4,L9K1S3,93 Kitty Murray Lane
+624,Banting and Best,Toronto,7.4,M1V4E7,380 Goldhawk Trail
+625,Blessed Pier Giorgio Frassati,Toronto,7.4,M1X1X4,8 Seasons Dr
+626,Brooklin Village,Brooklin,7.4,L1M2L5,25 Selkirk Drive
+627,C E Broughton,Whitby,7.4,L1N9L6,80 Crawforth St
+628,Carrville Mills,Thornhill,7.4,L4J8W5,270 Apple Blossom Drive
+629,Christ The King,Mississauga,7.4,L5L5A3,3240 Garthwood Rd
+630,Clinton Street,Toronto,7.4,M6G2V7,460 Manning Ave
+631,Codrington,Barrie,7.4,L4M1S4,217 Codrington St
+632,Devonshire,Ottawa,7.4,K1Y2H5,100 Breezehill Ave
+633,Dr Roberta Bondar,Maple,7.4,L6A0T4,401 Grand Trunk Avenue
+634,Emily Carr,Oakville,7.4,L6M0G5,2255 Pine Glen Road
+635,Father Frederick McGinn,Richmond Hill,7.4,L4E4W2,61 Brockdale St
+636,Goderich,Goderich,7.4,N7A1Z1,125 Blake St W
+637,Hillcrest,Toronto,7.4,M5R3E6,44 Hilton Ave
+638,Island Lake,Orangeville,7.4,L9W5J6,50 Oak Ridge Dr
+639,James Robinson,Markham,7.4,L3P1N9,90 Robinson St
+640,John G Diefenbaker,Toronto,7.4,M1B2X3,70 Dean Park Rd
+641,Kenollie,Mississauga,7.4,L5G2X1,1376 Glenwood Dr
+642,Lockview,St Catharines,7.4,L2M3A9,505 Bunting Rd
+643,MacLeod,Sudbury,7.4,P3E2K2,310 Laval St
+644,Mother Teresa,Bradford,7.4,L3Z2Z7,110 Northgate Dr
+645,Mother Teresa,Markham,7.4,L3R4H2,7100 Birchmount Rd
+646,Oak Ridges,Richmond Hill,7.4,L4E2P7,160 Coons Rd
+647,Osgoode,Osgoode,7.4,K0A2W0,5590 Osgoode Main St Box 70
+648,Our Lady of Peace,Nepean,7.4,K2H5C1,3877 Richmond Road
+649,Paul A Fisher,Burlington,7.4,L7P3J8,2175 Cavendish Dr
+650,Quaker Village,Uxbridge,7.4,L9P1G1,295 Brock St W
+651,Queen of Heaven,Milton,7.4,L9T7M4,311 Salvoline Blvd
+652,Roland Michener,Kanata,7.4,K2K1M2,100 Penfield Dr
+653,Saint-Victor,Alfred,7.4,K0B1A0,38 rue Saint-Paul C.P. 250
+654,St Anne,Windsor,7.4,N8Y3L9,1140 Monmouth Rd
+655,St Bernadette,Dundas,7.4,L9H5E3,270 Governor's Rd
+656,St Dominic,Mississauga,7.4,L5G2G7,515 Hartsdale Ave
+657,St Jerome,Mississauga,7.4,L5C3P5,790 Paisley Blvd W
+658,St John,Perth,7.4,K7H1L6,34 Wilson Street East
+659,St Louis,Toronto,7.4,M8Y2Z7,11 Morgan Ave
+660,St Luke the Evangelist,Whitby,7.4,L1P1N9,55 Twin Streams Rd
+661,St Marguerite d'Youville,Hamilton,7.4,L9B2E3,20 Bonaparte Way
+662,St Raphael,Toronto,7.4,M3M2K2,3 Gade Dr
+663,St Raphael the Archangel,Maple,7.4,L4G0M1,131 Ravineview Drive
+664,St Rose,Windsor,7.4,N8S1X4,871 St Rose Ave.
+665,St Thérèse of Lisieux,Hamilton,7.4,L9B2X5,1760 Garth Street
+666,St. Gregory the Great,Oakville,7.4,0T7,138 Sixteen Mile Drive
+667,Ste-Marguerite-d'Youville,Tecumseh,7.4,N8N3P3,13025 rue St. Thomas
+668,Tarentorus,Sault Ste. Marie,7.4,P6B4M4,96 Northwood St
+669,Terry Fox,Toronto,7.4,M1W3M9,185 Wintermute Blvd
+670,Thornhill,Thornhill,7.4,L4J1V8,7554 Yonge St
+671,Tiffany Hills,Ancaster,7.4,L9K0H5,255 Raymond Road
+672,Trillium Woods,Barrie,7.4,L4N0Z1,20 Elmbrook Dr
+673,Victoria,Niagara Falls,7.4,3L6,5635 Heritage Dr
+674,W.O. Mitchell,Kanata,7.4,K2M2A6,80 Steeple Chase Dr
+675,Wendat Village,Stouffville,7.4,L4A0J8,99 Reeves Way Blvd
+676,West Humber,Toronto,7.4,M9W4S7,15 Delsing Dr
+677,Westcreek,Pickering,7.4,L1V6M9,1779 Westcreek Dr
+678,Westminster Central,London,7.4,N6N1L7,2835 Westminster Dr
+679,William G Davis,Toronto,7.4,M1C3L6,128 East Ave
+680,Ascension,Burlington,7.3,L7L1V3,5205 New St
+681,Beckwith,Carleton Place,7.3,K7C3P2,1523 9th Line
+682,Berrigan,Nepean,7.3,K2J5C6,199 Berrigan Dr
+683,Brookville,Campbellville,7.3,L0P1B0,11325 Guelph Line
+684,Carrefour des Jeunes,Brampton,7.3,L6V4N4,375 rue Centre N
+685,Claremont,Claremont,7.3,L1Y1A8,1675 Central St
+686,Crossroads,Niagara-on-the-Lake,7.3,L0S1J0,1350 Niagara Stone Road
+687,D M Eagle,St Clair Beach,7.3,N8N1M7,14194 Tecumseh Rd E
+688,da Vinci,Ajax,7.3,L1T0A9,61 Williamson Drive
+689,Escarpment View,Milton,7.3,L9T0T1,351 Scott Blvd.
+690,Francojeunesse,Ottawa,7.3,K1N6S3,119 rue Osgoode
+691,Great Lakes,Brampton,7.3,L6R2R8,285 Great Lakes Drive
+692,Heritage Glen,Oakville,7.3,L6M2Z4,1641 Heritage Way
+693,Highbush,Pickering,7.3,L1V5M5,605 Stroud's Lane
+694,Hunter's Glen,Toronto,7.3,M1K4X5,16 Haileybury Dr
+695,Immaculate Heart of Mary,Stoney Creek,7.3,L8E5H7,190 Glover Road
+696,Indian Road Crescent,Toronto,7.3,M6P2G8,285 Indian Road Cres
+697,Kate S Durdan,Niagara Falls,7.3,L2H2T3,6855 Kalar Rd
+698,Lambeth,London,7.3,N6P1A4,6820 Duffield St
+699,Linklater,Gananoque,7.3,K7G1Y8,300 Stone Street North
+700,Maple Creek,Maple,7.3,L6A2J8,210 Hawker Rd
+701,Mère-Élisabeth-Bruyère,Waterloo,7.3,N2J3W4,280 promenade Glenridge
+702,Milverton,Milverton,7.3,N0K1M0,68 Mill St E Box 457
+703,Mineola,Mississauga,7.3,L5G1Z4,145 Windy Oaks Dr
+704,New Dundee,New Dundee,7.3,N0B2E0,1430 Bridge St
+705,North Agincourt,Toronto,7.3,M1S2J3,60 Moran Rd
+706,North Shore,Keene,7.3,K0L2G0,42 Pinecrest Ave
+707,Northern Lights,Aurora,7.3,L4G7S6,40 Bridgenorth Dr
+708,Norway,Toronto,7.3,M4L1T9,390 Kingston Road
+709,Oneida Central,Caledonia,7.3,N3W2B2,661 4th Line
+710,Our Lady of Good Counsel,Sharon,7.3,L0G1V0,53 Morton Ave
+711,Our Lady of the Assumption,Stoney Creek,7.3,L8J2W9,55 Hwy 20 East
+712,Pope John Paul II,Oakville,7.3,L6M4Z2,2130 Kingsridge Dr
+713,Princess Margaret,Niagara Falls,7.3,L2G2C4,6624 Culp St
+714,Ray Lawson,Brampton,7.3,L6Y0T8,725 Ray Lawson Boulevard
+715,René-Lamoureux,Mississauga,7.3,L4Z1G5,385 boulevard Meadows
+716,Ross Drive,Brampton,7.3,L6R3S7,40 Ross Drive
+717,Saint-Jean-Baptiste,Mississauga,7.3,L5L3T4,1910  Broad Hollow Gate
+718,Saint-Jean-de-Lalande,Toronto,7.3,M1S3Y7,500 cercle Sandhurst
+719,Sir Samuel B Steele,Toronto,7.3,M1W2Y2,131 Huntsmill Blvd
+720,Smith,Grimsby,7.3,L3M4B1,18 Oakes Rd N
+721,St Emily,Woodbridge,7.3,L4H2K8,60 Vellore Woods Blvd
+722,St George,Ottawa,7.3,K1Y0E6,130 Keyworth Ave
+723,St Gregory,Mississauga,7.3,L5V1B9,1075 Swinbourne Dr
+724,St Isaac Jogues,Pickering,7.3,L1V1J6,1166 Finch Ave
+725,St Joan of Arc,Oakville,7.3,L6M4T7,2912 Westoak Trails Blvd
+726,St John Bosco,Barry's Bay,7.3,K0J1B0,99 Peter St Box 339
+727,St Joseph,Uxbridge,7.3,L9P1N7,25 Quaker Village Dr Box 1570
+728,St Julia Billiart,Markham,7.3,L6E1X5,2070 Bur Oak Ave
+729,St Leo,Brooklin,7.3,L1M1H2,120 Watford St
+730,St Michael the Archangel,Vaughan,7.3,L4H3J8,161 Via Campanile
+731,St Sofia,Mississauga,7.3,L4X2M9,3540 Havenwood Dr
+732,St Stephen,Woodbridge,7.3,L4H1Y8,451 Napa Valley Ave
+733,St Veronica,Mississauga,7.3,L5W1C7,680 Novo Star Dr
+734,St. Gabriel,Stoney Creek,7.3,L8E5L1,1361 Barton Street East
+735,Steele Street,Port Colborne,7.3,L3K4X7,214 Steele St
+736,Tecumseh Vista Academy,Tecumseh,7.3,N8N2M1,11665 Shields Street
+737,William E Brown,Wainfleet,7.3,L0S1V0,31870 Lee St Box 148
+738,Willowbrook,Thornhill,7.3,L3T4X6,45 Willowbrook Rd
+739,Allan A Greenleaf,Waterdown,7.2,L0R2H1,211 Parkside Drive
+740,Alpine,Kitchener,7.2,N2E1B4,75 Lucerne Dr
+741,Brechin,Brechin,7.2,L0K1B0,3226 County Rd 47
+742,Brigadoon,Kitchener,7.2,N2R1J7,415 Caryndale Dr
+743,Caledon East,Caledon East,7.2,L7C2W8,15738 Airport Rd
+744,Cornell,Toronto,7.2,M1G1G8,61 Holmfirth Terr
+745,de la Découverte,Cumberland,7.2,K4A4T6,866 av. Scala
+746,Deer Park,Toronto,7.2,M4T2B4,23 Ferndale Ave
+747,Divine Mercy,Maple,7.2,L6A1Z1,251 Melville Ave
+748,Edmison Heights,Peterborough,7.2,K9H6P9,1111 Royal Dr
+749,Elizabeth Ziegler,Waterloo,7.2,N2J1X2,90 Moore Ave S
+750,Emily Carr,Toronto,7.2,M1B2V2,90 John Tabor Trail
+751,Glenn Gould,Vaughan,7.2,L4H2G1,675 Vellore Park Avenue
+752,Greensborough,Markham,7.2,L6E1J5,80 Alfred Patterson Dr
+753,Hartman,Aurora,7.2,L4G7T7,130 River Ridge Blvd
+754,Hawthorn,Mississauga,7.2,L5C1X1,2473 Rosemary Dr
+755,Holy Cross,Halton Hills,7.2,L7G1X2,222 Maple Ave
+756,Holy Cross,Thunder Bay,7.2,P7B5X8,420 Brittany Dr
+757,Immaculate Conception,Ancaster,7.2,L9K0C3,470 Kitty Murray Lane
+758,John A Leslie,Toronto,7.2,M1N4A7,459 Midland Ave
+759,Kedron,Oshawa,7.2,L1H7K5,1935 Ritson Rd N
+760,Lydia Trull,Courtice,7.2,L1E3C2,80 Avondale Dr
+761,Mary Johnston,Waterloo,7.2,N2T2C6,475 Brynhurst Blvd
+762,Milliken Mills,Unionville,7.2,L3R3J3,289 Risebrough Circuit
+763,Minesing Central,Minesing,7.2,L0L1Y0,7 Huron St
+764,Mother Cabrini,Toronto,7.2,M9C2N9,720 Renforth Dr
+765,Mother Teresa,Walkerton,7.2,N0G2V0,81 Cemetery Rd Box 1330
+766,Northlake Woods,Waterloo,7.2,N2V2A4,500 Northlake Dr
+767,Notre Dame,Newmarket,7.2,L3X1L4,715 Kingsmere Ave
+768,Orchard Park,London,7.2,N6G1R6,50 Wychwood Park
+769,Orchard Park,Niagara Falls,7.2,L2J3A6,3691 Dorchester Rd
+770,Pickering,Pickering,7.2,L1V2P8,2235 chemin Brock
+771,Sacred Heart,Langton,7.2,N0E1G0,26 Albert St Box 70
+772,Saint-Jean-Baptiste,L'Orignal,7.2,K0B1K0,35 rue Longueuil
+773,Saint-Joseph,Wawa,7.2,P0S1K0,101 avenue Churchill CP 220
+774,St Anne's,Cornwall,7.2,K6J2H5,607 Surgenor Ave
+775,St Anselm,Toronto,7.2,M4G3J9,182 Bessorough Dr
+776,St Clement,St Clements,7.2,N0B2M0,3639 Lobsinger Line
+777,St Cornelius,Caledon East,7.2,L7C2Z2,16066 Innis Lake Rd
+778,St Denis,Toronto,7.2,M4E3B8,67 Balsam Ave
+779,St Francis of Assisi,Toronto,7.2,M6G2Y3,80 Clinton St
+780,St Jean de Brebeuf,Toronto,7.2,M1B2X2,101 Dean Park Rd
+781,St Luke,Oakville,7.2,L6J7G5,2750 Kingsway Dr
+782,St Luke,Waterloo,7.2,N2K4G5,550 Chesapeake Dr
+783,St Mary,Campbellford,7.2,K0L1L0,35 Centre St Box 1120
+784,St Mary,Nobleton,7.2,L0G1N0,75 Greenside Dr PO Box 809
+785,St Matthias,Toronto,7.2,M2J2S8,101 Van Horne Ave
+786,St Simon Stock,Mississauga,7.2,L5N6X3,6440 Lisgar Dr
+787,St Theresa,London,7.2,N6K3E6,108 Fairlane Ave
+788,St. Dominic,Cumberland,7.2,K4A0T5,2300 Esprit Dr
+789,Sunset Heights,Oshawa,7.2,L1G4G7,1130 Mohawk St
+790,Thornhill Woods,Thornhill,7.2,L4J8V6,341 Thornhill Woods Dr
+791,Unionville,Unionville,7.2,L3R2H2,300 Main St
+792,Walsh,Simcoe,7.2,N3Y4K1,933 St John's Road West
+793,Westminster Woods,Guelph,7.2,N1L0G7,140 Goodwin Dr
+794,Zone Township Central,Bothwell,7.2,N0P1C0,730 Main St N Box 280
+795,Agnew H Johnston,Thunder Bay,7.1,P7C1V6,145 Churchill Dr
+796,Algonquin Ridge,Barrie,7.1,L4N9R6,191 Golden Meadow Rd
+797,Anne J. MacArthur,Milton,7.1,L9T8J6,820 Farmstead Drive
+798,Anson Park,Toronto,7.1,M1M1X5,30 MacDuff Cres
+799,Beaumonde Heights,Toronto,7.1,M9V1T1,70 Monterrey Dr
+800,Blessed Margherita of Citta Castello,Toronto,7.1,M3L1Z5,108 Spenvalley Dr
+801,Brookside,Toronto,7.1,M1X0A3,75 Oasis Blvd
+802,Captain R Wilson,Oakville,7.1,L6M4S7,2145 Grand Oak Trail
+803,Falgarwood,Oakville,7.1,L6H2H7,1385 Gainsborough Dr
+804,First Avenue,Ottawa,7.1,K1S2G1,73 First Ave
+805,Forestview,Niagara Falls,7.1,L2H0B9,8406 Forestview Blvd
+806,Giles Campus French Immersion,Windsor,7.1,N9A4E8,874 Giles Blvd.
+807,Glamorgan,Toronto,7.1,M1P4N4,51 Antrim Cres
+808,Hawthorne II Bilingual,Toronto,7.1,M6G1T3,50 Essex St
+809,Hespeler,Cambridge,7.1,N3C3J6,300 Winston Blvd
+810,Holy Cross,Kemptville,7.1,K0G1J0,521 Clothier Street West Box 250
+811,Jean-Paul II,Stittsville,7.1,K2S0A8,5473 Rue Abbott Est
+812,Jean-Paul II,Whitby,7.1,L1N2A3,1001 avenue Hutchison
+813,John McCrae,Guelph,7.1,N1G1B3,189 Water St
+814,Joseph A Gibson,Maple,7.1,L6A1R8,50 Naylon St
+815,Kortright Hills,Guelph,7.1,N1C1B5,23 Ptarmigan Dr
+816,Lorna Jackson,Woodbridge,7.1,L4H1R1,589 Napa Valley Ave
+817,Mother Teresa,Kingston,7.1,K7P2L6,1044 Lancaster Dr
+818,Mountsfield,London,7.1,N6C2S4,8 Mountsfield Dr
+819,Murray Centennial,Trenton,7.1,K8V5P4,654 County Rd 40
+820,Nativity of Our Lord,Toronto,7.1,M9C3T8,35 Saffron Cres
+821,Nelles,Grimsby,7.1,L3M1N8,118 Main St E
+822,North Kipling,Toronto,7.1,M9V5C7,2 Rowntree Rd
+823,Notre Dame,Caledonia,7.1,N3W2M5,35 Braemar Ave
+824,Notre-Dame-de-la-Jeunesse,Ajax,7.1,L1S6S5,71 avenue Ritchie
+825,Our Lady of Hope,Richmond Hill,7.1,L4E4B8,80 Red Cardinal Trail
+826,Pine Grove,Woodbridge,7.1,L4L1R2,86 Gamble St
+827,Port Weller,St Catharines,7.1,L2M1W4,273 Parnell Rd
+828,Ramer Wood,Markham,7.1,L3P7M8,11 Cairns Dr
+829,Riverview Central,Port Lambton,7.1,N0P2B0,3926 Clair Pkwy St
+830,S A Cawker,Port Perry,7.1,L9L1P3,16200 Old Simcoe Rd
+831,Sacred Heart,Paris,7.1,N3L0A9,180 GRANDVILLE CIR
+832,Sainte-Marie,Oakville,7.1,L6K2X3,336 promenade Maurice
+833,Saint-Jean,Aurora,7.1,L4G3K4,90 promenade Walton
+834,South Dorchester,Belmont,7.1,N0L1B0,48614 Crossley Hunter Line
+835,Spencer Avenue,Orangeville,7.1,L9W5E6,15 Spencer Ave
+836,St Albert of Jerusalem,Mississauga,7.1,L5N7G6,7185 Rosehurst Dr
+837,St Ann,Ancaster,7.1,L9G1W1,24 Fiddler's Green Rd
+838,St Basil,Mississauga,7.1,L4W3G1,4235 Golden Orchard Dr
+839,St Catherine of Alexandria,Georgetown,7.1,L7G5H7,407 Barber Dr
+840,St Elizabeth Seton,Pickering,7.1,L1V6W7,490 Strouds Lane
+841,St John Chrysostom,Newmarket,7.1,L3X2S6,800 Joe Persechini Dr
+842,St Johns,Burlington,7.1,L7R2H1,653 Brant St
+843,St Joseph,Grimsby,7.1,L3M3C8,5 Robinson St N
+844,St Joseph's,Simcoe,7.1,N3Y2S8,34 Potts Rd
+845,St Louis,Mississauga,7.1,L5J3R3,1450 Lewisham Dr
+846,St Matthew the Evangelist,Whitby,7.1,L1R1S6,60 Willowbrook Dr
+847,St Patrick,Brampton,7.1,L6P0A2,11948 The Gore Rd
+848,St Patrick,Burlington,7.1,L7L4L8,200 Kenwood Ave
+849,St Robert,Toronto,7.1,M3H2K2,70 BAINBRIDGE AVE
+850,St Thomas Aquinas,Toronto,7.1,M6E3G9,636 Glenholme Ave
+851,St Timothy,Kitchener,7.1,N2P1T4,15 Bechtel Dr
+852,St Timothy,Toronto,7.1,M2J1Y3,25 Rochelle Cres
+853,St Vincent de Paul,Toronto,7.1,M6R1M2,116 Fermanagh Ave
+854,Stephen Central,Crediton,7.1,N0M1N0,70042 Goshen Line
+855,Sunderland,Sunderland,7.1,L0C1H0,41 Albert St Box 9
+856,The Holy Trinity,Toronto,7.1,M8V4B7,6 Colonel Samuel Smith Park Drive
+857,The Queen Elizabeth,Perth,7.1,K7H1M4,80 Wilson Street East
+858,Vincent Massey,Ottawa,7.1,K1G1N9,745 Smyth Rd
+859,Vista Hills,Waterloo,7.1,N2V0B3,314 Sweet Gale Street
+860,Wellesley,Wellesley,7.1,N0B2T0,1059 Queen's Bush Rd
+861,Wellington Heights,Fenwick,7.1,1C0,9 Alsop Ave
+862,Westwind,Stittsville,7.1,K2S2G1,111 Hartsmere DR
+863,Williamsburg,Whitby,7.1,L1P1W7,20 Kirkland Place
+864,Admiral Collingwood,Collingwood,7,L9Y4N9,15 Dey Dr
+865,Ange-Gabriel,Brockville,7,K6V6H9,1515 prom. Kensington
+866,Arran Tara,Tara,7,N0H2N0,106 Brook St W
+867,Aurora Grove,Aurora,7,L4G6Z5,415 Stone Rd
+868,Barbara Reid,Stouffville,7,L4A1S5,130 Hoover Park Dr
+869,Belle River,Belle River,7,N0R1A0,370 St. Peter St Box 388
+870,Bobcaygeon,Bobcaygeon,7,K0M1A0,30 Balaclava St Box 880
+871,Brookdale,Oakville,7,L6L2C3,1195 Bridge Rd
+872,Canadian Martyrs,Newmarket,7,L3Y6R5,170 London Rd
+873,Carl A Nesbitt,Sudbury,7,P3A3M5,1241 Roy St
+874,Castlemore,Brampton,7,L6P0A7,9916 THE GORE RD  9916 The Gore Road
+875,Charles-Sauriol,Toronto,7,M6N1A5,55 avenue Pelham
+876,College Street,Smithville,7,L0R2A0,132 College St Box 370
+877,Devins Drive,Aurora,7,L4G2Z4,70 Devins Dr
+878,Empire,Waterloo,7,N2L2M1,83 Empire St
+879,Fern Avenue,Toronto,7,M6R1K3,128 Fern Ave
+880,Forest Hill,Midhurst,7,L0L1X0,16 Doran Rd
+881,Fr Fenelon,Pickering,7,L1W2K2,795 Eyer Drive
+882,Grand View,Cambridge,7,N3H3G2,1144 Hamilton St
+883,Grapeview,St Catharines,7,L2R6P9,106 First St Louth
+884,Greendale,Niagara Falls,7,L2H1K7,5504 Montrose Rd
+885,Guardian Angels,Hamilton,7,L8N2Z7,705 Centre Rd
+886,Heritage Park,Toronto,7,M1B5J2,80 Old Finch Ave East
+887,Holy Name of Mary,St Marys,7,N4X1B2,161 Peel St Box 428
+888,Holy Rosary,Toronto,7,M5P2Y1,308 Tweedsmuir Ave
+889,Horizon Jeunesse,Mississauga,7,L5J3R2,1445 promenade Lewisham
+890,Irma Coulson,Milton,7,L9T8M4,625 Sauve Street
+891,J L Jordan,Brockville,7,K6V3B7,294 First Ave
+892,John Dearness,London,7,N6H3W6,555 Sanatorium Rd
+893,John Dryden,Whitby,7,L1R2A1,40 Rolling Acres Dr
+894,King George,Guelph,7,N1E2H5,72 Lemon St
+895,King George,Toronto,7,M6S2M2,25 Rexford Rd
+896,Marguerite-Bourgeois,Borden,7,L0M1C0,117 chemin Waterloo est
+897,Martha Cullimore,Niagara Falls,7,L2J2R7,3155 St Andrew Ave
+898,Meadowvale,Toronto,7,M1C1T1,761 Meadowvale Rd
+899,Merlin Area,Merlin,7,N0P1W0,21184 Erie St N 160
+900,Michaëlle-Jean,Ottawa,7,K2J5A3,11 promenade Claridge
+901,Montgomery Village,Orangeville,7,L9W5H6,70 Montgomery Blvd
+902,Mountain View,Collingwood,7,L9Y3H1,300 Spruce St
+903,N A MacEachern,Waterloo,7,N2L4Z9,580 Rolling Hills Dr
+904,Notre Dame,Windsor,7,N9E3A9,2751 Partington Ave
+905,Our Lady of Fatima,Cambridge,7,N3C2H5,55 Hammet St
+906,Our Lady of Mount Carmel,Niagara Falls,7,L2G5K4,6525 Carlton Ave
+907,Our Lady of Sorrows,Petawawa,7,K8H2G7,19 Mohns Ave
+908,Parkview,Komoka,7,N0L1R0,10008 Oxbow Dr
+909,Percy P McCallum,Windsor,7,N8Y2C2,4195 Milloy St
+910,Randall,Markham,7,L3S1E2,50 Randall Ave
+911,Regent Heights,Toronto,7,M1L3H1,555 Pharmacy Ave
+912,Robert Munsch,Whitby,7,L1R0J2,20 Norista Street
+913,Sainte-Jeanne-d'Arc,Brampton,7,L6S4C4,25 rue Laurelcrest
+914,Seaforth,Seaforth,7,N0K1W0,58 Chalk North St N Box 609
+915,Simcoe Street,Niagara Falls,7,L2E1V6,4760 Simcoe St
+916,South River,South River,7,P0A1X0,137 Ottawa Ave Box 370
+917,St Catherine of Siena,Ajax,7,L1T3P1,15 Bennett Ave
+918,St Catherine of Siena,London,7,N6G5L4,2140 Quarrier Rd
+919,St Dominic Savio,Kitchener,7,N2N3A6,3 Westforest Trail
+920,St Edward,Toronto,7,M2N2M5,21 Eddfield Ave
+921,St Hedwig,Oshawa,7,L1H2R2,421 Olive Ave
+922,St John,Toronto,7,M4E1R7,780 Kingston Rd
+923,St John Vianney,Windsor,7,N8S1K9,8405 Cedarview St
+924,St Joseph,Stratford,7,N5A2Y2,363 St Vincent St
+925,St Malachy,Toronto,7,M1E3Y3,80 Bennett Rd
+926,St Margaret Mary,Hamilton,7,L8T3V9,25 Brentwood Dr
+927,St Marguerite D'Youville,Richmond Hill,7,L4E4L2,121 ROLLINGHILL RD
+928,St Mary's,Chesterville,7,K0C1H0,37 Main St Box 429
+929,St Matthew,Binbrook,7,L0R1C0,200 Windwood Dr
+930,St Matthew,Waterloo,7,N2K3V6,405 Pastern Trail
+931,St Patrick's,Woodstock,7,N4S2N6,344 Parkinson Rd
+932,St Thomas Aquinas,Keswick,7,L4P3C8,262 Old Homestead Road 19
+933,St Timothy,Burlington,7,L7M4C7,2141 Deer Run Ave
+934,St. Brother André,Gloucester,7,K1J8G7,1923 Elmridge Dr
+935,St. Jean-Marie Vianney,Brampton,7,L6X0S1,75 Jordensen Drive
+936,St. John,London,7,N6B1E5,449 Hill St
+937,Stella Maris,Amherstburg,7,N9V2X3,140 Girard St
+938,Stonecrest,Woodlawn,7,K0A3M0,3791 Stonecrest Rd
+939,Sunnybrae,Innisfil,7,L9S1A8,218 Sunnybrae Ave Box 7050
+940,Sydenham,Kingston,7,K7L3H7,5 Clergy St E
+941,Teston Village,Maple,7,L6A3G1,80 Murray Farm Lane
+942,Toniata,Brockville,7,K6V2A4,24 Scace Avenue
+943,Westminster,Thornhill,7,L4J2P3,366 Mullen Dr
+944,William G Davis,Windsor,7,N8T2H9,2855 Rivard Avenue
+945,Woodbridge,Woodbridge,7,L4L1J7,60 Burwick Ave
+946,A V Graham,Tecumseh,6.9,N8N2G5,815 BRENDA CRES
+947,Ashton Meadows,Markham,6.9,L6C1T5,230 Calvert Rd
+948,Ayr,Ayr,6.9,N0B1E0,105 Hall St 1182
+949,Brother Andre,Ajax,6.9,L1T4Y4,60 Seggar Ave
+950,Bruce T Lindley,Burlington,6.9,L7P4K5,2510 Cavendish Dr
+951,Burrows Hall,Toronto,6.9,M1B1M5,151 Burrows Hall Blvd
+952,Canadian Martyrs,Toronto,6.9,M4C2Z1,520 Plains Rd
+953,Carrefour Jeunesse,Rockland,6.9,K4K1P4,927 rue St-Jean
+954,Centennial Central,Comber,6.9,N0P1J0,6420 Taylor Ave Box 10
+955,Central Manitoulin,Mindemoya,6.9,P0P1S0,56 Yonge St Box 188
+956,Chris Hadfield,Milton,6.9,L9T5P5,1114 Woodward Ave
+957,Connaught,St Catharines,6.9,L2R3X7,28 Prince St
+958,Cornell Village,Markham,6.9,L6B1B5,186 Country Glen Rd
+959,Crossland,Newmarket,6.9,L3X1H8,255 Brimson Dr
+960,Dufferin,Brantford,6.9,N3T4C6,106 Chestnut St
+961,Edith Cavell,St Catharines,6.9,L2S1L5,1 Monck St
+962,Elgin Street,Ottawa,6.9,K2P1M4,310 Elgin St
+963,George P Mackie,Toronto,6.9,M1M3B1,60 Heathfield Dr
+964,Gladys Speers,Oakville,6.9,L6L2P6,2150 Samway Rd
+965,Goodwood,Goodwood,6.9,L0C1A0,4340 Front St
+966,Henry Larsen,Gloucester,6.9,K1C5B3,1750 Sunview Dr
+967,Highland Creek,Toronto,6.9,M1C1A8,1410 Military Trail
+968,Hillcrest,Cambridge,6.9,N3C2T5,31 Renwick Ave
+969,Holy Family,Wallaceburg,6.9,N8A1W1,649 Murray St
+970,Holy Name,Kingston,6.9,K7L5H6,370 Kingston Mills Road  370 Kingston Mills Road
+971,Islington,Toronto,6.9,M9A2H5,44 Cordova Ave
+972,J W Gerth,Kitchener,6.9,N2P0A1,171 Appleridge Dr
+973,Jacques-Cartier,Kapuskasing,6.9,P5N2T2,8 chemin Brunelle Sud
+974,James Morden,Niagara Falls,6.9,L2G5V6,7112 Dorchester Rd
+975,Jeanne-Sauvé,Orléans,6.9,K4A2Y7,1917 chemin Gardenway
+976,Kateri Tekakwitha,Markham,6.9,L3P4B5,230 Fincham Ave
+977,Lake Wilcox,Richmond Hill,6.9,L4E3B5,80 Wildwood Ave
+978,Lester B Pearson,Waterloo,6.9,N2K4G5,520 Chesapeake Dr
+979,Little Rouge,Markham,6.9,L6B1E8,571 Country Glen Road
+980,Malden Central,Amherstburg,6.9,N9V2Y8,5620 County Rd 20
+981,Maple Ridge,Orléans,6.9,K4A4B5,1000 Valin St
+982,Mapleview Heights,Barrie,6.9,L4N9S9,180 Esther Dr
+983,Mountain Ash,Brampton,6.9,L6R3G2,280 Mountainash Rd
+984,Norwood Park,Hamilton,6.9,L9A2Z2,165 Terrace Drive
+985,Notre Dame,London,6.9,N6H4N1,767 Valetta St
+986,Our Lady of Grace,Aurora,6.9,L4G6C4,120 Aurora Heights Dr
+987,Pope John Paul II,Hammond,6.9,K0A2A0,3818 Legault Rd 159
+988,Pringle Creek,Whitby,6.9,L1N8M1,80 Ribblesdale Dr
+989,R A Riddell,Hamilton,6.9,L9C4S9,200 Cranbrook Drive
+990,R H Cornish,Port Perry,6.9,L9L1K2,494 Queen St
+991,Rogers,Newmarket,6.9,L3Y1G6,256 Rogers Rd
+992,Rose des Vents,Cornwall,6.9,K6H2C3,1650  2ième Rue Est
+993,Ryerson Heights,Brantford,6.9,N3T0A3,33 Dowden Ave
+994,Sacred Heart,Brampton,6.9,L6Z1Y1,24 Kerwood Place
+995,Sacred Heart,Parkhill,6.9,N0M2K0,148 Ann St P.O.Box 40
+996,Saint-Isidore,St-Isidore,6.9,K0C2B0,20 rue de l'École C.P. 40
+997,Saint-Pierre,Sudbury,6.9,P3B3P5,70 rue Wilfred
+998,Sam Sherratt,Milton,6.9,L9T4N4,649 Laurier Ave
+999,Settler's Green,Mississauga,6.9,L5N2S1,5800 Montevideo Rd
+1000,Sharon,Sharon,6.9,L0G1V0,18532 Leslie St
+1001,Southwold,St Thomas,6.9,N5P3S5,39261 Fingal Line
+1002,Springfield,Mississauga,6.9,L5C2J7,3251 THE CREDIT WOODLANDS
+1003,St Eugene,Toronto,6.9,M9P2C3,30 Westroyal Rd
+1004,St Gabriel the Archangel,Woodbridge,6.9,L4L5S4,91 Fiori Dr
+1005,St James the Apostle,Stoney Creek,6.9,L8J1C5,29 John Murray St
+1006,St Joachim,Toronto,6.9,M1L1W3,3395 St Clair Ave E
+1007,St John Fisher,Forest,6.9,N0N1J0,44 Main St Box 520
+1008,St Lawrence's,Hamilton,6.9,L8L3X3,88 Macaulay Street East
+1009,St Margaret,Cambridge,6.9,N1T1V4,210 Cowan Blvd
+1010,St Nicholas,Newmarket,6.9,L3X1V5,480 Keith Ave
+1011,St Norbert,Toronto,6.9,M3K1R6,60 Maniza Rd
+1012,St Paul,Guelph,6.9,N1L1N4,182 Clairfields Dr E
+1013,St Paul,Kingston,6.9,K7M3H2,266 McMahon Ave
+1014,St Stephen,Stittsville,6.9,K2S0M5,1145 Stittsville Main Street
+1015,St Wilfrid,Pickering,6.9,L1X2S9,2360 Southcott Rd
+1016,St William,Emeryville,6.9,N0R1C0,1217 Faith Dr. Box 130
+1017,St. Mary,Oakville,6.9,L6M0B7,2175 Colonel William Pky
+1018,Sts Peter & Paul,Hamilton,6.9,L9A1R5,49 Fennell Ave E
+1019,Thamesford,Thamesford,6.9,N0M2M0,130 McCarty St Box 250
+1020,Thorndale,Brampton,6.9,L6P1K5,133 Thorndale Road
+1021,Treeline,Brampton,6.9,L6P1E7,145 Treeline Blvd
+1022,Valley Central,Thunder Bay,6.9,P7J0B8,563 Candy Mountain Drive
+1023,Alexmuir,Toronto,6.8,M1V1H6,95 Alexmuir Blvd
+1024,Balaclava,Carlisle,6.8,L0R1H0,280 10th Concession East Box 60
+1025,Beryl Ford,Brampton,6.8,L6P3N5,45 Ironshield Drive
+1026,Blessed Trinity,Maple,6.8,L6A2R2,230 Hawker Rd
+1027,Bridgeport,Kitchener,6.8,N2K1K6,59 Bridge St W
+1028,Cathcart Boulevard,Sarnia,6.8,N7S2H7,1219 Cathcart Blvd
+1029,catholique L'Envol,Trenton,6.8,K8V6V7,45 prom. Johnson
+1030,Central,Bowmanville,6.8,L1C1V9,120 Wellington St
+1031,Chapel Hill,Orléans,6.8,K1C6G9,1534 Forest Valley Dr
+1032,Charles G Fraser,Toronto,6.8,M6J2K6,79 Manning Ave
+1033,Coppard Glen,Markham,6.8,L3S2T5,131 Coppard Ave
+1034,Danforth Gardens,Toronto,6.8,M1L4H4,20 Santamonica Blvd
+1035,DeWitt Carter,Port Colborne,6.8,L3K1X4,435 Fares St
+1036,Dr. David Suzuki,Windsor,6.8,N8S1Z9,6320 RAYMOND AVE
+1037,Drayton Heights,Drayton,6.8,N0G1P0,75 Wellington St S Box 40
+1038,Duke of Connaught,Toronto,6.8,M4L2W6,70 Woodfield Rd
+1039,Fairlawn,Caledon,6.8,L7C2P9,12175 Bramalea Road
+1040,Father Clair Tipping,Brampton,6.8,L6R1J3,25 Mountainberry Rd
+1041,Fossil Hill,Woodbridge,6.8,L4H2P5,2 Firenza Rd
+1042,Good Shepherd,Newmarket,6.8,L9N0H2,19112 2nd Concession Road
+1043,Guardian Angels,Vaughan,6.8,L4H0Z5,200 Lawford Road
+1044,H G Bernard,Richmond Hill,6.8,L4S1E1,245 Bernard Ave
+1045,Harrison,Toronto,6.8,M2L1V9,81 Harrison Rd
+1046,Huntley Centennial,Carpion,6.8,K0A1L0,118 Langstaff Dr P.O. Box 100
+1047,John William Boich,Burlington,6.8,L7L0G2,2474 Sutton Dr
+1048,Kilbride,Kilbride,6.8,L7P0L8,6611 Panton St
+1049,Lincoln Centennial,St Catharines,6.8,L2N1J5,348 Scott St
+1050,Lombardy,Lombardy,6.8,K0G1L0,596 Highway #15
+1051,Lorenville,Brampton,6.8,L6X2Z9,10 Lorenville Drive
+1052,Margaret Twomey,Marathon,6.8,P0T2E0,21 Chisholm Trail Box 660
+1053,Mary Ward,Niagara Falls,6.8,L2J2Z9,2999 Dorchester Rd
+1054,Mother Teresa,St Catharines,6.8,L2S2T5,125 First St Louth
+1055,Our Lady of Fatima,Chatham,6.8,N7L5A9,545 Baldoon Rd
+1056,Our Lady of Fatima,Woodbridge,6.8,L4L7G3,191 Crofters Rd
+1057,Our Lady of Wisdom,Orléans,6.8,K1E1R2,1565 St Georges St
+1058,Percy Centennial,Warkworth,6.8,K0K3K0,129 Church St Box 70
+1059,Phoebe Gilman,East Gwillimbury,6.8,L9N0C1,145 Harvest Hills Blvd
+1060,Princess Elizabeth,Orangeville,6.8,L9W1C5,51 Elizabeth St
+1061,Queenston Drive,Mississauga,6.8,L5C2G6,3520 Queenston Dr
+1062,Reine-des-Bois,Cumberland,6.8,K1E1E6,1450 rue Duford
+1063,River Heights,Caledonia,6.8,N3W1L6,37 Forfar St E
+1064,Sacred Heart of Jesus,Burlington,6.8,L7M4S5,2222 Country Club Dr
+1065,Sainte-Geneviève,Ottawa,6.8,K1G2H7,2198 rue Arch
+1066,Sainte-Lucie,Long Sault,6.8,K0C1P0,17 337 rue Dow
+1067,Sir Albert Love,Oshawa,6.8,L1G6E6,425 Wilson Rd N
+1068,Sir Winston Churchill,Nepean,6.8,K2E6M7,49 Mulvagh Ave
+1069,Spencer Valley,Greensville,6.8,L9H6A7,441 Old Brock Road
+1070,St Agnes,Waterloo,6.8,N2J2M3,254 Neilson Ave
+1071,St Agnes of Assisi,Woodbridge,6.8,L4H2A9,120 La Rocca Ave
+1072,St Barbara,Mississauga,6.8,L5N7Z2,1455 Samuelson Circle
+1073,St Bernard,Ottawa,6.8,K1T1K8,1722 St Bernard St
+1074,St Boniface,Maryhill,6.8,N0B2B0,1354 Maryhill Rd
+1075,St Catherine,Metcalfe,6.8,K0A2P0,2717 8th Line Rd
+1076,St Cecilia,Toronto,6.8,M6P1R3,355 Annette St
+1077,St Francis of Assisi,Mississauga,6.8,L5K1K5,2480 Thorn Lodge Dr
+1078,St Francis of Assisi,Orléans,6.8,K4A2T2,795 Watters Rd
+1079,St Francis of Assisi,Petawawa,6.8,K8H1L3,18 Regalbuto Ave
+1080,St Gabriel,Windsor,6.8,N9E1L8,1400 Roselawn Dr
+1081,St Mary,Gloucester,6.8,K1X1G9,5536 BANK ST
+1082,St Peter's,Cornwall,6.8,K6H6P1,1811 Second Street East
+1083,St Philip,Petrolia,6.8,N0N1R0,420 Queen St Box 490
+1084,St Raphael,Mississauga,6.8,L4T2C7,3470 Clara Dr
+1085,St Rene Goupil-St Luke,Thornhill,6.8,L3T6K7,135 Green Lane
+1086,St Rita,Brampton,6.8,L6Z4V6,30 Summer Valley Dr
+1087,St Sebastian,Mississauga,6.8,L5M7L2,3460 Aquinas Ave
+1088,Ste-Jeanne-d'Arc,London,6.8,N5V5C1,35 Lane Fallons
+1089,Summitview,Stouffville,6.8,L4A5Z4,6551 Main St
+1090,Taylor Evans,Guelph,6.8,N1K1T1,271 Stephanie Dr
+1091,Terry Fox,Newmarket,6.8,L3X2T1,161 Sawmill Valley Dr
+1092,Vellore Woods,Woodbridge,6.8,L4H2T9,115 Starling Blvd
+1093,Vradenburg,Toronto,6.8,M1T1M6,50 Vradenberg Dr
+1094,William C. Winegard,Guelph,6.8,N1E2H5,72 Lemon St
+1095,Adelaide - W G MacDonald,Strathroy,6.7,N7G3H6,29059 School Road
+1096,Aldergrove,Unionville,6.7,L3R6Z8,150 Aldergrove Dr
+1097,Bath,Bath,6.7,K0H1G0,247 Church St 298
+1098,Beaver Valley,Thornbury,6.7,N0H2P0,189 Bruce St Box 340
+1099,Bishop Scalabrini,Thornhill,6.7,L4J3B6,290 York Hill Blvd
+1100,Blessed John XXIII,Toronto,6.7,M3C3E7,175 Grenoble Dr
+1101,Boxwood,Markham,6.7,L3S3P7,30 Boxwood Cres
+1102,Brisbane,Erin,6.7,N0B1T0,9426 WELLINGTON RD 124
+1103,Cadarackque,Ajax,6.7,L1Z1C7,15 Miles Dr L1G5T8
+1104,Cambridge,Embrun,6.7,K0A1W0,2123 Route 500 West
+1105,Carruthers Creek,Ajax,6.7,L1S7N6,1 Greenhalf Dr
+1106,Cathedral,Pembroke,6.7,K8A5S7,200 Isabella St
+1107,Cedarbrook,Toronto,6.7,M1J2V6,56 Nelson St
+1108,Chris Hadfield,Bradford,6.7,L3Z1L9,177 Church St 434
+1109,Doncrest,Richmond Hill,6.7,L4B2B1,124 Blackmore Ave
+1110,Edgewater Park,Thunder Bay,6.7,P7C1H2,511 West Victoria Ave
+1111,Father Henri J M Nouwen,Richmond Hill,6.7,L4C0E6,121 Larratt Lane
+1112,Ferndale,St Catharines,6.7,L2P1V8,35 Ferndale Ave
+1113,Foxboro,Foxboro,6.7,K0K2B0,658 Ashley St
+1114,Fred A Hamilton,Guelph,6.7,N1G3R4,160 Ironwood Rd
+1115,George B Little,Toronto,6.7,M1G3G9,125 Orton Park Rd
+1116,Glen Ravine,Toronto,6.7,M1K4V4,11 Gadsby Dr
+1117,Good Shepherd,Courtice,6.7,L1E3B9,20 Farmington Dr
+1118,Gosfield North Central,Cottam,6.7,N0R1B0,302 Country Rd 27
+1119,Grand Bend,Grand Bend,6.7,N0M1T0,15 Gill Rd Box 520
+1120,Holy Cross,Sudbury,6.7,P3E4X5,2997 ALGONQUIN RD
+1121,Holy Rosary,Waterloo,6.7,N2T1W5,485 Thorndale Dr
+1122,Humewood,Toronto,6.7,M6C2X4,15 Cherrywood Ave
+1123,Huron Street,Toronto,6.7,M5R2R6,541 Huron St
+1124,Jack Callaghan,Lindsay,6.7,K9V4R5,5 Tracey's Hill Rd
+1125,King George VI,Sarnia,6.7,N7V4H7,585 O'Dell Ave
+1126,Kleinburg,Kleinburg,6.7,L0J1C0,10391 Islington Ave
+1127,Les Rapides,Sarnia,6.7,N7S2B5,1103 av Michigan
+1128,L'Harmonie,Waterloo,6.7,N2J2K4,158 Rd Bridgeport E
+1129,Lord Roberts,Toronto,6.7,M1K3W5,165 Lord Roberts Dr
+1130,Loretto,Niagara Falls,6.7,L2H2T3,6855 Kalar Rd
+1131,Marie-Tanguay,Cornwall,6.7,K6H2X1,1500 boulevard Holy Cross
+1132,Maryborough,Moorefield,6.7,N0G2K0,73 McGivern St Box 10
+1133,McMurrich,Toronto,6.7,M6G3S8,115 Winona Dr
+1134,Mount Albion,Stoney Creek,6.7,L8J2E5,24 Kennard Street
+1135,Newcastle,Newcastle,6.7,L1B1M5,50 Glass Crt Box 12
+1136,Norman G. Powers,Oshawa,6.7,L1K3B5,1555 Coldstream Drive
+1137,Nor'wester View,Thunder Bay,6.7,P7J1C8,1946 Mountain Rd
+1138,Our Lady of Providence,Brampton,6.7,L6R1B9,35 Black Oak Dr
+1139,P. L. Robertson,Milton,6.7,L9T2C9,840 Scott Blvd.
+1140,Regal Road,Toronto,6.7,M6H2J6,95 Regal Rd
+1141,Rideau Vista,Westport,6.7,K0G1X0,9921 County Road #42  42
+1142,Roberta Bondar,Brampton,6.7,L6Y5N2,30 PANTOMINE BLVD
+1143,Ross,Welland,6.7,L3C1K9,358 Niagara St
+1144,Saint-Antoine,Tecumseh,6.7,N8N1X6,1317 chemin Lesperance
+1145,Saint-Jean-Bosco,Caledon,6.7,L7C4C3,55 Abbotside
+1146,Shaw,Brampton,6.7,L6R3K2,10 Father Tobin Rd
+1147,Sir William Osler,Dundas,6.7,L9H5P8,330 Governor's Road
+1148,Southwood Park,Ajax,6.7,L1S1M5,28 Lambard Cres
+1149,St Agnes,Brampton,6.7,L6Z4G6,103 Richvale Dr S
+1150,St Andrew's,St. Andrew's West,6.7,K0C2A0,17283 County Road 18 40 17283
+1151,St Anthony,St Catharines,6.7,L2S1Z2,81 Rykert St
+1152,St Elizabeth Ann Seton,Nepean,6.7,K2J2Z8,41 Weybridge Dr
+1153,St Hubert,North Bay,6.7,P1B8M2,850 Lorne Ave
+1154,St Ignatius of Loyola,Toronto,6.7,M1S4B4,2350 McCowan Rd
+1155,St Jean Brebeuf,Brampton,6.7,L6S1L8,63 Glenforest Rd
+1156,St Jerome,Toronto,6.7,M3J1P5,111 Sharpecroft Blvd
+1157,St John the Apostle,Nepean,6.7,K2H7C5,30 Costello Avenue
+1158,St Joseph,Tilbury,6.7,N0P2L0,43 St Clair St Box 368
+1159,St Joseph The Worker,Thornhill,6.7,L4J5Y6,475 Brownridge Dr
+1160,St Josephine Bakhita,Brampton,6.7,L7A0J2,430 Van Kirk Drive
+1161,St Joseph's,Gananoque,6.7,K7G1M9,235 Georgiana St
+1162,St Peter,St Catharines,6.7,L2T2B7,7 Aberdeen Circle
+1163,St Teresa of Avila,Elmira,6.7,N3B1G5,89 First St W  69
+1164,St Vincent's,Oakville,6.7,L6J2A4,1280 Braeside Dr
+1165,St. Basil,Brantford,6.7,N3T0G5,365 Blackburn Drive
+1166,Walter Zadow,Arnprior,6.7,K7S1X2,79 Ottawa St
+1167,Westney Heights,Ajax,6.7,L1T1X5,45 Brennan Rd
+1168,Williamson Road,Toronto,6.7,M4E1K5,24 Williamson Rd
+1169,Winchester,Winchester,6.7,K0C2K0,547 Louise Street South 280
+1170,Archbishop O'Sullivan,Kingston,6.6,K7P1A3,974 Pembridge Cres
+1171,Barrhaven,Nepean,6.6,K2J1B7,80 Larkin Dr
+1172,Birch Cliff Heights,Toronto,6.6,M1N2J1,120 Highview Ave
+1173,Blantyre,Toronto,6.6,M1N2S4,290 Blantyre Ave
+1174,Blessed Sacrament,Burford,6.6,N0E1A0,185 King St W Box 370
+1175,Bluewater Coast,Hensall,6.6,N0M1X0,85 York Street 130
+1176,C R Gummow,Cobourg,6.6,K9A1H8,287 Gravely St
+1177,Cataraqui Woods,Kingston,6.6,K7P2G6,1255 Birchwood Dr
+1178,des Pionniers,Orléans,6.6,K4A1L8,720 prom. Merkley
+1179,Des Sentiers,Orléans,6.6,K4A4C4,2159 rue Nantes
+1180,Earl Beatty,Toronto,6.6,M4C3J6,55 Woodington Ave
+1181,Eastwood,Windsor,6.6,N8R1X8,3555 Forest Glade Dr
+1182,Eldorado,Brampton,6.6,L6Y0T7,25 Wardsville Drive
+1183,Ellen Fairclough,Markham,6.6,L3S4K9,33 Brando Avenue
+1184,Exeter,Exeter,6.6,N0M1S1,93 VICTORIA ST E 599
+1185,Father Michael McGivney,Brampton,6.6,L5R2P7,450 Fernforest Dr
+1186,Forest Glen,New Hamburg,6.6,N3A1S9,437 Waterloo St
+1187,Garrison Road,Fort Erie,6.6,L2A1N9,1110 Garrison Rd
+1188,Glad Park,Stouffville,6.6,L4A1E5,300 Glad Park Ave
+1189,Gordon,Welland,6.6,L3C3W6,468 Thorold Rd W
+1190,Guildwood,Toronto,6.6,M1E1L8,225 Livingston Rd
+1191,Holy Cross,Toronto,6.6,M4J3R7,299AA Donlands Ave
+1192,Innisfil Central,Lefroy,6.6,L0L1W0,2075 5th Line RR 1
+1193,James Hillier,Brantford,6.6,N3R4W8,62 Queensway Dr
+1194,Johnny Lombardi,Woodbridge,6.6,4C3,350 Lawford Rd.
+1195,Joseph Gould,Uxbridge,6.6,L9P1M6,144 Planks Lane Box 579
+1196,Joyce,Toronto,6.6,M6B2S9,26 Joyce Pkwy
+1197,Kemptville,Kemptville,6.6,K0G1J0,215 Reuben Crescent Box 70
+1198,Maple Leaf,Toronto,6.6,M6L2V4,301 Culford Rd
+1199,Martin Street,Milton,6.6,L9T2R4,184 Martin St
+1200,McClure,Brampton,6.6,L6X5M8,50 Parity Road
+1201,Monsignor O'Donoghue,Peterborough,6.6,K9L1R4,2400 Marsdale Dr
+1202,Mother Teresa,Hamilton,6.6,L8W3E8,1 Rexford Dr
+1203,Mountview,Hamilton,6.6,L9C5M5,59 Karen Crescent
+1204,Ontario,Thorold,6.6,L2V1A8,550 Allanburg Rd
+1205,Our Lady of Fatima,Brampton,6.6,L6X1X1,39 Sunset Blvd
+1206,Park Avenue,Holland Landing,6.6,L9N1H5,36 Sunrise St
+1207,Regency Acres,Aurora,6.6,L4G2C7,123 Murray Dr
+1208,Richmond Street,Thorold,6.6,L2V3H3,153 Richmond St
+1209,Romeo Dallaire,Ajax,6.6,L1Z0H6,300 Williamson Drive East
+1210,Russell,Russell,6.6,K4R1E1,14 Mill Street
+1211,Sacred Heart,Sarnia,6.6,N7V3J1,1411 Lecaron Ave
+1212,Saint-René-Goupil,Guelph,6.6,N1G3A1,221 promenade Scottsdale
+1213,Sheppard,Kitchener,6.6,N2H1G2,278 Weber St E
+1214,Smithson,Kitchener,6.6,N2B1G7,150 Belleview Ave
+1215,St Anthony's,Kincardine,6.6,N2Z1R1,709 Russell St
+1216,St Catherine of Siena,Mississauga,6.6,L5B1N1,2350 Hurontario St S
+1217,St Clare,Mississauga,6.6,L5L2Z3,4140 Glen Erin Dr
+1218,St Clare,Toronto,6.6,M6E3K4,124 Northcliffe Blvd
+1219,St Francis of Assisi,Newcastle,6.6,L1B1E2,1774 Rudell Rd
+1220,St Gabriel Lalemant,Niagara Falls,6.6,L2J1L4,6121 Vine St
+1221,St George,Crystal Beach,6.6,L0S1B0,3800 Wellington Rd
+1222,St George,London,6.6,N6K2J1,375 Lynden Cres
+1223,St George-German,St George,6.6,N0E1N0,3 College St 130
+1224,St Hilary,Mississauga,6.6,L5R2N4,5070 Fairwind Dr
+1225,St Isaac Jogues,Toronto,6.6,M3A1Z8,1330 York Mills Rd
+1226,St Joachim,Ancaster,6.6,L9G4V6,75 Concerto Crt
+1227,St Joseph,Richmond Hill,6.6,L4C2H4,301 Roney Ave
+1228,St Josephine Bakhita,Ajax,6.6,L1T0B4,51 Williamson Dr E
+1229,St Jude,Mississauga,6.6,L4Z3J6,175 Nahani Way
+1230,St Monica,Nepean,6.6,K2G1G6,2000 Merivale Rd
+1231,St Peter's,Milton,6.6,L9T4A3,700 Woodward Ave
+1232,St Philip,Richmond,6.6,K0A2Z0,79 Maitland St Box 129
+1233,St Richard,Toronto,6.6,M1H1H1,960 Bellamy Rd N
+1234,St Ursula,Brampton,6.6,L6X5C1,11 Dwellers Rd
+1235,St. Daniel Comboni,Brampton,6.6,L7A3Z7,120 Veterans Drive
+1236,St. Joseph,Douro,6.6,K0L1S0,405 4th Line  405 4th Line
+1237,Sts Peter & Paul,Mississauga,6.6,L4Z1K2,4205 Woodington Dr
+1238,Thomas D'Arcy McGee,Gloucester,6.6,K1J7C2,635 Laverendrye Dr
+1239,Tony Pontes,Mississauga,6.6,L5R1C6,5650 Hurontario Street
+1240,Venerable John Merlini,Toronto,6.6,M9L1G9,123 Whitfield Ave
+1241,W C Little,Barrie,6.6,L4N9M9,11 Bear Creek Dr
+1242,William Armstrong,Markham,6.6,L3P3G6,11 Major Buttons Dr
+1243,Williamstown,Williamstown,6.6,K0C2J0,19754 County Road 17 100
+1244,Winchester,Brooklin,6.6,L1M1E8,70 Watford St
+1245,A Lorne Cassidy,Stittsville,6.5,K2S1G8,27 Hobin St
+1246,Alexander's,Burlington,6.5,L7L0B9,2223 Sutton Drive
+1247,Aurora Heights,Aurora,6.5,L4G2X5,85 Tecumseh Dr
+1248,Berner Trail,Toronto,6.5,M1B1B3,120 Berner Trail
+1249,Boyne,Milton,6.5,L9E0B5,1110 Farmstead Drive
+1250,Bridlewood,Kanata,6.5,K2M1G2,63 Bluegrass Dr
+1251,C H Norton,Burlington,6.5,L7M4B6,2120 Cleaver Ave
+1252,Caradoc North,Strathroy,6.5,N7G3H3,8041 Scotchmere Dr
+1253,Centennial Central,Arva,6.5,N0M1C0,14774 Medway Rd
+1254,Charlottetown,Toronto,6.5,M1C2C7,85 Charlottetown Blvd
+1255,Chemong,Bridgenorth,6.5,K0L1H0,1029 Gore Street Box 470
+1256,Churchill Alternative,Ottawa,6.5,K2A0J5,345 Ravenhill Ave
+1257,Corpus Christi,Thunder Bay,6.5,P7B4G4,110 Marlborough Rd
+1258,Crosby Heights,Richmond Hill,6.5,L4C3K8,190 Neal Drive
+1259,Donwood Park,Toronto,6.5,M1P3K5,61 Dorcot Ave
+1260,Dresden Area Central,Dresden,6.5,N0P1M0,941 North St Box 260
+1261,Frère André,London,6.5,N6J1W1,400 rue Base Line Ouest
+1262,Half Moon Bay,Nepean,6.5,K2J6E2,3525 River Run Avenue
+1263,Herman Street,Petawawa,6.5,K8H1W1,15 Herman St
+1264,Holy Family,New Hamburg,6.5,N3A1K3,313 Huron St
+1265,Indian Creek Road,Chatham,6.5,N7M5J5,511 Indian Creek Rd W
+1266,Kimberley,Toronto,6.5,M4E2Z5,50 Swanwick Ave
+1267,King George VI,Chatham,6.5,N7L2W5,227 Delaware Ave
+1268,Lambton Central Centennial,Petrolia,6.5,N0N1R0,3823 Oil Heritage Rd
+1269,l'Odyssée,Orléans,6.5,K1C1C3,1770 promenade Grey Nuns
+1270,MacKenzie King,Kitchener,6.5,N2B3A7,51 Natchez Rd
+1271,McNab,Arnprior,6.5,K7S3G8,1164 Stewartville Road
+1272,Moffat Creek,Cambridge,6.5,0A8,710 Myers Rd.
+1273,Monsignor Uyen,Chatham,6.5,N7L1G9,255 Lark St
+1274,Morse Street,Toronto,6.5,M4M2R9,180 Carlaw Ave
+1275,Nationview,South Mountain,6.5,K0E1W0,3045 County Road 1 140
+1276,New Prospect,Dryden,6.5,P8N3H6,289 Wice Rd
+1277,North Bridlewood,Toronto,6.5,M1W1L7,50 Collingsbrook Blvd
+1278,Northridge,London,6.5,N5X1Y2,25 McLean Dr
+1279,Notre-Dame-de-la-Merci,Coniston,6.5,P0M1M0,2 avenue Edward CP 270
+1280,Our Lady of Peace,Stoney Creek,6.5,L8E2R1,252 Dewitt Rd
+1281,Parnall,St Catharines,6.5,L2N2H7,507 Geneva St
+1282,Port Rowan,Port Rowan,6.5,N0E1M0,48 College Ave Box 159
+1283,Prince of Wales,Thorold,6.5,L2V3L4,40 Pine St S
+1284,Princess Anne,Ingersoll,6.5,N5C1H2,210 King St E
+1285,Red Maple,Richmond Hill,6.5,L4B4P9,155 Red Maple Rd
+1286,Regina Mundi,Hamilton,6.5,L9C1X7,675 Mohawk Rd W
+1287,Robert J Lee,Brampton,6.5,L6R1J1,160 Mountainash Rd
+1288,Saint-Nicolas,Milton,6.5,L9T4A3,720 AVE WOODWARD
+1289,Sir John A Macdonald,Belleville,6.5,K8P1H2,22 Harder Dr
+1290,Sir William Osler,Bradford,6.5,L3Z2A4,3823 Cty Rd  88
+1291,South March,Kanata,6.5,K2K0H9,1032 Klondike Road
+1292,St Benedict,Toronto,6.5,M9W4K9,2202 Kipling Ave
+1293,St Brigid,Brampton,6.5,L6Y2X4,81 Torrance Woods
+1294,St Brigid,Stouffville,6.5,L4A5A1,223 Millard St
+1295,St Charles,Bradford,6.5,L3Z2B2,691 Simcoe Rd Box 719
+1296,St David,Maple,6.5,L6A1A8,240 Killian Rd
+1297,St Dominic,Oakville,6.5,L6L2B1,2405 Rebecca St
+1298,St Elizabeth Seton,Newmarket,6.5,L3Y8B3,960 Leslie Valley Dr
+1299,St Fidelis,Toronto,6.5,M6L2S5,9 Bannerman St
+1300,St Francis of Assisi,Guelph,6.5,N1K1M3,287 Imperial Rd S
+1301,St Francis Xavier,Brampton,6.5,L6W2J8,111 Bartley Bull Pkwy
+1302,St Isaac Jogues,Brampton,6.5,L6R2W7,300 Great Lakes Dr
+1303,St Jerome,Aurora,6.5,L4G7P3,20 Bridgenorth Dr
+1304,St John Bosco,Brockville,6.5,K6V7A4,12 Durham St
+1305,St Joseph,Mississauga,6.5,L5M1N1,249 Church St
+1306,St Margaret Mary,Woodbridge,6.5,L4L2W8,30 Margaret Mary Rd
+1307,St Maria Goretti,Brampton,6.5,L6X4K9,121 Royal Orchard Dr
+1308,St Patrick,Guelph,6.5,N1E5J9,391 Victoria Road North
+1309,St Paul,Newmarket,6.5,L3Y1B2,140 William Roe Blvd
+1310,St Paul's,Peterborough,6.5,K9H5S3,1101 Hilliard St
+1311,St Theresa,Brantford,6.5,N3T5L7,12 Dalewood Ave
+1312,St Ursula,Chatham,6.5,N7M2W3,426 Lacroix St
+1313,St. Nicholas,London,6.5,N6K0B4,1956 Shore Rd
+1314,St-Étienne,Dowling,6.5,P0M1R0,79 avenue Houle CP 310
+1315,The Good Shepherd,Barrie,6.5,L4N7Y2,23 Cloughley Dr
+1316,University Heights,London,6.5,N6G1H8,27 Ford Cres
+1317,Valleyview Central,Ilderton,6.5,N0M2A0,10339 Ilderton Rd
+1318,Vaughan Willard,Pickering,6.5,L1V1V4,1911 Dixie Rd N
+1319,Westvale,Waterloo,6.5,N2T2B2,265 Westvale Dr
+1320,Woodcrest,Thunder Bay,6.5,P7G1J2,867 Woodcrest Road
+1321,Abbey Lane,Oakville,6.4,L6M1S4,1160 Old Abbey Lane
+1322,Alliance St-Joseph,Chelmsford,6.4,P0M1L0,3634 avenue Errington CP 760
+1323,Alma,Alma,6.4,N0B1A0,12 Simpson St E Box 118
+1324,Beavercrest,Markdale,6.4,N0C1H0,101 Main St E Box 469
+1325,Birch Cliff,Toronto,6.4,M1N1S2,1650 Kingston Rd
+1326,Brownridge,Thornhill,6.4,L4J7R8,65 Brownridge Dr
+1327,Cameron Street,Collingwood,6.4,L9Y2J4,575 Cameron St
+1328,Chris Hadfield,Whitby,6.4,L1M0A5,160 Carnwith Drive West
+1329,Corpus Christi,Ottawa,6.4,K1S2L5,157 Fourth Ave
+1330,Corpus-Christi,Oshawa,6.4,L1J6L7,362 avenue Hillside
+1331,Doverwood,Port Dover,6.4,N0A1N0,713 St. George St 729
+1332,du Sacré-Coeur,Halton Hills,6.4,L7G5P7,34 promenade Miller
+1333,Dunsford,Dunsford,6.4,K0M1L0,33 Dunsford Rd
+1334,Elisabeth-Bruyère,Kanata,6.4,K2M2H4,100 prom. Stonehaven
+1335,Elizabeth Simcoe,Toronto,6.4,M1E1A3,166 Sylvan Ave
+1336,Elora,Elora,6.4,N0B1S0,288 Mill St E Box 490
+1337,Fieldcrest,Bradford,6.4,L3Z2B5,100 Professor Day Dr Box 1149
+1338,German Mills,Thornhill,6.4,L3T4R5,61 Simonston Blvd
+1339,Glen Dhu,Whitby,6.4,L1R1M7,29 Fallingbrook St
+1340,Gron Morgan,Thunder Bay,6.4,P7B4G4,174 Marlborough Rd
+1341,Herb Campbell,Inglewood,6.4,L7C0T6,3749 King St
+1342,Holy Name of Mary,Almonte,6.4,K0A1A0,110 Paterson St Box 789
+1343,Holy Redeemer,Kanata,6.4,K2L3W6,75 McCurdy Dr
+1344,Huronia Centennial,Elmvale,6.4,L0L1P0,28 Simcoe St
+1345,J.-L.-Couroux,Carleton Place,6.4,K7C4K1,10 av. Findlay
+1346,Jean-Robert Gauthier,Nepean,6.4,K2J0W7,651 prom. Chapman Mills
+1347,John Sweeney,Kitchener,6.4,N2E4A1,185 Activa Ave
+1348,John XXIII,Oshawa,6.4,L1H7J2,195 Athabasca St
+1349,l'Ange-Gardien,North Lancaster,6.4,K0C1Z0,4831 chemin Second Line
+1350,Laurier-Carrière,Nepean,6.4,K2E7P8,14 prom. Four Seasons
+1351,Lord Elgin,Ajax,6.4,L1S1T6,24 Ontario St
+1352,Mason Road,Toronto,6.4,M1M3R2,78 Mason Rd
+1353,Michaëlle Jean,Hamilton,6.4,L0R1C0,2121 #56 Highway
+1354,Mnjikaning Kendaaswin,Rama,6.4,6H6,6147 Rama Rd
+1355,Mother Teresa,Courtice,6.4,L1E2B5,78 Glenabbey Dr
+1356,Oakland-Scotland,Scotland,6.4,N0E1R0,15 Church St W
+1357,Open Roads,Dryden,6.4,P8N1R4,20 Davis St
+1358,Our Lady of Fatima,Grimsby,6.4,L3M2C3,69 Olive St
+1359,Our Lady of Good Counsel,Ingleside,6.4,K0C1M0,52 Dickinson Dr 428
+1360,Pierre-Elliott-Trudeau,Toronto,6.4,M6J2S4,65 rue Grace
+1361,Primrose,Shelburne,6.4,L9V0B8,636064 Prince of Wales Road
+1362,Reesor Park,Markham,6.4,L3P2Y5,69 Wootten Way
+1363,Rideau,Kingston,6.4,K7L1N2,9 Dundas St
+1364,Roger-Saint-Denis,Kanata,6.4,K2L2C7,186 crois. Barrow
+1365,Roland Michener,Ajax,6.4,L1S6S2,95 Ritchie Ave
+1366,Rosebank Road,Pickering,6.4,L1W2N6,591 Rosebank Rd S
+1367,Roselands,Toronto,6.4,M6N4E2,990 Jane St
+1368,Rousseau,Ancaster,6.4,L9G3T7,103 McNiven Road
+1369,Ryerson,Burlington,6.4,L7N2Z9,565 Woodview Rd
+1370,Sacred Heart,Guelph,6.4,N1E5L5,125 Huron St
+1371,Saint-Noël-Chabanel,Toronto,6.4,M3M1H5,1300 avenue Wilson
+1372,Saint-Paul,Lively,6.4,P3Y1M9,185 avenue 6e CP 1120
+1373,Sir Isaac Brock,Brampton,6.4,L6P3V8,45 Meltwater Crescent
+1374,Sparta,Sparta,6.4,N0L2H0,45885 Sparta Line Box 60
+1375,St Agnes,Toronto,6.4,M2M2T2,280 Otonabee Ave
+1376,St Angela Merici,Bradford,6.4,L3Z3H9,109 West Park Ave
+1377,St Anne,Sarnia,6.4,N7S6K3,1000 The Rapids Pkwy
+1378,St Bernadette,Mississauga,6.4,L5V1G7,1060 White Clover Way
+1379,St Bernard,Whitby,6.4,L1R2A2,1000 Dryden Blvd
+1380,St Francis Xavier,Stoney Creek,6.4,L8G1E6,298 8 Hwy
+1381,St Isidore,Kanata,6.4,K2K1X7,1105 March Rd
+1382,St Joseph,Cambridge,6.4,N3H1V2,980 Westminster Dr S
+1383,St Joseph,Fergus,6.4,N1M1A1,150 Strathallan St
+1384,St Jude,London,6.4,N6J2Y5,690 Viscount Rd
+1385,St Kateri Tekakwitha,Oshawa,6.4,L1K2Y8,1428 Coldstream Drive
+1386,St Leo,Toronto,6.4,M8V1P1,165 Stanley Ave
+1387,St Luigi,Toronto,6.4,M6P3P8,2 Ruskin Ave
+1388,St Luke,Mississauga,6.4,L5H4L8,1280 Cobalt St
+1389,St Marks,Burlington,6.4,L7P3P4,2145 Upper Middle Rd
+1390,St Martin,Ennismore,6.4,K0L1T0,531 Ennis Rd
+1391,St Martin,London,6.4,N6C1N9,140 Duchess Ave
+1392,St Mary,Elora,6.4,N0B1S0,251 Irvine St 158
+1393,St Mary of the Angels,Vaughan,6.4,L4H0E4,351 Vellore Park Avenue
+1394,St Monica,Brampton,6.4,L6Y5B6,60 Sterritt Dr
+1395,St Nicholas,Bolton,6.4,L7E2W1,120 Harvest Moon Dr
+1396,St Rita,Nepean,6.4,K2E6N6,1 Inverness Ave
+1397,Tecumseth South Central,Tottenham,6.4,L0G1W0,2124 10TH SIDEROAD 3
+1398,Vincent Massey,North Bay,6.4,P1C1N1,15 Janey Ave
+1399,Adelaide Mclaughlin,Oshawa,6.3,L1J5P1,630 Stevenson Rd N
+1400,Alexander Graham Bell,Ajax,6.3,L1T3T6,25 Harkins Dr
+1401,All Saints,Mississauga,6.3,L5L4E8,4105 Colonial Dr
+1402,Antonine Maillet,Oshawa,6.3,L1J2W3,615 av Ridgeway
+1403,Baxter Central,Egbert,6.3,L0L1N0,62 Denney Dr
+1404,Brighton,Brighton,6.3,K0K1H0,24 Elizabeth St Box 9100
+1405,Canadian Martyrs,Mississauga,6.3,L5A3R7,1185 Mississauga Valley Blvd
+1406,Caradoc Central,Mt. Brydges,6.3,N0L1W0,714 Bowen St Box 244
+1407,Cardinal Leger,Toronto,6.3,M1C4Y1,600 Morrish Rd
+1408,Central,Kingston,6.3,K7K3M3,237 Sydenham St
+1409,Central Perth,Sebringville,6.3,N0K1X0,4663 Road 135
+1410,Cité-Jeunesse,Trenton,6.3,K8V1E4,30 avenue Fullerton
+1411,Clarksdale,Burlington,6.3,L7P1C6,2399 Mountainside Dr
+1412,Credit Meadows,Orangeville,6.3,L9W4V2,220 Blind Line
+1413,Dr John Seaton,Sheffield,6.3,L0R1Z0,1279 Seaton Road
+1414,Dublin Heights,Toronto,6.3,M3H2K2,100 Bainbridge Ave
+1415,Ellengale,Mississauga,6.3,L5C1Z7,3480 Ellengale Dr
+1416,Esten Park,Elliot Lake,6.3,P5A3B4,115 Hergott Ave
+1417,Father John Kelly,Maple,6.3,L6A1P4,9350 Keele St
+1418,Félix-Leclerc,Toronto,6.3,M9R3N3,50 promenade Celestine
+1419,Gatestone,Stoney Creek,6.3,L8J3Z5,127 Gatestone Drive
+1420,Gregory A Hogan,Sarnia,6.3,N7S6G9,1825 Hogan Dr
+1421,Highgate,Markham,6.3,L3R3R5,35 Highgate Dr
+1422,Holy Spirit,Stittsville,6.3,K2S1A6,1383 Main St Box 489
+1423,James S Bell,Toronto,6.3,M8W3E9,90 Thirty First St
+1424,Jean-Ethier-Blais,Sudbury,6.3,P3A2A8,2190 boul Lasalle
+1425,Jeanne Sauvé,Stratford,6.3,N5A3P6,8 Grange St
+1426,John Marshall,Niagara Falls,6.3,L2J2R3,3910 St James Ave
+1427,La Mosaïque,Toronto,6.3,M4J1Y3,80 av Queensdale
+1428,Lakeroad,Sarnia,6.3,N7V2V3,955 Lakeshore Rd
+1429,Lakeview,Nepean,6.3,K2H7V4,35 Corkstown Rd
+1430,Lord Dufferin,Toronto,6.3,M5A2Z7,350 Parliament St
+1431,Monsignor Paul Baxter,Nepean,6.3,K2J4W1,333 Beatrice Dr
+1432,Mooretown-Courtright,Mooretown,6.3,N0N1M0,104 Moore Line
+1433,North Easthope,Stratford,6.3,N5A6S2,"4672 Line 43, Road 108"
+1434,North Perth Westfield,Listowel,6.3,0G3,955 Binning Street West
+1435,Notre Dame,Orillia,6.3,L3V6H2,140 Atlantis Dr.
+1436,Orchard Park,Orillia,6.3,L3V3T4,24 Calverley St
+1437,Ormiston,Whitby,6.3,L1R1T5,20 Forest Heights St
+1438,Otonabee Valley,Peterborough,6.3,K9J1E7,580 River Rd S
+1439,Park Dale,Belleville,6.3,K8P4J3,73 Poplar St
+1440,Pierre-Elliott-Trudeau,Nepean,6.3,K2J4X1,601 prom. Longfields
+1441,Pleasant,Toronto,6.3,M2R2R1,288 Pleasant Ave
+1442,Poplar Road,Toronto,6.3,M1E1S4,66 Dearham Wood
+1443,River Oaks,Oakville,6.3,L6H3S9,2173 Munn's Ave
+1444,Rockford,Toronto,6.3,M2R3A7,60 Rockford Rd
+1445,Sainte-Félicité,Clarence Creek,6.3,K0A1N0,1647 rue Landry
+1446,Saint-Grégoire,Vankleek Hill,6.3,K0B1R0,50 rue Home C.P. 370
+1447,Saint-Mathieu,Hammond,6.3,K0A2A0,3155 chemin Gendron
+1448,Sandhills,Kitchener,6.3,N2N3J2,1250 Victoria St S
+1449,Scott Central,Sandford,6.3,L0C1E0,421 Reg Rd 11
+1450,Shirley Street,Toronto,6.3,M6K1S9,38 Shirley St
+1451,St Anne,Kitchener,6.3,N2H1Z4,250 East Ave
+1452,St Anthony,Ottawa,6.3,K1R7K5,391 Booth St
+1453,St Brendan,Stouffville,6.3,L4A0Z6,751 Hoover Park Drive
+1454,St Christopher,Oshawa,6.3,L1J2Y5,431 Annapolis Ave
+1455,St Francis de Sales,Ajax,6.3,L1S6B3,72 Church St S
+1456,St Gabriel,Burlington,6.3,L7P1S9,2227 Parkway Dr
+1457,St John the Baptist,Bolton,6.3,L7E2K4,299 Landsbridge St
+1458,St Joseph,Corunna,6.3,N0N1G0,535 Birchbank Drive Box 670
+1459,St Josephs,Dryden,6.3,P8N1S5,185 Parkdale Rd
+1460,St Jude's,Vankleek Hill,6.3,K0B1R0,5355 Highway 34
+1461,St Louis,Keewatin,6.3,P0X1C0,420 Eighth St Box 520
+1462,St Mark,Toronto,6.3,M8Y1T4,45 Cloverhill Rd
+1463,St Martha,Kingston,6.3,K7K7C2,455 St Martha St
+1464,St Paschal Baylon,Toronto,6.3,M2M1X6,15 St Paschal Crt
+1465,St Theresa,Cumberland,6.3,K4A4M9,2000 Portobello Blvd
+1466,Stonehaven,Newmarket,6.3,L3X2K3,875 Stonehaven Ave
+1467,Tecumseh,London,6.3,N6C1T4,401 Tecumseh Ave E
+1468,Warren Park,Toronto,6.3,M6S4P4,135 Varsity Rd
+1469,Aberfoyle,Guelph,6.2,N1H6H9,16 Old Brock Rd
+1470,Académie de la Tamise,London,6.2,N5W5P2,1260 rue Dundas
+1471,Alliston Union,Alliston,6.2,0G3,211 Church Street
+1472,Alta Vista,Ottawa,6.2,K1H7R2,1349 Randall Ave
+1473,Amabel-Sauble,Sauble Beach,6.2,N0H2G0,555 Sauble Falls Parkway
+1474,Armadale,Markham,6.2,L3S2J4,11 Coppard Ave
+1475,Blue Willow,Woodbridge,6.2,L4L9E1,250 Blue Willow Dr
+1476,Bruce,Toronto,6.2,M4M2Y6,51 Larchmount Ave
+1477,Bruce Peninsula,Lion's Head,6.2,N0H1W0,5 Moore St Box 178
+1478,Buckhorn,Buckhorn,6.2,1J0,1783 Lakehurst Rd.
+1479,Cardinal Newman,Niagara Falls,6.2,L2H1R4,8120 Beaverdams Rd
+1480,Cartwright Central,Blackstock,6.2,L0B1B0,10 Alexander St Box 190 Cartwright Central Public School
+1481,Charles Howitt,Richmond Hill,6.2,L4C6T7,30 Pearson Ave
+1482,Cherrywood Acres,Niagara Falls,6.2,L2E6L4,4635 Pettit Ave
+1483,Coronation,Oshawa,6.2,L1G2A4,441 Adelaide Ave E
+1484,Corpus Christi,Mississauga,6.2,L5B3N4,4155 Elora Dr
+1485,East Mersea,Wheatley,6.2,N0P2P0,547 Mersea Rd 21
+1486,East Oro,Hawkestone,6.2,L0L1T0,744 11th Line N  RR 1
+1487,Edna Staebler,Waterloo,6.2,N2T3A3,450 Bernay Dr
+1488,Father Daniel Zanon,Mississauga,6.2,L5B4J3,450 Hillcrest Ave
+1489,Ferndale Woods,Barrie,6.2,L4N8A1,170 Ferndale Dr S
+1490,Front of Yonge,Mallorytown,6.2,K0E1R0,1504 County Road #2 Box 10
+1491,Frontenac,Burlington,6.2,L7L3V4,5140 Pinedale Ave
+1492,Gabrielle-Roy,Toronto,6.2,M5A2N7,14 rue Pembroke
+1493,Grand Avenue,Grimsby,6.2,L3M2R7,14 Grand Ave
+1494,Heximer Avenue,Niagara Falls,6.2,L2G4T1,6727 Heximer Ave
+1495,Holland Landing,Holland Landing,6.2,L9N1C5,16 Holland River Blvd
+1496,Holy Family,Thunder Bay,6.2,P7K1H7,2075 Rosslyn Road
+1497,Holy Rosary,Milton,6.2,L9T2R3,141 Martin St
+1498,Innerkip Central,Innerkip,6.2,N0J1M0,180 Coleman St Box 40
+1499,Lake Simcoe,Innisfil,6.2,2A6,1701 Webster Blvd
+1500,Lakeshore Discovery,Emeryville,6.2,N0R1C0,376 I C Roy Blvd 408
+1501,LaSalle,LaSalle,6.2,N9J3T3,1600 Mayfair Ave
+1502,Little Current,Little Current,6.2,P0P1K0,18 Draper St Box 190
+1503,Monsignor Michael O'Leary,Bracebridge,6.2,P1L1Z2,2 Tamarack Trail
+1504,Normanby,Ayton,6.2,N0G1C0,574 Louisa Street  574 Louisa St
+1505,Northwood,Windsor,6.2,N9E1A3,1100 Northwood Dr
+1506,Ogden,Toronto,6.2,M5T1A8,33 Phoebe St
+1507,Our Lady of Peace,Brampton,6.2,L6X3V2,15 Fincham Ave
+1508,Palermo,Oakville,6.2,L6M5H4,2561 Valleyridge Drive
+1509,Pierre Elliott Trudeau,Oshawa,6.2,L1K2S7,1111 Beatrice St E
+1510,Ponsonby,Guelph,6.2,N1H6J2,5923 WELLINGTON ROAD 7
+1511,Queensdale,Hamilton,6.2,L9A1K4,67 Queensdale Avenue East
+1512,River View,Niagara Falls,6.2,L2G6M9,3300 Cattell Dr
+1513,Saint-Augustin,Garson,6.2,P3L1T6,648 promenade O'Neil ouest
+1514,Sainte-Croix,Haileybury,6.2,P0J1K0,304 avenue Rorke CP 2040
+1515,Saint-Jean-de-Brébeuf,London,6.2,N6M0B9,270 chemin Chelton
+1516,Saint-Noël-Chabanel,Cambridge,6.2,N3H5P2,640 promenade Trico
+1517,Saint-Paul,Plantagenet,6.2,K0B1L0,260 rue Main C.P. 249
+1518,St Agatha,Toronto,6.2,M1M2T6,49 Cathedral Bluffs Dr
+1519,St Aloysius,Kitchener,6.2,N2C1C2,504 Connaught St
+1520,St Bonaventure,Brampton,6.2,L7A2Z5,35 McCrimmon Drive
+1521,St Christopher,Windsor,6.2,N8W1Y6,1213 E C ROW AVE. E
+1522,St Dominic Savio,Toronto,6.2,M1B5X3,50 Tideswell Blvd
+1523,St Edmund Campion,Toronto,6.2,M1E4N1,30 Highcastle Rd
+1524,St Eugenes,Hamilton,6.2,L8K3P3,120 Parkdale Ave S
+1525,St Florence,Toronto,6.2,M1B2L6,101 Murison Blvd
+1526,St Francis,Thunder Bay,6.2,P7C5G1,600 W Redwood Ave
+1527,St Joseph,Belleville,6.2,K8N1P7,405 Bridge St E
+1528,St Joseph,Bowmanville,6.2,L1C1C3,90 Parkway Cres
+1529,St Marguerite d'Youville,Ottawa,6.2,K1T3J6,89 Lorry Greenberg Dr
+1530,St Martin,Smithville,6.2,L0R2A0,186 Margaret St Box 460
+1531,St Mary,Maidstone,6.2,N0R1K0,12096 County Rd 34 Box 10
+1532,St Monica,Pickering,6.2,L1V1E3,275 Twyn Rivers Dr
+1533,St Monica,Toronto,6.2,M4P1T4,14 Broadway Ave
+1534,St Monicas,Barrie,6.2,L4M2E9,90 Steel St
+1535,St Nicholas,Toronto,6.2,M1J2P7,33 Amarillo Dr
+1536,St Paul,Sault Ste. Marie,6.2,P6B5E6,78 Dablon St
+1537,St Peter,Tecumseh,6.2,N8N2X2,2451 St Alphonse St
+1538,St Stephen,Brampton,6.2,L6Z4N8,17 Colonel Bertram Rd
+1539,St Veronica,Woodbridge,6.2,L4H2S8,171 Maria Antonia Road
+1540,St. Andre,Toronto,6.2,M3L1C9,36 Yvonne Ave
+1541,Terry Fox,Barrie,6.2,L4M6X9,100 LIVINGSTONE ST
+1542,Thamesville Area Central,Thamesville,6.2,N0P2K0,30 Mary St Box 550
+1543,Valley View,Val Caron,6.2,P3N1S1,1840 Valleyview Rd
+1544,Victoria Cross,Mount Forest,6.2,N0G2L1,355 Durham St W
+1545,Warminster,Warminster,6.2,L0K2G0,4031 Line 13 N
+1546,Waverley Drive,Guelph,6.2,N1E1H2,140 Waverley Dr
+1547,Wyevale Central,Wyevale,6.2,L0L2T0,20 Concession 5 Rd E
+1548,Allandale Heights,Barrie,6.1,L4N3P4,124 Bayview Dr
+1549,Bakersfield,Thornhill,6.1,L4J8T6,121 Mistysugar Trail
+1550,Bayridge,Kingston,6.1,K7M5K8,1066 Hudson Dr
+1551,Briargreen,Nepean,6.1,K2G0R9,19 Parkfield Cres
+1552,Camborne,Cobourg,6.1,K9A4J7,3546 Kennedy Rd
+1553,Central,Burlington,6.1,L7R2H2,638 Brant St
+1554,Coldwater,Coldwater,6.1,L0K1E0,3 John St Box 369
+1555,Dawn-Euphemia,Dresden,6.1,N0P1M0,4587 Bentpath Line
+1556,Emily Carr,London,6.1,N6G2H5,44 Hawthorne Rd
+1557,Farley Mowat,Ottawa,6.1,K2G6T3,75 Waterbridge Dr
+1558,Father Francis McSpiritt,Brampton,6.1,L6P2B1,55 Lexington Road
+1559,Floradale,Elmira,6.1,N3B2Z1,35 Florapine Rd
+1560,Floradale,Mississauga,6.1,L5B2A4,210 Paisley Blvd W
+1561,George Peck,Toronto,6.1,M1R1Y1,1 Wayne Ave
+1562,Harmony,Corbyville,6.1,K0K1V0,626 Harmony Rd
+1563,Harmony Heights,Oshawa,6.1,L1K1M2,590 Galahad Dr
+1564,Heather Heights,Toronto,6.1,M1G3B5,80 Slan Ave
+1565,Hillcrest,Petrolia,6.1,N0N1R0,433 First Ave Box 119
+1566,Holy Family,Bolton,6.1,L7E1P7,61 Allan Dr
+1567,Howick Central,Gorrie,6.1,N0G1X0,"45010 Harriston Road, Hwy 87"
+1568,Jean Steckle,Kitchener,6.1,N2R1X9,130 Woodbine Avenue
+1569,John Black,Fergus,6.1,N1M2A1,150 Lamond St
+1570,John Young,Kanata,6.1,K2L1W7,5 Morton Dr
+1571,Kars on the Rideau,Kars,6.1,K0A2E0,6680 Dorack Dr Box 100
+1572,Lakewoods,Oshawa,6.1,L1J1G5,323 Chaleur Ave
+1573,Lester B Pearson,Brampton,6.1,L6S2G1,140 Howden Blvd
+1574,Mary Shadd,Toronto,6.1,M1B4R6,135 Hupfield Trail
+1575,Mount Pleasant,Mount Pleasant,6.1,N0E1K0,667 Mount Pleasant Rd
+1576,Mountain View,Stoney Creek,6.1,L8E2K7,299 Barton Street East
+1577,Notre-Dame-des-Champs,Ottawa,6.1,K4B1H9,6280 Ch Renaud
+1578,Pauline,Toronto,6.1,M6H3M8,100 Pauline Ave
+1579,Pinewood,Sault Ste. Marie,6.1,P6A5K9,3924 Queen St E
+1580,Pope John Paul II,Hamilton,6.1,L8W3A5,600 Acadia Dr
+1581,Queen of Heaven,Mississauga,6.1,L5E2A5,1198 Alexandra Ave.
+1582,R L Graham,Keswick,6.1,L4P3M8,70 Biscayne Blvd
+1583,Red Lake Madsen,Red Lake,6.1,P0V2M0,201 Howey St 5001
+1584,Rose Avenue,Toronto,6.1,M4X1N4,675 Ontario St
+1585,Sacred Heart,Wingham,6.1,N0G2W0,225 Cornyn St Box 968
+1586,Sainte-Ursule,McGregor,6.1,N0R1J0,573 rue Grondin
+1587,Saint-Jean-Baptiste,Amherstburg,6.1,N9V0C3,365 rue Fryer
+1588,Second Street,Toronto,6.1,M8V2X4,71 Second St
+1589,Seneca Central,York,6.1,N0A1R0,2767 Regional Road #9  Seneca Central Public School
+1590,Silver Creek,Georgetown,6.1,L7G5V6,170 Eaton St
+1591,Sir Arthur Currie,London,6.1,N6G0L5,2434 Buroak Drive
+1592,South Crosby,Elgin,6.1,K0G1E0,1 Halladay Street Box 160
+1593,Sprucecourt,Toronto,6.1,M5A2J1,70 Spruce St
+1594,St Alphonsus,Peterborough,6.1,K9J4H7,875 St Mary's St
+1595,St Anthony of Padua,Milton,6.1,L9T6T7,1240 Tupper Drive
+1596,St Benedict,Orangeville,6.1,L9W4X1,345 Blind Line
+1597,St Bernadette's,Sutton West,6.1,L0E1R0,5279 Black River Rd Box 719
+1598,St Columban,Dublin,6.1,N0K1E0,44106 Line 34
+1599,St Faustina,Mississauga,6.1,L5M6R7,3420 McDowell Dr
+1600,St Jean de Brebeuf,Bradford,6.1,L3Z2K3,151 Miller Park Ave
+1601,St John,Arthur,6.1,N0G1A0,315 Tucker St Box 490
+1602,St John Vianney,Toronto,6.1,M9V1J5,105 Thistledown Blvd
+1603,St Marguerite d'Youville,Whitby,6.1,L1N6B1,250 Michael Blvd
+1604,St Maria Goretti,Toronto,6.1,M1K3N8,21 Kenmark Blvd
+1605,St Patrick,Nepean,6.1,K2J1A9,68 Larkin Dr
+1606,St Victor,Toronto,6.1,M1P4M2,20 Bernadine St
+1607,Stockdale,Frankford,6.1,K0K2C0,994 Will Johnson Rd  994 Will Johnson Rd
+1608,Susanna Moodie,Belleville,6.1,K8N4Z2,376 Avon Lough Rd  RR 2
+1609,Timberbank,Toronto,6.1,M1W2A3,170 Timberbank Blvd
+1610,Transfiguration of our Lord,Toronto,6.1,M9R2J2,55 Ludstone Dr
+1611,Truedell,Kingston,6.1,K7M6W6,641 Truedell Rd
+1612,Vincent Massey,Oshawa,6.1,L1G6L4,211 Harmony Rd N
+1613,Viscount Alexander,Cornwall,6.1,K6J1V6,1401 Dover Road
+1614,Wexford,Toronto,6.1,M1R2H1,1050 Pharmacy Ave
+1615,Ada B Massecar,Waterford,6,N0E1Y0,100 East Church St 610
+1616,Anderdon,Amherstburg,6,N9V2Y9,3170 Middle Side Rd
+1617,Annunciation of Our Lord,Hamilton,6,L9C2V2,250 Limeridge Road West
+1618,Bayshore,Nepean,6,K2B7T2,145 Woodridge Cres
+1619,Blessed Kateri Tekakwitha,Orléans,6,K1C4W2,6400 Beausejour Dr
+1620,Blessed Sacrament,Kitchener,6,N2B2S3,367 The Country Way
+1621,Bloomsburg,Waterford,6,N0E1Y0,25 Concession 12 Rd
+1622,C D Howe,Thunder Bay,6,P7A6G3,30 Wishart Cres
+1623,Canadian Martyrs,St Catharines,6,L2M3X2,502 Scott St
+1624,Cardinal-Léger,Kitchener,6,N2E2S3,345  The Country Way
+1625,Casselman - St-Paul/Ste-Euphémie,Casselman,6,K0A1M0,215 rue Laurier 510
+1626,Castle Oaks,Brampton,6,L6P3V4,155 Castle Oaks Cross
+1627,Cedar Hollow,London,6,N5X0C5,1801 Cedarhollow Boulevard
+1628,Dr Robert Thornton,Whitby,6,L1N3L4,101 Hazelwood Drive
+1629,Eastdale,Stoney Creek,6,L8E1Z4,275 Lincoln Road
+1630,Ellesmere-Statton,Toronto,6,M1P2W1,739 Ellesmere Rd
+1631,Fairview,Brantford,6,N3R2Y1,34 Norman St
+1632,Glenwood,Windsor,6,N9E1H6,1601 Norfolk St
+1633,Gorham and Ware,Thunder Bay,6,P7G0K5,2032 Kam-Current Rd
+1634,Grandview,Sault Ste. Marie,6,P6A5R4,161 Denwood Dr
+1635,Greenbrier,Brantford,6,N3R5N8,33 White Oaks Ave
+1636,Gulfstream,Toronto,6,M9M1S3,20 Gulfstream Rd
+1637,Hawthorne Village,Milton,6,L9T6X9,850 Bennett Blvd.
+1638,Hillsdale,Hillsdale,6,L0L1V0,16 Albert St E
+1639,Holy Family,Bowmanville,6,L1C0C6,125 Aspen Springs Dr
+1640,Holy Spirit,Cambridge,6,N1P1C7,15 Gate House Dr
+1641,Holy Spirit,Toronto,6,M1T3K7,3530 Sheppard Ave E
+1642,Horizon-Jeunesse,Vanier,6,K1L1B1,349 rue Olmstead
+1643,Immaculate Conception,Val Caron,6,P3N1C5,1748 Pierre Street
+1644,James Strath,Peterborough,6,K9J6X4,1175 Brealey Dr
+1645,Janet Lee,Stoney Creek,6,L8J2N5,291 Winterberry Drive
+1646,John Campbell,Windsor,6,N8W1B7,1255 Tecumseh Rd. E.
+1647,La Pommeraie,London,6,0C3,3500 Settlement Trail
+1648,Listowel Eastdale,Listowel,6,N4W2M3,365 Nichol Ave S
+1649,Manor Park,Ottawa,6,K1K3C9,100 Braemar St
+1650,McBride Avenue,Mississauga,6,L5C1L6,974 McBride Ave
+1651,Memorial,Stoney Creek,6,L8G3B2,211 Memorial Avenue
+1652,Metropolitan Andrei,Mississauga,6,L5A3G6,515 Mississauga Valley Boulevard  c/o Streetsville Campus
+1653,Monsignor Clair,Barrie,6,L4M7B5,345 Livingstone St E
+1654,Montfort,Ottawa,6,K1K0W9,350 rue Den Haag
+1655,Mount Pleasant Village,Brampton,6,L7A0P7,100 Commuter Drive
+1656,O M MacKillop,Richmond Hill,6,L4C4P7,206 Lucas St
+1657,Patricia-Picknell,Oakville,6,L6L1X6,1257 Cres Sedgewick
+1658,Pauline Johnson,Burlington,6,L7L1X7,4350 Longmoor Dr
+1659,Precious Blood,Exeter,6,N0M1S2,133 Sanders St W
+1660,Riverside,London,6,N6H3N1,550 Pinetree Dr
+1661,Sacred Heart,LaSalle,6,N9J2Z9,200 Kenwood Blvd
+1662,Sainte-Bernadette,Gloucester,6,K1T1K5,3781 rue Sixth
+1663,Sainte-Marie,Azilda,6,P0M1B0,25 rue Marier
+1664,Sainte-Marie,Gloucester,6,K1B3J8,2599 chemin Innes
+1665,Saint-Michel,Toronto,6,1R7,29 MEADOWVALE Rd
+1666,San Marco,Woodbridge,6,L4L6H3,250 Coronation Dr
+1667,Scarborough Sud,Toronto,6,M1E2J3,255 promenade Coronation
+1668,Shakespeare,Stratford,6,N5A2B8,35 Mowat St
+1669,St Andrew,Orangeville,6,L9W4C8,50 Meadow Dr
+1670,St Bernadette,Ajax,6,L1S1P2,41 Bayly St E
+1671,St Brigid,Georgetown,6,L7G5T2,73 Miller Drive
+1672,St David,Dorchester,6,N0L1G0,3966 Catherine St
+1673,St Denis,St Catharines,6,L2R1S1,175 Carlton St
+1674,St Elizabeth,Wallaceburg,6,N8A3K4,1350 Bertha St
+1675,St Emily,Nepean,6,K2J0J2,500 Chapman Mills Dr
+1676,St Francis Xavier,Brockville,6,K6V3X6,74 Church St
+1677,St Louis,Leamington,6,N8H1M2,176 Talbot St E
+1678,St. Alphonsa,Brampton,6,L6Y0M4,60 Olivia Marie Rd
+1679,St. Mary's,Hagersville,6,N0A1H0,92 Main Street South
+1680,Sweet's Corners,Lyndhurst,6,K0E1N0,276 Lyndhurst Road
+1681,Tom Longboat,Toronto,6,M1B1X6,37 Crow Trail
+1682,W J Baird,Blenheim,6,N0P1A0,182 King St Box 70
+1683,Walter Gretzky,Brantford,6,N3T0G5,365 Blackburn Drive
+1684,Woodland Park,Cambridge,6,N3C4K2,555 Ellis Rd W
+1685,Anne Hathaway,Stratford,5.9,N5A4A2,77 Bruce St
+1686,Applecroft,Ajax,5.9,L1T3H5,55 Coles Ave
+1687,Armitage Village,Newmarket,5.9,L3X1R1,125 Savage Rd
+1688,Avalon,Orléans,5.9,K4A0K5,2080 Portobello Blvd
+1689,Avondale,Toronto,5.9,M2N2V4,171 Avondale Ave
+1690,Baden,Baden,5.9,N3A4M6,155 Livingston Blvd
+1691,Blenheim,Drumbo,5.9,N0J1G0,32 Wilmot Street S P.O. Box 36
+1692,Blessed Sacrament,Hamilton,5.9,L8V4B5,315 East 37th St
+1693,Champlain Discovery,Pembroke,5.9,K8A2K5,390 Bell St
+1694,Clemens Mill,Cambridge,5.9,N1T1R6,335 Saginaw Pkwy
+1695,Countryside Village,Brampton,5.9,L6R3V8,40 Dolbyhill Drive
+1696,des Pins,Gloucester,5.9,K1B4K6,1487 prom. Ridgebrook
+1697,Don-Bosco,Timmins,5.9,P4P1C7,400 boulevard Lonergan
+1698,Downie Central,St Pauls,5.9,N0K1V0,4384 Perth Line 20
+1699,Dr C F Cannon,Oshawa,5.9,L1J3S2,1196 Cedar St
+1700,Dr Roberta Bondar,Ajax,5.9,L1T3L3,25 Sullivan Dr
+1701,Elginburg,Elginburg,5.9,K0H1M0,2100 Unity Rd
+1702,English Central,New Liskeard,5.9,P0J1P0,245 Shepherdson Rd Box 1090
+1703,Featherston Drive,Ottawa,5.9,K1H6P4,1801 Featherston Dr
+1704,Frère-André,Barrie,5.9,L4M6L1,273 chemin Cundles est
+1705,Glen Park,Toronto,5.9,M6B4L5,101 Englemount Ave
+1706,Hillcrest,Campbellford,5.9,K0L1L0,55 Elmore St Box 759
+1707,Holy Child,Toronto,5.9,M9W7A6,850 Humberwood Blvd
+1708,Immaculate Conception,Peterborough,5.9,K9H1E8,76 Robinson St
+1709,Immaculate Conception,Woodbridge,5.9,L4L5J4,500 Aberdeen Ave
+1710,James MacDonald,Hamilton,5.9,L9C2X1,200 Chester Avenue
+1711,Jean Little,Guelph,5.9,N1G4L2,56 Youngman Dr
+1712,John Brant,Ridgeway,5.9,L0S1N0,143 Ridge Road North
+1713,Kente,Ameliasburgh,5.9,K0K1A0,264 County Rd 19 Box 68
+1714,Kew Beach,Toronto,5.9,M4L3R3,101 Kippendavie Ave
+1715,Killarney Beach,Lefroy,5.9,L0L1K0,850 20th Sideroad
+1716,L A Desmarais,Windsor,5.9,N8R1E9,10715 Eastcourt Dr
+1717,La Source,Barrie,5.9,L4N9T2,70 promenade Madelaine
+1718,Lady Mackenzie,Kirkfield,5.9,K0M2B0,1746 Kirkfield Rd
+1719,Le Flambeau,Mississauga,5.9,L5W1G4,600 Novo Star promenade
+1720,Lincoln Alexander,Hamilton,5.9,L8W2B5,50 Ravenbury Drive
+1721,Mary Street Community,Oshawa,5.9,L1G7S2,110 Mary St N
+1722,McCaskill's Mills,Cannington,5.9,L0E1E0,85 Albert St
+1723,Miller's Grove,Mississauga,5.9,L5N3K2,6325 Miller Grove Rd
+1724,Mono-Amaranth,Orangeville,5.9,L9W6K4,246303 Hockley Rd
+1725,Morrisburg,Morrisburg,5.9,K0C1X0,16 Second Street 817
+1726,Mother Theresa,Cambridge,5.9,N1T1W9,520 Saginaw Pkwy
+1727,Nouvel Horizon,Welland,5.9,L3C3H1,621 chemin Quaker
+1728,Our Lady of Lourdes,Toronto,5.9,M4X1K2,444 Sherbourne St
+1729,Our Lady of Mercy,Bancroft,5.9,K0L1C0,192 Bridge St W Box 778
+1730,Our Lady of Perpetual Help,Windsor,5.9,N8X5E3,775 Capitol St.
+1731,Parkview,Windsor,5.9,N8R1N3,3070 Stillmeadow Rd
+1732,Parkway,Cambridge,5.9,N3H5C7,436 Preston Pkwy
+1733,Ripley-Huron,Ripley,5.9,N0G2R0,2 Queen Street Box 40
+1734,Rockwood Centennial,Rockwood,5.9,N0B2K0,137 Pasmore St
+1735,Rosedale,Sarnia,5.9,N7V4C5,1018 Indian Rd N
+1736,Roseville,Windsor,5.9,N8T3B9,6265 Roseville Garden Dr
+1737,Rouge Valley,Toronto,5.9,M1B4X3,30 Durnford Rd
+1738,Saint-Michel,Leamington,5.9,N8H5H6,33 rue Sherman
+1739,Sarnia Christian,Sarnia,5.9,N7S1W9,1273 Exmouth Street
+1740,Schomberg,Schomberg,5.9,L0G1T0,21 Main St Box 123
+1741,Sir John A. Macdonald,Kingston,5.9,K7K7C2,529 St. Martha Street
+1742,St Elizabeth,Bowmanville,5.9,L1C5B8,610 Longworth Ave
+1743,St Gregory,Picton,5.9,K0K2T0,7 Owen St Box 2449
+1744,St James,Lively,5.9,P3Y1M5,280 Anderson Drive Box 580
+1745,St Joachim,Brampton,5.9,L6V3V9,435 Rutherford Rd N
+1746,St Margaret,Toronto,5.9,M5M2X1,85 Carmichael Ave
+1747,St Mark,Prescott,5.9,K0E1T0,420 McAuley Rd
+1748,St Maurice,Toronto,5.9,M9R1T7,45 Kingsview Blvd
+1749,St Michaels,Hamilton,5.9,L9A2N9,135 Hester St
+1750,St Patrick,Lucan,5.9,N0M2J0,33654 Roman Line
+1751,St Patrick,Rockland,5.9,K4K1R2,1001 Heritage Dr
+1752,St Pius X,Thunder Bay,5.9,P7B4W8,140 South Clarkson St
+1753,St Rose of Lima,Toronto,5.9,M1H1A4,3220 Lawrence Ave E
+1754,St Simon,Toronto,5.9,M9M1E2,20 Wallasey Ave
+1755,St Teresa of Avila,Mississauga,5.9,L5N4E8,6675 Montevideo Rd
+1756,St Theresa Shrine,Toronto,5.9,M1M1M2,2665 Kingston Rd
+1757,St Therese,Port Colborne,5.9,L3K1P5,530 Killaly St E
+1758,St Thomas More,Toronto,5.9,M1G3M7,2300 Ellesmere Rd
+1759,St Valentine,Mississauga,5.9,L5V2V7,5610 Heatherleigh Ave.
+1760,St. Michael's,Dunnville,5.9,N1A1R3,209 Alder Street West
+1761,Stittsville,Stittsville,5.9,K2S1Y9,40 Granite Ridge Dr
+1762,Stuart Scott,Newmarket,5.9,L3Y4K5,247 Lorne Ave
+1763,Tait Street,Cambridge,5.9,N1S3G3,184 Tait St
+1764,Tecumseh,Burlington,5.9,L7N2M3,3141 Woodward Ave
+1765,Terry Fox,Cobourg,5.9,K9A5N4,1065 Riddell Ave
+1766,W R Best Memorial,Shanty Bay,5.9,L0L2L0,2221 OLD BARRIE RD
+1767,Winston Churchill,Waterloo,5.9,N2L3Z3,100 Milford Ave
+1768,Alloa,Caledon,5.8,L7C0Y7,1248 Mayfield Road
+1769,Ballantrae,Stouffville,5.8,L4A7X4,5632 Aurora Rd
+1770,Belfountain,Belfountain,5.8,L7K0E8,17247 Shaw's Creek Rd
+1771,Bells Corners,Nepean,5.8,K2H5C3,3770 Richmond Rd
+1772,Blessed Pope John Paull II,Brooklin,5.8,L1M2L9,160 Cachet Blvd
+1773,Burkevale,Penetanguishene,5.8,L9M1C4,39 Burke St
+1774,Canadian Martyrs,Kitchener,5.8,N2B2X5,50 Confederation Dr
+1775,Charles Bowman,Bowmanville,5.8,L1C0L3,195 Bons Ave
+1776,Confederation Central,Sarnia,5.8,N7T7H3,2500 Confederation Line
+1777,Courtice North,Courtice,5.8,L1E2Y4,1675 Nash Rd
+1778,Crestview,Murillo,5.8,P0T2G0,4452 Oliver Road
+1779,Eagle Plains,Brampton,5.8,L6R2X8,40 Eagle Plains Drive
+1780,Echo Place,Brantford,5.8,N3S3R5,723 Colborne St
+1781,Eganville,Eganville,5.8,K0J1T0,259 Jane St Box 787
+1782,Father C W Sullivan,Brampton,5.8,L6V2C1,62 Seaborn Rd
+1783,Glen Cedar,Newmarket,5.8,L3Y5W1,915 Wayne Dr
+1784,Gordon Price,Hamilton,5.8,L9C7K2,11 Guildwood Drive
+1785,Groh,Kitchener,5.8,N2P0B8,225 Thomas Slee Drive
+1786,Harrowsmith,Harrowsmith,5.8,K0H1V0,4121 Colebrooke Rd 10
+1787,Harry J Clarke,Belleville,5.8,K8N4J6,77 Rollins Dr
+1788,Holy Family,Alliston,5.8,L9R1B9,180 King St S
+1789,Holy Rosary,Guelph,5.8,N1E5B7,365 Stevenson St N
+1790,Jack Miner,Kingsville,5.8,N9Y2E5,79 Road 3 E
+1791,Jean Vanier,London,5.8,N6K1H5,1019 Viscount Rd
+1792,John Paul II,Gloucester,5.8,K1B3R9,1500 Beaverpond Dr
+1793,Johnson-Tarbutt Central,Desbarats,5.8,P0R1E0,5 Margaret St 220
+1794,Keele Street,Toronto,5.8,M6P2L5,99 Mountview Ave
+1795,Lakeshore,Burlington,5.8,L7R1B1,2243 Lakeshore Rd
+1796,Lakeside,Keswick,5.8,L4P1J1,213 Shorecrest Rd
+1797,Lincoln Avenue,Ajax,5.8,L1S6C9,70 Lincoln St
+1798,Loughborough,Sydenham,5.8,K0H2T0,4330 Wheatley St 254
+1799,Maitland River,Wingham,5.8,N0G2W0,250 John St E 640
+1800,Marie of the Incarnation,Bradford,5.8,L3Z1C4,105 Colborne St
+1801,Mariposa,Oakwood,5.8,K0M2M0,755 Eldon Rd
+1802,Michel-Dupuis,Ottawa,5.8,0H3,715 Brian Good avenue
+1803,Notre Dame,Brantford,5.8,N3P1N9,238 Brantwood Park Rd
+1804,Notre-Dame,Cornwall,5.8,K6J3K5,420 rue 15e Ouest
+1805,Our Lady of Lourdes,Delaware,5.8,N0L1E0,103 Wellington St
+1806,Pavillon des Jeunes,Belle Rivière,5.8,N0R1A0,326 Line Rourke
+1807,Pine View,Pembroke,5.8,K8A7G7,2321 Petawawa Blvd
+1808,Plainville,Gores Landing,5.8,K0K2E0,4877 Burnham St N
+1809,Pleasant Park,Ottawa,5.8,K1H5N1,564 Pleasant Park Rd
+1810,Prince Albert,Prince Albert,5.8,L9L1C3,13700 Old Simcoe Rd Box 3331
+1811,Rosedale Heights,Thornhill,5.8,L4J6Y8,300 Rosedale Heights
+1812,Ryerson,Cambridge,5.8,N3H2S3,749 Grand Valley Dr
+1813,Saint Gabriel the Archangel,Barrie,5.8,L4M7G4,130 Prince William Way
+1814,Sainte-Marguerite-Bourgeoys,Kemptville,5.8,K0G1J0,50 Campus Drive
+1815,Saint-Philippe,Burlington,5.8,L7T3Y3,901 chemin Francis
+1816,Shelter Bay,Mississauga,5.8,L5N2C5,6735 Shelter Bay Rd
+1817,Sir Edgar Bauer,Waterloo,5.8,N2L4K2,660 Glen Forest Blvd
+1818,Sir John A Macdonald,Pickering,5.8,L1W1W7,777 Balaton Ave
+1819,St Bernard,Thunder Bay,5.8,P7A3S5,655 River St
+1820,St Charles Garnier,Mississauga,5.8,L4Z1M7,4233 Central Pkwy E
+1821,St Daniel,Kitchener,5.8,N2A2A9,39 Midland Dr
+1822,St Elizabeth,Toronto,5.8,M9B1J8,5 Redcar Ave
+1823,St Francis,Cambridge,5.8,N1R4J2,60 McDonald Ave
+1824,St Francis,Sudbury,5.8,P3E4E2,691 Lilac Street
+1825,St Joseph,Clinton,5.8,N0M1L0,297 Smith St N Box 850
+1826,St Jude,Ajax,5.8,L1T3H5,68 Coles Ave
+1827,St Luke,Hamilton,5.8,L8K6N3,345 Albright Rd
+1828,St Luke,Toronto,5.8,M6J3A6,319 Ossington Ave
+1829,St Marguerite Bourgeoys,Brampton,5.8,L6S4J8,550 North Park Dr
+1830,St Michael,Guelph,5.8,N1G4W7,9 McElderry Rd
+1831,St Peter,Woodbridge,5.8,L4L1G2,120 Andrew Park Cres
+1832,St Philip,Mississauga,5.8,L5B3W5,345 Fairview Rd W
+1833,St Philomena,Fort Erie,5.8,L2A3C2,1332 Phillips St
+1834,St Thomas Aquinas,Thunder Bay,5.8,P7E5X5,2645 Donald St
+1835,Stephen G Saywell,Oshawa,5.8,L1J7V1,855 Roundelay Dr
+1836,The Stewart,Perth,5.8,K7H0A1,7 Sunset Blvd.
+1837,Thousand Islands,Lansdowne,5.8,K0E1L0,101 King Street West 90
+1838,Uptergrove,Orillia,5.8,L3V6H7,4833 Muley Point Rd  R R 7
+1839,Valour,Petawawa,5.8,K8H0B8,19 Leeder Lane
+1840,Vance Chapman,Thunder Bay,5.8,P7A6L4,1000 Huron Ave
+1841,W.T. Townshend,Kitchener,5.8,N2E4A3,245 Activa Ave
+1842,Winona,Winona,5.8,L8E5L3,255 Winona Road
+1843,Adjala Central,Loretto,5.7,L0G1L0,9091 County Rd 1 Box 192
+1844,Annunciation,Toronto,5.7,M3A2M8,65 Avonwick Gate
+1845,Avon,Stratford,5.7,N5A6N7,31 Huntingdon Ave
+1846,Beachburg,Beachburg,5.7,K0J1C0,20 Cameron St
+1847,Bishop Scalabrini,Mississauga,5.7,L5B3J5,225 Central Pkwy W
+1848,Blessed Kateri Tekakwitha,Toronto,5.7,M2J4C5,70 Margaret Ave
+1849,Blessed Teresa of Calcutta,Mississauga,5.7,L4Y2T2,1120 Runningbrook Dr
+1850,Clinton,Clinton,5.7,N0M1L0,27 Percival St Box 940
+1851,Cookstown Central,Cookstown,5.7,L0L1L0,5088 Cty Rd 27
+1852,Coronation,Cambridge,5.7,N3H4L1,757 Concession Rd
+1853,Courtland,Courtland,5.7,N0J1E0,1012 Queen St Box 245
+1854,Cundles Heights,Barrie,5.7,L4M2Z7,60 Cundles Rd E
+1855,Denne,Newmarket,5.7,L3Y6L1,330 Burford St
+1856,Dolson,Brampton,5.7,L7A0X5,30 Tribune Drive
+1857,Dr G J MacGillivray,Courtice,5.7,L1E3G7,75 Meadowglade Rd
+1858,ÉÉC Sainte-Marguerite-Bourgeoys,Brantford,5.7,N3T1B8,60 avenue Clench
+1859,Egremont,Holstein,5.7,N0G2A0,RR 2
+1860,Georges Vanier,Brampton,5.7,L6T3H9,28 Finchgate Blvd
+1861,Glencairn,Kitchener,5.7,N2E2R1,664 Erinbrook Dr
+1862,Goodfellow,Innisfil,5.7,L9S1A6,827 9th Line
+1863,H W Burgess,Wallaceburg,5.7,N8A2B3,140 Lawrence Ave
+1864,Holland-Chatsworth Central,Holland Centre,5.7,N0H1R0,777346 Hwy #10
+1865,Huron Centennial,Brucefield,5.7,N0M1J0,39978 CENTENNIAL RD
+1866,J Douglas Hogarth,Fergus,5.7,N1M1Z5,360 Belsyde St E
+1867,James R Henderson,Kingston,5.7,K7M4A8,361 Roosevelt Dr
+1868,Kawartha Heights,Peterborough,5.7,K9J1N4,11 Kawartha Heights Blvd
+1869,King City,King City,5.7,L7B1K9,25 King Blvd General Delivery
+1870,Lanor,Toronto,5.7,M8W2S1,450 Lanor Ave
+1871,L'Équinoxe,Pembroke,5.7,K8A5N6,412 ST PEMBROKE OUEST
+1872,Lester B Pearson,Ajax,5.7,L1T2M9,21 Coughlen St
+1873,Malvern,Toronto,5.7,M1B1P6,70 Mammoth Hall Trail
+1874,Manordale,Nepean,5.7,K2G0Y1,16 Carola St
+1875,Massassaga-Rednersville,Belleville,5.7,K8N4Z1,1115 County Road 3
+1876,Mitchell Hepburn,St Thomas,5.7,N5R0C2,95 Raven Ave.
+1877,Monsignor J E Ronan,Beeton,5.7,L0G1A0,10 Lily St E
+1878,Nobleton,Nobleton,5.7,L0G1N0,13375 Hwy 27 Box 310
+1879,Norman Cook,Toronto,5.7,M1K1G4,725 Danforth Rd
+1880,Our Lady of Lourdes,Sault Ste. Marie,5.7,P6C4R7,319 Prentice Ave
+1881,Our Lady of Victory,Ottawa,5.7,K2C3B3,1175 Soderlind St
+1882,Pius XII,Sudbury,5.7,P3B3P8,44 Third Avenue
+1883,Pope John Paul II,Barrie,5.7,L4N6A3,211 Ashford Dr
+1884,Port Elgin-Saugeen Central,Port Elgin,5.7,N0H2C1,504 Catherine St
+1885,Portage View,Barrie,5.7,L4N1P5,124 Letitia St
+1886,Precious Blood,Toronto,5.7,M1R2G8,1035 Pharmacy Ave
+1887,Queen Elizabeth,Belleville,5.7,K8N3Y4,135 MacDonald Ave
+1888,Queen Elizabeth,Sault Ste. Marie,5.7,P6A3Z5,139 Elizabeth St
+1889,Rockwood,Pembroke,5.7,K8A6W8,11588 Round Lake Road
+1890,Ross R MacKay,Hillsburgh,5.7,N0B1Z0,35 Trafalgar Rd
+1891,Saint-Denis,Sudbury,5.7,P3E0E5,1200 cour Ramsey View
+1892,Sainte-Thérèse,Windsor,5.7,N8T1C5,5305 rue Tecumseh Est
+1893,Sainte-Thérèse-d'Avila,Osgoode,5.7,K4R1E5,9575 chemin Marionville CP 1095
+1894,Saint-Jean/Pavillon La Croisée,Embrun,5.7,K0A1W0,1045 rue Notre-Dame C.P. 630
+1895,Saint-Vincent,North Bay,5.7,P1B1P2,124 rue King Est
+1896,Sir Isaac Brock,London,5.7,N6J2X1,80 St Lawrence Blvd
+1897,Southview,Napanee,5.7,K7R3K6,18 Golf Course Lane
+1898,St Augustine,Ottawa,5.7,K2C0H5,1009 Arnot Rd
+1899,St Boniface,Toronto,5.7,M1M2J1,20 Markanna Dr
+1900,St Boniface,Zurich,5.7,N0M2T0,24 Mary St Box 128 St. Boniface School
+1901,St Catherine of Siena,Woodbridge,5.7,L4L3J5,80 Terra Rd
+1902,St Cecilia,Brampton,5.7,L6V4L5,10 Brickyard Way
+1903,St Charles,Chelmsford,5.7,P0M1L0,26 Charlotte Street Box 1690
+1904,St Francis of Assisi,Georgetown,5.7,L7G1J4,120 Sinclair Ave
+1905,St John,Beamsville,5.7,L0R1B0,5684 Regional Road 81
+1906,St John the Evangelist,Toronto,5.7,M9N2B4,23 George St
+1907,St Joseph,South Porcupine,5.7,P0N1H0,207 Huot St Box 1270
+1908,St Joseph Island Central,Richards Landing,5.7,P0R1J0,1326 RICHARDS ST
+1909,St Joseph's,Acton,5.7,L7J1G7,147 Mill St
+1910,St Margaret of Scotland,Mississauga,5.7,L5L1C1,2266 Council Ring Rd
+1911,St Peter,Cambridge,5.7,N1R1C1,92 Avenue Rd
+1912,St Robert,London,5.7,N5V1H7,1958 Duluth Cres
+1913,Ste Marguerite Bourgeoys,Kenora,5.7,P9N3N5,20 Gunne Cres
+1914,Stirling,Stirling,5.7,K0K3E0,107 St. James Street
+1915,Sutton,Sutton West,5.7,L0E1R0,5147 Baseline Rd Box 190
+1916,Tapleytown,Stoney Creek,5.7,L8G3X4,390 Mud Street
+1917,West Bayfield,Barrie,5.7,L4N7J4,49 Ford St
+1918,Westmount,Thunder Bay,5.7,P7E5M4,120 West Begin St
+1919,Woburn,Toronto,5.7,M1G3N2,40 Dormington Dr
+1920,Annette Street,Toronto,5.6,M6P1R3,265 Annette St
+1921,Ardtrea/Cumberland Beach,Cumberland Beach,5.6,L0K1G0,2746 Cumberland Rd
+1922,Assumption,St Catharines,5.6,L2M1W3,225 Parnell Rd
+1923,Bayside,Belleville,5.6,K8N4Z2,132 Aikens Rd
+1924,Bishop Francis Allen,Brampton,5.6,L6Y1Z4,325 McMurchy Ave S
+1925,Brimwood Boulevard,Toronto,5.6,M1V1E5,151 Brimwood Blvd
+1926,Brooke Central,Alvinston,5.6,N0N1A0,7989 Brooke Line Box 220
+1927,Bruce Trail,Milton,5.6,L9T6N8,1199 Costigan Road
+1928,Chimo,Smiths Falls,5.6,K7A4V7,11 Ross Street
+1929,Chippewa,London,5.6,N5V2T6,1035 Chippewa Dr
+1930,Clearmeadow,Newmarket,5.6,L3X2E4,200 Clearmeadow Blvd
+1931,Coronation,Windsor,5.6,N8T1B1,5400 Coronation Dr
+1932,Crestview,Kitchener,5.6,N2B2R6,153 Montcalm Dr
+1933,des Voyageurs,Gloucester,5.6,K1C2T1,6030 prom. Voyageur
+1934,du Sacré-Coeur,Toronto,5.6,1T3,"98, rue Essex"
+1935,Dundas Central,Dundas,5.6,L9H2A2,73 Melville Street
+1936,Eamer's Corners,Cornwall,5.6,K6K1A3,2258 Pitt Street
+1937,Florence Meares,Burlington,5.6,L7M4W6,2102 Berwick Dr
+1938,Gateway,Toronto,5.6,M3C1B4,55 Gateway Blvd
+1939,Glen Tay,Perth,5.6,K7H3C6,155 Harper Road
+1940,Grand Valley,Grand Valley,5.6,L9W7N4,120 Main St N
+1941,Holy Family,Sault Ste. Marie,5.6,P6C2T4,42 Rushmere Dr
+1942,Holy Name,Toronto,5.6,M4K3K9,690 Carlaw Ave
+1943,Holy Rosary,Burlington,5.6,L7T2C7,261 Plains Rd E
+1944,Holy Spirit,Brampton,5.6,L6P1W9,25 Bloomsbury Avenue
+1945,J J O'Neill,Napanee,5.6,K7R2L4,240 Marilyn Ave
+1946,Jockvale,Nepean,5.6,K2J2S8,101 Malvern Dr
+1947,John XXIII,Kingston,5.6,K7M5Z9,736 High Gate Park Dr
+1948,Ken Danby,Guelph,5.6,N1E7C4,525 Grange Rd
+1949,Kingsville,Kingsville,5.6,N9Y1J3,36 Water St
+1950,Marlborough,Windsor,5.6,N9C1Y6,3557 Melbourne Rd
+1951,Mildmay-Carrick Central,Mildmay,5.6,N0G2J0,24 Vincent St 130
+1952,Monsignor Lee,Orillia,5.6,L3V2H9,14 Fitton's Rd E
+1953,Notre-Dame-du-Sault,Sault Ste. Marie,5.6,P6B2B9,600 rue North
+1954,Oakwood,Oakville,5.6,L6K3E5,357 Bartos Dr
+1955,Paisley Road,Guelph,5.6,N1H2R3,406 Paisley Rd
+1956,Queen Victoria,Windsor,5.6,N8X1P1,1376 Victoria Ave
+1957,Regina Mundi,Toronto,5.6,M6B2P9,70 Playfair Ave
+1958,Riverside,Mississauga,5.6,L5H2E8,30 John St N
+1959,Sir Ernest Macmillan,Burlington,5.6,L7M1V8,1350 Headon Rd
+1960,Sprucedale,Shakespeare,5.6,N0B2P0,59 Fraser St Box 70
+1961,St Aidan,Toronto,5.6,M1W2S2,3521 Finch Ave E
+1962,St Augustine,Toronto,5.6,M3N1S9,98 Shoreham Dr
+1963,St Barnabas,Toronto,5.6,M1B1H3,30 Washburn Way
+1964,St Clare,Woodbridge,5.6,L4L8J5,391 Velmar Dr
+1965,St Francis Xavier,Toronto,5.6,M6L1L3,53 Gracefield Ave
+1966,St James,Oakville,5.6,L6K2S2,255 Morden Rd
+1967,St John,Kitchener,5.6,N2G1R4,99 Strange St
+1968,St Kevin,Brampton,5.6,L6Y4C8,103 Malta Ave
+1969,St Lucy,Brampton,5.6,L7A3R2,25 Kanata Road
+1970,St Marcellus,Toronto,5.6,M9R3H2,15 Denfield St
+1971,St Marguerite Bourgeoys,Kingston,5.6,K7M8P5,355 Waterloo Ave
+1972,St Martin,Thunder Bay,5.6,P7E2L8,115 W Mary St
+1973,St Mary,Grafton,5.6,K0K2G0,103B Lyle St 40
+1974,St Mary,Welland,5.6,L3B3C7,120 Plymouth Rd
+1975,St Mary's,Barrie,5.6,L4N6K1,340 Leacock Dr
+1976,St Raymond,Mississauga,5.6,L5V2A9,5735 Whitehorn Ave
+1977,St Thomas More,Kingston,5.6,K7M2R4,234 Norman Rogers Dr
+1978,St Vincent,Chatham,5.6,N7M5J7,9399 McNaughton Line
+1979,St Vincent de Paul,Cambridge,5.6,N1R7C3,30 Faial Rd
+1980,Timmins Centennial,Timmins,5.6,P4N3K5,545 Wilcox St
+1981,W H Day,Bradford,5.6,L3Z2K7,410 Maplegrove Ave
+1982,Wheatley Area,Wheatley,5.6,N0P2P0,226 Erie St N Box 910
+1983,A J Charbonneau,Arnprior,5.5,K7S0E3,225B Baskin Dr W
+1984,Bellmoore,Binbrook,5.5,L0R1C0,2121 Highway #56
+1985,C H Bray,Ancaster,5.5,L9G1X7,99 Dunham Drive
+1986,Caldwell Street,Carleton Place,5.5,K7C3A5,70 Caldwell Street
+1987,Central,Windsor,5.5,N9E1H4,700 Norfolk St
+1988,Clairlea,Toronto,5.5,M1L2X1,25 Rosalind Cres
+1989,du Sacré-Coeur,Welland,5.5,L3C4W5,310 rue Fitch
+1990,Faywood Arts,Toronto,5.5,M3H2X5,95 Faywood Blvd
+1991,Good Shepherd,Brampton,5.5,L6R2H9,28 Red River Dr
+1992,Holy Jubilee,Maple,5.5,L6A2S8,400 St Joan of Arc Ave
+1993,Holy Name,Essex,5.5,N8M1Y1,200 Fairview Ave W
+1994,James Culnan,Toronto,5.5,M6S3S1,605 Willard Ave
+1995,Jeanne-Lajoie,Pembroke,5.5,K8A5R3,1255 Rue Pembroke Ouest
+1996,Keith Wightman,Peterborough,5.5,K9J4H6,860 St. Marys St
+1997,Lakefield District,Lakefield,5.5,K0L2H0,71 Bridge St
+1998,L'Envolée,Windsor,5.5,N8Y1R4,1799 rue Ottawa
+1999,Margaret D Bennie,Leamington,5.5,N8H3K8,259 Sherk St
+2000,Marie-Curie,London,5.5,N6H3Y3,40 Dr Hunt Club
+2001,Monsignor Castex,Midland,5.5,L4R4L3,120 Penetanguishene Rd Box 580
+2002,Muskoka Beechgrove,Gravenhurst,5.5,P1P1M9,395 Muskoka Beach Rd
+2003,New Sarum,St Thomas,5.5,N5P3S7,9473 Belmont Road
+2004,Notre Dame,Cobourg,5.5,K9A2X6,760 Burnham St
+2005,Oliver M Smith-Kawenni io,Ohsweken,5.5,1M0,1208 Third Line Rd
+2006,Onondaga-Brant,Brantford,5.5,N3T5L4,21 Brant School Road
+2007,Our Lady of Fatima,Ottawa,5.5,K2A0R3,2135 Knightsbridge Rd
+2008,Oxbow,Ilderton,5.5,N0M2A0,13624 Ilderton Road
+2009,Pioneer Park,Kitchener,5.5,N2P1G2,55 Upper Canada Dr
+2010,Pope John Paul II,Bolton,5.5,L7E5R8,9094 Bolton Heights Rd
+2011,Pope John Paul II,Kenora,5.5,P9N2Y8,1290 Heenan Place
+2012,Prince of Peace,Keswick,5.5,L4P3E9,181 Glenwoods Ave
+2013,Queen Elizabeth,Renfrew,5.5,K7V2R6,100 Veteran's Memorial Blvd
+2014,Queen Victoria,Belleville,5.5,K8N2M2,46 Pine St
+2015,Ray Lewis,Hamilton,5.5,L8W4A1,27 Jessica Street
+2016,Rick Hansen,London,5.5,N6E2L7,70 Ponderosa Cres
+2017,Roseland,Windsor,5.5,N9G1A4,620 Cabana Rd E
+2018,Ryerson,Toronto,5.5,M5T1E4,96 Denison Ave
+2019,Seigneurie,Casselman,5.5,K0A1M0,731 rue des Pommiers
+2020,Shaughnessy,Toronto,5.5,M2J1H5,30 Shaughnessy Blvd
+2021,Silverheights,Cambridge,5.5,N3C3Z7,390 Scott Rd
+2022,Sir John Moore Community,Corunna,5.5,N0N1G0,274 St Clair Blvd
+2023,St Agnes,Hamilton,5.5,L8E3Y8,80 Colcrest St
+2024,St Aidan,Brampton,5.5,L7A3B9,34 Buick Blvd
+2025,St Angela Merici,Brampton,5.5,L7A2N7,83 Edenbrook Hill Dr
+2026,St Conrad,Toronto,5.5,M3M2A5,610 Roding St
+2027,St David,Hamilton,5.5,L8G2E9,33 Cromwell Cres
+2028,St James,Ajax,5.5,L1S3E5,10 Clover Ridge Dr W
+2029,St Jane Frances,Toronto,5.5,M3L2E8,2745 Jane St
+2030,St John Vianney,Barrie,5.5,L4N3G7,393 Innisfil St
+2031,St Kevin,Welland,5.5,L3C1C4,182 Aqueduct St
+2032,St Leo,Brantford,5.5,N3R5T2,233 Memorial Dr
+2033,St Marguerite d'Youville,London,5.5,N6G4Z9,170 Hawthorne Rd
+2034,St Martin de Porres,Kanata,5.5,K2L1T7,20 McKitrick Dr
+2035,St Patrick,Brantford,5.5,N3R2X6,320 Fairview Dr
+2036,St Paul,Norwood,5.5,K0L2V0,55 Oak St Box 310
+2037,St Paul,Toronto,5.5,M5A3E5,80 Sackville St
+2038,St Pius X,London,5.5,N5W4R9,255 Vancouver St
+2039,St Vincent de Paul,Hamilton,5.5,L9C7M9,295 Greencedar Dr
+2040,St. Luke,Lindsay,5.5,K9V4R5,335 St. Luke's Road
+2041,Upper Thames,Mitchell,5.5,N0K1N0,165 Frances St E
+2042,West Lynde,Whitby,5.5,L1N6B1,270 Michael Blvd
+2043,West Nissouri,Thorndale,5.5,N0M2P0,37 Elliott Trail
+2044,Westfield,Tillsonburg,5.5,N4G0G5,102 Dereham Drive
+2045,Westminster,Brockville,5.5,K6V4N6,29 Central Avenue West
+2046,Westmount,London,5.5,N6K1H5,1011 Viscount Rd
+2047,Whole Child,Toronto,5.5,M4L2Y1,151 Hiawatha Road
+2048,Wilfrid Jury,London,5.5,N6G3M2,950 Lawson Road
+2049,William G Miller,Toronto,5.5,M1E3Y3,60 Bennett Rd
+2050,William Tredway,Toronto,5.5,M1H1X9,112 Sedgemount Dr
+2051,Anson S Taylor,Toronto,5.4,M1S4C5,20 Placentia Blvd
+2052,Aylesbury,Brampton,5.4,L7A0V3,25 Aylesbury Drive
+2053,Bowmore Road,Toronto,5.4,M4L3J2,80 Bowmore Rd
+2054,Bracebridge,Bracebridge,5.4,P1L2G1,90 McMurray St
+2055,Canadian Martyrs,Hamilton,5.4,L8S4M7,1355 Main St W
+2056,Cardinal Newman,Brampton,5.4,L6T1Z1,698 Balmoral Dr
+2057,Centreville,Centreville,5.4,K0K1N0,623 McGill St
+2058,Collegiate Avenue,Stoney Creek,5.4,L8G3L5,49 Collegiate Avenue
+2059,Errol Road,Sarnia,5.4,N7S2E6,989 Errol Rd E
+2060,Félix-Ricard,Sudbury,5.4,P3A1X3,691 boulevard Lasalle
+2061,Hastings,Hastings,5.4,K0L1Y0,25 Albert St W P O Box 309
+2062,Holy Name,Welland,5.4,L3C4W5,290 Fitch St
+2063,Huntsville,Huntsville,5.4,P1H2B2,16 Caroline St W
+2064,Jesse Ketchum,Toronto,5.4,M5R1H4,61 Davenport Rd
+2065,Leslie Frost,Lindsay,5.4,K9V3L1,51 Angeline St S
+2066,Lord Nelson,London,5.4,N5V1N8,1990 Royal Cres
+2067,Market Lane,Toronto,5.4,M5A4J6,246 The Esplanade
+2068,Meadowlands,Nepean,5.4,K2G2Y7,10 Fieldrow St
+2069,Perth Avenue,Toronto,5.4,M6P3P8,14 Ruskin Ave
+2070,Pinecrest,Ottawa,5.4,K2C3E7,1281 Pinecrest Rd
+2071,Queen Victoria,Toronto,5.4,M6K2V3,100 Close Ave
+2072,R L Hyslop,Stoney Creek,5.4,L8G1P3,20 Lake Avenue South
+2073,Roberta Bondar,Ottawa,5.4,K1T3J6,159 Lorry Greenberg Dr
+2074,Roden,Toronto,5.4,M4L2Y1,151 Hiawatha Rd
+2075,S T Worden,Courtice,5.4,L1E1S7,1462 Nash Rd
+2076,Sacred Heart,Marmora,5.4,K0K2M0,42 Bursthall St Box 280
+2077,Sainte-Kateri,Ottawa,5.4,K2J0S2,2450 Chemin River Mist
+2078,Saint-Thomas-d'Aquin,Sarnia,5.4,N7V2E9,931 chemin Champlain
+2079,Saint-Viateur,Limoges,5.4,K0A2M0,205 chemin Limoges C.P. 220
+2080,Springbank,Woodstock,5.4,N4S4Z9,1060 Sprucedale Rd
+2081,St Bernard of Clairvaux,Waterford,5.4,N0E1Y0,250 Washington St Box 760
+2082,St Carthagh,Tweed,5.4,K0K3J0,114 Hungerford Rd P.O. Bag 279
+2083,St Catherine,Peterborough,5.4,K9K2J6,1575 Glenforest Blvd
+2084,St Luke,Ottawa,5.4,K1G1C7,2485 Dwight Cres
+2085,St Margaret,Thunder Bay,5.4,P7A6S4,89 Clayte St
+2086,St Mark,Beamsville,5.4,L0R1B7,4114 Mountain St
+2087,St Mary,Niagara Falls,5.4,L2E2E8,5719 Morrison St
+2088,St Patrick,Harrowsmith,5.4,K0H1V0,3889 Wilton Rd
+2089,St Paul,Lakefield,5.4,K0L2H0,2 Grant Ave Box 370
+2090,St Paul's,Alliston,5.4,L9R1G5,161 Wellington St E
+2091,St Thomas,Waterdown,5.4,L0R2H7,170 Skinner Road
+2092,Sullivan,Chatsworth,5.4,N0H1G0,136285 Grey Rd 40 Box 93
+2093,Tavistock,Tavistock,5.4,N0B2R0,79 Maria St Box 370
+2094,The Elms,Toronto,5.4,M9W2H8,45 Golfdown Dr
+2095,Valleyfield,Toronto,5.4,M9P2E8,35 Saskatoon Dr
+2096,Walter Scott,Richmond Hill,5.4,L4C1J2,500 Major Mackenzie Dr E
+2097,Welborne Avenue,Kingston,5.4,K7M4G3,190 Welborne Ave
+2098,Westmount,Peterborough,5.4,K9J6T8,1520 Sherwood Cres
+2099,Alexander Muir,Newmarket,5.3,L3X3G1,75 Ford Wilson Blvd
+2100,AmherstView,Amherstview,5.3,K7N1L4,70 Fairfield Blvd
+2101,Banbury Heights,Brantford,5.3,N3P1E3,141 Banbury Rd
+2102,Bellview,Brantford,5.3,N3S1G5,97 Tenth Ave
+2103,Bolton C Falby,Ajax,5.3,L1S1N4,80 Falby Crt
+2104,Brier Park,Brantford,5.3,N3R6C5,10 Blackfriar Lane
+2105,Buchanan,Toronto,5.3,M1R3V3,4 Bucannan Rd
+2106,Burford District,Burford,5.3,N0E1A0,35 Alexander St Box 130
+2107,C R Judd,Capreol,5.3,P0M1H0,8 Lincoln Cres Box 460
+2108,Cedar Creek,Ayr,5.3,N0B1E0,55 Hilltop Dr
+2109,Centennial Hylands,Shelburne,5.3,L0N1S4,35 School Rd
+2110,Charlotte Lemieux,Ottawa,5.3,K2C0X2,2093 promenade Bel-Air
+2111,D. Roy Kennedy,Ottawa,5.3,K2A3G9,919 Woodroffe Ave
+2112,Dougall Avenue,Windsor,5.3,N9A4R2,811 Dougall Ave
+2113,Dunning-Foubert,Orléans,5.3,K1E2N1,1610 Prestwick Dr
+2114,École élémentaire Orangeville,Orangeville,5.3,L9W3K4,60 promenade Century
+2115,Father Hennepin,Niagara Falls,5.3,L2G2X1,6032 Churchill St
+2116,Forest View,Oshawa,5.3,L1H7H7,65 Athabasca Street
+2117,Foyer-Jeunesse,Hanmer,5.3,P3P1X5,4752 avenue Notre Dame 999
+2118,Franklin,Kitchener,5.3,N2A1Y9,371 Franklin St N
+2119,Gabrielle-Roy,Gloucester,5.3,K1T4A8,3395 avenue Daoust
+2120,Gardiner,Georgetown,5.3,L7G6L8,14365 Danby Road
+2121,Glenbrook,Shelburne,5.3,L0N1S2,300 Fiddlepark Lane
+2122,Highcastle,Toronto,5.3,M1E4E6,370 Military Trail
+2123,Holly Meadows,Barrie,5.3,L4N9N7,151 Mapleton Ave
+2124,Holy Cross,Sault Ste. Marie,5.3,P6A4Y8,16 Texas Avenue
+2125,Killaloe,Killaloe,5.3,K0J2A0,100 Queen St Box 189
+2126,Mohawk Gardens,Burlington,5.3,L7L1N3,5280 Spruce Ave
+2127,Montclair,Oakville,5.3,L6H1Z3,1285 Montclair Dr
+2128,Msgr John Corrigan,Toronto,5.3,M9V5B4,100 Royalcrest Rd
+2129,Mundy's Bay,Midland,5.3,L4R3Y4,340 SIXTH ST
+2130,North Hope Central,Campbellcroft,5.3,L0A1B0,3278 Ganaraska Rd
+2131,Nouvel Horizon,Hawkesbury,5.3,K6A1V9,433 boulevard Cartier
+2132,Ottawa Crescent,Guelph,5.3,N1E2A8,75 Ottawa Cres
+2133,Our Lady of Mount Carmel,Amherstview,5.3,K7N1L7,97 Park Cres
+2134,Polson Park,Kingston,5.3,K7M1Y3,165 Robert Wallace Dr
+2135,Pope Paul,Toronto,5.3,M6N2X5,270 Laughton Ave
+2136,Riverside,Elmira,5.3,N3B1N9,14A William St
+2137,Russell Reid,Brantford,5.3,N3R5E3,43 Cambridge Dr
+2138,Sacred Heart Catholic,Port Lambton,5.3,N0P2B0,434 John St Box 70
+2139,Saint-Ambroise,St. Joachim,5.3,N0R1S0,2716 route 42 C.P. 40
+2140,Saint-Michel,New Liskeard,5.3,P0J1P0,998075 route 11B Nord CP 5179
+2141,Saint-Philippe,Grande Pointe,5.3,N0P1S0,7195 line St-Philippe C.P. 23
+2142,Silver Springs,Toronto,5.3,M1V1S4,222 Silver Springs Blvd
+2143,St Anne,Iroquois Falls,5.3,P0K1G0,200 Church St Box 780
+2144,St Antoine Daniel,Toronto,5.3,M2N2J2,160 Finch Ave W
+2145,St Bede,Toronto,5.3,M1B5H3,521 Sewells Rd
+2146,St John,Peterborough,5.3,K9J3T4,746 Park Street S
+2147,St John Fisher,Brampton,5.3,L6T1V6,330 Balmoral Dr
+2148,St Marguerite d'Youville,Barrie,5.3,L4N7H6,240 Kozlov St
+2149,St Michael,Ridgetown,5.3,N0P2C0,25 Maple St S Box 640
+2150,St Michaels,Oakville,5.3,L6H1E3,165 Sewell Dr
+2151,St Patrick's,Caledonia,5.3,N3W1L3,81 Orkney St E
+2152,St. Basil,Sault Ste. Marie,5.3,P6B1X5,250 St. George's Avenue East
+2153,W J Langlois,Windsor,5.3,N8T2J2,3110 Rivard Ave
+2154,Whaley's Corners,Brampton,5.3,L6Y6B1,140 Howard Stewart Road
+2155,Willow Road,Guelph,5.3,N1H1W4,125 Willow Rd
+2156,Albion Heights,Toronto,5.2,M9V3W9,45 Lynmont Rd
+2157,Amherstburg,Amherstburg,5.2,N9V1E1,252 Hamilton Dr
+2158,Billy Green,Stoney Creek,5.2,L8J1W2,1105 Paramount Drive
+2159,Birds Creek,Bancroft,5.2,K0L1C0,33 South Baptiste Lake Road  33 South Baptiste Lake Rd
+2160,Bosanquet Central,Thedford,5.2,N0M2N0,8766 Northville Rd
+2161,Breslau,Breslau,5.2,N0B1M0,58 Joseph St Box 159
+2162,Brigden,Brigden,5.2,N0N1B0,1540 Duncan St Box 338
+2163,Dr George Hall,Little Britain,5.2,K0M2C0,374 Eldon Rd Box 10
+2164,E J Sand,Thornhill,5.2,L3T2L5,160 Henderson Ave
+2165,Edgewood,Toronto,5.2,M1P3S4,230 Birkdale Rd
+2166,Edward Street,St Thomas,5.2,N5P1Y7,84 Edward St
+2167,Ekcoe Central,Glencoe,5.2,N0L1M0,3719 PARKHOUSE DR
+2168,Essex,Essex,5.2,N8M2N8,72 BRIEN AVE
+2169,Five Mile,Thunder Bay,5.2,P7G2E9,2025 Dawson Road Box 1
+2170,Franco-Supérieur,Thunder Bay,5.2,P7A0A4,220 rue Elgin
+2171,Golf Road,Toronto,5.2,M1G1H7,730 Scarborough Golf Club Rd
+2172,Harriett Todd,Orillia,5.2,L3V2V1,11 George St
+2173,Hickson Central,Hickson,5.2,N0J1L0,161 Loveys St
+2174,John Darling,Kitchener,5.2,N2N3G9,200 Rolling Meadows Dr
+2175,John McCrae,Toronto,5.2,M1J1J1,431 McCowan Rd
+2176,Kinghurst,Chesley,5.2,N0G1L0,307 1st Ave N 360
+2177,Laurelwoods,Orangeville,5.2,L9W2Z3,374027 6 TH LINE
+2178,Longue Sault,Long Sault,5.2,K0C1P0,13 Bethune Avenue Box 460
+2179,Lynndale Heights,Simcoe,5.2,N3Y5G7,55 Donly Dr S
+2180,Macklin,Toronto,5.2,M1V2Y4,136 Ingleton Blvd
+2181,Mary Honeywell,Nepean,5.2,K2J3B2,54 Kennevale Dr
+2182,Our Lady of Fatima,Toronto,5.2,M1L1V6,3176 St Clair Ave E
+2183,Parry Sound,Parry Sound,5.2,P2A1X5,21 Beatty Street
+2184,Pineview,Athens,5.2,K0E1B0,8 George Street North 220
+2185,Prince Charles,Trenton,5.2,K8V5E1,138 Dufferin Ave S
+2186,Sacred Heart,Niagara Falls,5.2,L2G6Z2,8450 Oliver St
+2187,Sainte-Marie,Chatham,5.2,N7L0B2,90 promenade Dale
+2188,Salem,Elora,5.2,N0B1S0,23 Woolwich ST 4
+2189,Sandowne,Waterloo,5.2,N2K2C1,265 Sandowne Dr
+2190,Spruce Glen,Huntsville,5.2,P1H1C9,550 Muskoka Road 3 N Rd
+2191,St Agnes Catholic,Chatham,5.2,N7L1L5,55 Croydon St
+2192,St Ambrose,Stratford,5.2,N5A2E6,181 Louise St
+2193,St Anthony,London,5.2,N6E2H8,1380 Ernest Ave
+2194,St Gabriel,Cambridge,5.2,N3C0G1,15 Baldwin Drive
+2195,St John Bosco,Toronto,5.2,M6E1Y2,75 Holmesdale Rd
+2196,St John the Evangelist,Whitby,5.2,L1N2S3,1103 Giffard St
+2197,St Julia,Mississauga,5.2,L5W1J3,6770 Historic Trail
+2198,St Leonard,Brampton,5.2,L6Z2Z7,185 Conestoga Dr
+2199,St Mary,Mount Forest,5.2,N0G2L3,390 Parkside Dr
+2200,St Patrick,Port Colborne,5.2,L3K5R4,266 Rosemount Ave
+2201,St Paul,Kitchener,5.2,N2M4V7,45 Birchcliffe Ave
+2202,St Vincent de Paul,Mississauga,5.2,L4W3L6,665 Willowbank Trail
+2203,Summerside,Orléans,5.2,K4A0W3,2350 Portobello Boulevard
+2204,Sunset Park,North Bay,5.2,P1B8Z4,1191 Lakeshore Dr
+2205,Templemead,Hamilton,5.2,L8W3Z7,62 Templemead Drive
+2206,Vimy Ridge,Ottawa,5.2,K1T4H8,4180 Kelly Farm Drive
+2207,Vincent Massey,Bowmanville,5.2,L1C1S3,10 Church St
+2208,Westmount,Kitchener,5.2,N2M2M9,329 Glasgow St
+2209,Algonquin,Woodstock,5.1,N4T1R8,59 Algonquin Rd
+2210,Alliance,North Bay,5.1,P1B6C1,700 Stones St
+2211,Bedford,Stratford,5.1,N5A5J7,59 Bedford Dr
+2212,Bellwood,Whitby,5.1,L1N8M4,30 Bellwood Dr
+2213,Blair Road,Cambridge,5.1,N1S1A9,85 Sunset Blvd
+2214,Brock,Toronto,5.1,M6H3S4,93 Margueretta St
+2215,Chalmers Street,Cambridge,5.1,N1R5B4,35 Chalmers St S
+2216,Christ the King,Windsor,5.1,N9E1C9,1200 Grand Marais Rd W
+2217,Cobblestone,Paris,5.1,N3L0A9,179 Grandville Circle
+2218,Commonwealth,Brockville,5.1,K6V1R4,166 Pearl Street East
+2219,Cordella,Toronto,5.1,M6N2K1,175 Cordella Ave
+2220,Driftwood Park,Kitchener,5.1,N2N1S4,50 Parkland Cres
+2221,Dunwich-Dutton,Dutton,5.1,N0L1J0,239 Miller Rd Box 40
+2222,Grandview,New Hamburg,5.1,N3A1K4,341 Huron Pl
+2223,Hagersville,Hagersville,5.1,N0A1H0,40 Parkview Rd Box 579
+2224,Holy Cross,Innisfil,5.1,L9S2B8,910 Leslie Dr
+2225,Holy Cross,Ottawa,5.1,K1V6M4,2820 Springland Dr
+2226,Holy Family,London,5.1,N5V1E4,329 Hudson Dr
+2227,Holy Family,Ottawa,5.1,K1V9K3,245 Owl Dr
+2228,Immaculate Conception,Cornwall,5.1,K6H4M1,600 McConnell Ave
+2229,John Galt,Guelph,5.1,N1E4M9,50 Laurine Ave
+2230,Keatsway,Waterloo,5.1,N2L5V9,323 Keats Way
+2231,Laure-Rièse,Toronto,5.1,M1V5E3,339 Circle Alton Towers
+2232,Leslieville,Toronto,5.1,M4M3C9,254 Leslie St
+2233,Meadowview,Addison,5.1,K0E1A0,9234 Addison-Greenbush Road
+2234,Minto-Clifford Central,Harriston,5.1,N0G1Z0,5804 Highway 89
+2235,Monck,Bracebridge,5.1,P1L1C1,250 Wellington St
+2236,Parkinson Centennial,Orangeville,5.1,L9W1S8,120 Lawrence Ave
+2237,Perth Road,Perth Road,5.1,K0H2L0,1084 Walsh Lane
+2238,Plowman's Park,Mississauga,5.1,L5N3J5,5940 Montevideo Rd
+2239,Preston,Cambridge,5.1,N3H5C8,210 Westminster Dr N
+2240,Queen Mary,Peterborough,5.1,K9J5M8,1445 Monaghan St
+2241,R Tait McKenzie,Almonte,5.1,K0A1A0,175 Paterson Street
+2242,Romeo,Stratford,5.1,N5A3P2,49 Rebecca St
+2243,Sacred Heart,Cornwall,5.1,K6J4S2,1424 Aubin Ave
+2244,South Ridge,Tillsonburg,5.1,N4G0C1,10 South Ridge Road
+2245,St Anne,Cambridge,5.1,N1R5H6,127 Elgin St N
+2246,St Anne,Peterborough,5.1,K9H5E5,240 Bellevue St
+2247,St Anthony,Toronto,5.1,M6H1L9,130 Shanly Street
+2248,St Catherine of Siena,Barrie,5.1,L4N0A6,111 Summerset Dr
+2249,St Dunstan,Toronto,5.1,M1L3E4,14 Pharmacy Ave
+2250,St Helen,Toronto,5.1,M6H1B8,1196 College St
+2251,St Martin de Porres,Toronto,5.1,M1E3E1,230 Morningside Ave
+2252,St Michael,Cambridge,5.1,N3H4L6,1150 Concession Rd
+2253,St Michael the Archangel,Barrie,5.1,L4N8A2,349 Big Bay Point Rd
+2254,St Michael's,Woodstock,5.1,N4S2N6,1085 Devonshire Ave
+2255,St Paul the Apostle,Coniston,5.1,P0M1M0,1 Edward Ave N Box 209
+2256,Suddaby,Kitchener,5.1,N2H2M6,171 Frederick St
+2257,Terraview-Willowfield,Toronto,5.1,M1R4K1,95 Pachino Blvd
+2258,Tweed,Tweed,5.1,K0K3J0,52 McClellan Street
+2259,Viscount Alexander,Ottawa,5.1,K1N6Y7,55 Mann Ave
+2260,Willow Landing,Barrie,5.1,L4N8A8,330 Big Bay Point Rd
+2261,Wortley Road,London,5.1,N6C3R6,301 Wortley Rd
+2262,Arthur,Arthur,5,N0G1A0,155 Conestoga St N Box 148
+2263,Assiginack,Manitowaning,5,P0P1N0,134 Michael's Bay Rd Box 218
+2264,Baltimore,Baltimore,5,K0K1C0,9320 Burwash Rd Box 120
+2265,Bayview,Midland,5,L4R1C9,845 Ottawa St
+2266,Bridgeview,Point Edward,5,N7V1R4,205 Albert St
+2267,Cashmere Avenue,Mississauga,5,L5B2M7,2455 Cashmere Ave.
+2268,Cedarbrae,Waterloo,5,N2L4S7,230 Cedarbrae Ave
+2269,Chicopee Hills,Kitchener,5,N2A0J6,800 Fairway Road
+2270,Dorset Park,Toronto,5,M1P1V6,28 Blaisdale Rd
+2271,Dr Ross Tilley,Bowmanville,5,L1C4Y8,45 West Side Dr
+2272,Fred C Cook,Bradford,5,L3Z1L9,177 Church St 434
+2273,George Webster,Toronto,5,M4B2N9,2 Cedarcrest Blvd
+2274,Guy B Brown,Waterdown,5,L0R2H5,55 Braeheid Avenue
+2275,H M Robbins,Sault Ste. Marie,5,P6C1X4,83 East Balfour St
+2276,Harwood,Toronto,5,M6N3X3,50 Leigh St
+2277,Hillcrest,Hamilton,5,L8H6R7,40 Eastwood Street
+2278,Holy Family,Woodstock,5,N4S6A8,177 Oxford St
+2279,Holy Trinity,Sudbury,5,P3A0C1,1945 Hawthorne Drive
+2280,La Pinède,Borden,5,L0M1C0,116 chemin Waterloo est  Edifice 178
+2281,Le Coeur du Nord,Kapuskasing,5,P5N2B3,80 rue Cedar
+2282,Little Falls,St Marys,5,N4X1B6,25 Lindsay Atkinson Drive 1300
+2283,Mary Fix,Mississauga,5,L5B2M4,486 Paisley Blvd W
+2284,McKenzie-Smith Bennett,Acton,5,L7J2H4,69 Acton Blvd
+2285,Millbrook/South Cavan,Millbrook,5,L0A1G0,47 Tupper St
+2286,Monseigneur Rémi-Gaulin,Kingston,5,K7K5Y3,51 rue Virginia
+2287,Morning Glory,Pefferlaw,5,L0E1N0,29478 Hwy 48
+2288,Mount Carmel Blytheswood,Leamington,5,N8H3V5,622 Mersea Rd 5
+2289,North Meadows,Strathroy,5,N7G4G5,82 Middlesex Dr
+2290,Nottawa,Collingwood,5,L9Y3Z1,81 Batteaux Rd
+2291,Our Lady of Fatima,North Bay,5,P1A1R1,60 Marshall Ave
+2292,Queen Elizabeth II,Petrolia,5,N0N1R0,4104 Kerby St Box 479
+2293,R F Downey,Peterborough,5,K9H5S3,1221 Neptune St
+2294,Rama Central,Washago,5,L0K2B0,7269 County Rd 169
+2295,Robert Bateman,Ottawa,5,K1G5R8,1250 Blohm Dr
+2296,Sainte-Marguerite-Bourgeoys,Woodstock,5,N4T0E4,700 rue Bristol
+2297,South Branch,Kemptville,5,K0G1J0,2649 Concession Road Box 2009
+2298,Southridge,Kitchener,5,N2M5B3,1425 Queen's Blvd
+2299,St Dominic,Lindsay,5,K9V5X5,320 Mary St W
+2300,St Gabriel,Toronto,5,M2N3H5,396 Spring Garden Ave
+2301,St James,Windsor,5,N9C3P6,1601 St James St
+2302,St John,Garson,5,P3L1T7,181 William Street
+2303,St Joseph,Guelph,5,N1H5Y8,10 Guelph St
+2304,St Josephs,Hamilton,5,L8P4C1,270 Locke St S
+2305,St Kevin,Toronto,5,M1R3J6,15 Murray Glen Dr
+2306,St Mary's,Collingwood,5,L9Y3Y9,18 Saunders St
+2307,St Matthew,Toronto,5,M6N2B5,18 Lavender Rd
+2308,St Nicholas,St Catharines,5,L2R3E2,149 Church St
+2309,St Pio of Pietrelcina,Mississauga,5,L4Z4G9,4765 Huron Heights Dr
+2310,St Wilfrid,Toronto,5,M3J2G8,1685 Finch Ave W
+2311,W J Watson,Keswick,5,L4P3P2,162 Carrick Ave
+2312,Walpole North,Hagersville,5,N0A1H0,1895 Haldimand Road #55
+2313,Worsley,Wasaga Beach,5,L9Z1Z9,31 40th St S
+2314,Alain-Fortin,Orléans,4.9,K4A0J8,676 prom. Lakeridge
+2315,Alcona Glen,Innisfil,4.9,L9S4B7,1310 Innisfil Beach Road
+2316,Arthur Ford,London,4.9,N6J2Y4,617 Viscount Rd
+2317,Assikinack,Barrie,4.9,L4N6L3,226 Little Ave
+2318,Brookside,Lucknow,4.9,N0G2H0,36937 Belgrave Road
+2319,Caledonia Centennial,Caledonia,4.9,N3W2H1,110 Shetland Street
+2320,Charles E Webster,Toronto,4.9,M6M3X7,1900 Keele St
+2321,Christ The King,Cambridge,4.9,N1R8M5,70 Acorn Way
+2322,Duffin's Bay,Ajax,4.9,L1S3G4,66 Pittmann Cres
+2323,Eagle Heights,London,4.9,N6H1S9,284 Oxford St W
+2324,Fairmount,Toronto,4.9,M1M1C7,31 Sloley Rd
+2325,Forest Glade,Windsor,4.9,N8R1J5,9485 Esplanade Dr
+2326,General Vanier,Fort Erie,4.9,L2A2C1,105 Torrance St
+2327,George Vanier,Lively,4.9,P3Y1M4,249 Sixth Ave Box 340
+2328,Georges Vanier,Belleville,4.9,K8P2R8,100 Tracey St E
+2329,Glengrove,Pickering,4.9,L1V1X2,1934 Glengrove Rd
+2330,Hepworth Central,Hepworth,4.9,N0H1P0,402 Bruce Street Box 100
+2331,Holy Cross,Mississauga,4.9,L4T1Y4,3615 Morning Star Dr
+2332,Holy Cross,North Bay,4.9,P1A2Z8,602 Lake Heights Rd
+2333,Holy Name of Jesus,Hamilton,4.9,L8L7M5,181 Belmont Ave
+2334,Lions Oval,Orillia,4.9,L3V3N6,25 BRANT ST
+2335,Monsignor Morrison,St Thomas,4.9,N5P2H2,10 South Edgeware Drive
+2336,Moosonee,Moosonee,4.9,P0L1Y0,7 First St Box 250
+2337,Nouveau Regard - Pavillon St-Joseph,Cochrane,4.9,P0L1C0,399 rue 8e CP 1837
+2338,Our Lady of Guadalupe Catholic,Toronto,4.9,M2J3C2,3105 Don Mills Rd
+2339,Our Lady of Lourdes,Hamilton,4.9,L8V2H7,420 Mohawk Rd E
+2340,Princess Margaret,Orangeville,4.9,L9W2L6,51 Wellington St
+2341,Queen Elizabeth,Oshawa,4.9,L1G4X1,1205 Simcoe St N
+2342,Regent Park,Orillia,4.9,L3V4E2,485 Regent St
+2343,Riverview Alternative,Ottawa,4.9,K1G0K8,260 Knox Cres
+2344,Rothwell-Osnabruck,Ingleside,4.9,K0C1M0,1 College Street 400
+2345,Sacred Heart,Rockwood,4.9,N0B2K0,5146 Wellington Road 27
+2346,Sir William Stephenson,Whitby,4.9,L1N4A6,1125 Athol Street
+2347,Spring Valley,Brighton,4.9,K0K1H0,212 County Rd 26
+2348,St Anne,Hanmer,4.9,P3P1M8,4500 St Michel Street
+2349,St Bernard,Toronto,4.9,M6M4W4,12 Duckworth St
+2350,St Charles,Toronto,4.9,M6B2W1,50 Claver Ave
+2351,St John Bosco,Port Colborne,4.9,L3K3S7,191 Highland Ave
+2352,St Jude's,Ingersoll,4.9,N5C3T9,30 Caffyn St
+2353,St Nicholas,Barrie,4.9,L4N8E1,100 Lougheed Rd
+2354,St Theresa,Callander,4.9,P0H1H0,1475 Main St N Box 398
+2355,Tam O'Shanter,Toronto,4.9,M1T2V3,21 King Henrys Blvd
+2356,Tsi Snaihne,Akwesasne,4.9,1A1,127 Snye School Road
+2357,Walter Perry,Toronto,4.9,M1K4M7,45 Falmouth Ave
+2358,Waverley,Bowmanville,4.9,L1C3Y8,168 Waverley Rd
+2359,Wilberforce,Lucan,4.9,N0M2J0,340 Beech Street
+2360,Arklan Community,Carleton Place,4.8,K7C4R2,123 Patterson Crescent
+2361,Branlyn,Brantford,4.8,N3P1N9,238 Brantwood Park Rd
+2362,Carleton Village,Toronto,4.8,M6N2Z4,315 Osler St
+2363,Central,Renfrew,4.8,K7V3K4,140 Munroe Ave E
+2364,Christ the King Catholic,Wallaceburg,4.8,N8A2B9,227 Thomas Ave
+2365,de la Découverte,Val Caron,4.8,P3N1R8,1450 rue Main
+2366,Elmbank,Toronto,4.8,M9V3R4,10 Pittsboro Dr
+2367,Emma King,Barrie,4.8,L4N7C7,383 Cundles Rd W
+2368,Fairport Beach,Pickering,4.8,L1W2H5,754 Oklahoma Dr
+2369,Father F X O'Reilly,Tottenham,4.8,L0G1W0,235 Queen St N Box 520
+2370,Georges P Vanier,Windsor,4.8,N8S2A6,6200 rue Edgar
+2371,Golden,Balmertown,4.8,P0V1C0,16 Mine Rd
+2372,Greenholme,Toronto,4.8,M9V3M5,10 Jamestown Cres
+2373,Hanover Heights,Hanover,4.8,N4N1Y4,524 13th St
+2374,Harrow,Harrow,4.8,N0R1G0,400 Centre St E 160
+2375,Huntington Park,Hamilton,4.8,L8T4A5,80 Kingslea Drive
+2376,Iroquois,Iroquois,4.8,K0E1K0,66 Lakeview Drive 9
+2377,Lisgar,Hamilton,4.8,L8T2X6,110 Anson Avenue
+2378,Lockes,St Thomas,4.8,N5P2H2,22 South Edgeware Rd
+2379,Maison Montessori,Toronto,4.8,M6L2K5,116 Parkway Cornelius
+2380,Marchmont,Orillia,4.8,L3V6H2,1902 DIVISION RD West 2
+2381,New Lowell Central,New Lowell,4.8,L0M1N0,5197 County Rd 9
+2382,Pine River,Angus,4.8,L0M1B3,45 Brian Ave
+2383,Plattsville,Plattsville,4.8,N0J1S0,112 Mill St E
+2384,Prince Charles,Newmarket,4.8,L3Y1W9,684 Srigley St
+2385,Rolling Meadows,Burlington,4.8,L7P2H5,1522 Mountain Grove Ave
+2386,Sacred Heart,Batawa,4.8,K0K1E0,31 Thomas Bata Blvd General Delivery
+2387,St Andrew,Toronto,4.8,M9V3A8,2533 Kipling Ave
+2388,St Ann's,Hamilton,4.8,L8L0B8,15 St. Ann Street
+2389,St Elizabeth,Ottawa,4.8,K1Z7P5,1366 Coldrey Ave
+2390,St Gerard,Mississauga,4.8,L5C1M8,1300 McBride Ave
+2391,St Joseph's,Port Elgin,4.8,N0H2C1,584 STAFFORD ST
+2392,St Jude,Toronto,4.8,M9M2T9,3251 Weston Rd
+2393,St Michael's,Cobourg,4.8,K9A2G6,23 University Ave W
+2394,St. Pius X,Brantford,4.8,N3R2L4,127 Wood St
+2395,Tecumseth Beeton,Beeton,4.8,L0G1A0,43 Patterson St Box 302
+2396,Tottenham,Tottenham,4.8,L0G1W0,21 Rogers Rd Box 220
+2397,Trille des bois,Ottawa,4.8,K1L7Y9,140 rue Genest
+2398,W Sherwood Fox,London,4.8,N6J3P4,660 Steeplechase Dr
+2399,Alexander Stirling,Toronto,4.7,M1B3A9,70 Fawcett Trail
+2400,Ashley Oaks,London,4.7,N6E3P8,121 Ashley Cres
+2401,Blake Street,Toronto,4.7,M4J1A7,21 Boultbee Ave
+2402,Church Street,Toronto,4.7,M4Y1B7,83 Alexander St
+2403,Churchill,Sudbury,4.7,P3A1P1,1722 Fielding St
+2404,Diamond Trail,Welland,4.7,L3B1Z8,315 Southworth Street
+2405,E T Carmichael,North Bay,4.7,P1B6M6,1351 Chapais St
+2406,Echo Bay Central,Echo Bay,4.7,P0S1C0,290 Church St
+2407,Elma Township,Atwood,4.7,N0G1B0,5972 Line 72
+2408,Fallingbrook,Ottawa,4.7,K4A3E1,679 Deancourt Cres
+2409,Father Joseph Venini,Oshawa,4.7,L1G3X9,120 Glovers Rd
+2410,Ganaraska Trail,Port Hope,4.7,L1A2B7,34 Percival St
+2411,H A Halbert,Toronto,4.7,M1M3L7,31 McCowan Rd
+2412,Hillcrest,Owen Sound,4.7,N4K3M8,501 8th St W
+2413,Holy Family,Hanover,4.7,N4N2N5,334 10th Ave
+2414,Holy Rosary,Belleville,4.7,K8P2T4,10 Prince of Wales Dr
+2415,Holy Trinity,Sarnia,4.7,N7S0C3,60 Lorne Cr
+2416,Immaculate Conception,Windsor,4.7,N9A3M7,465 Victoria Ave
+2417,J W Walker,Fort Frances,4.7,P9A3K8,475 Keating Ave
+2418,Jarvis,Jarvis,4.7,N0A1J0,14 Monson St Box 310
+2419,John M James,Bowmanville,4.7,L1C5C6,175 Mearns Ave
+2420,John Mahood,Elmira,4.7,N3B1G1,5 First St W
+2421,Lake Avenue,Stoney Creek,4.7,L8E1L5,157 Lake Avenue North
+2422,Mary Wright,Strathroy,4.7,N7G1B1,213 Caroll Street
+2423,Meadowlane,Kitchener,4.7,N2N1C1,236 Forestwood Dr
+2424,Notre-Dame,Hanmer,4.7,P3P1L1,4503 rue Dennie
+2425,Orono,Orono,4.7,L0B1M0,171 Church St Box 30
+2426,Our Lady of Charity,Thunder Bay,4.7,P7A7P5,370 County Blvd
+2427,Sacred Heart,Hamilton,4.7,L8V2S3,5 Hamilton Ave
+2428,Sacred Heart,Midland,4.7,L4R1Y5,241 Elizabeth St E
+2429,Saint-Edmond,Windsor,4.7,N9B1X3,1880 rue Totten
+2430,Sophiasburgh Central,Picton,4.7,K0K2T0,406 County Road 15
+2431,St Alfred,Mississauga,4.7,L4X2M2,3341 Havenwood Dr
+2432,St Aloysius,Stratford,4.7,N5A6N4,228 Avondale Ave
+2433,St Alphonsus,Toronto,4.7,M6C3N9,60 Atlas Ave
+2434,St Anne's,London,4.7,N5V2E2,1366 Huron St
+2435,St Anthony,Harrow,4.7,N0R1G0,166 Centre St W Box 1240
+2436,St Bernadette,Barrie,4.7,L4N8R6,101 Marsellus Dr
+2437,St Bruno Catholic,Toronto,4.7,M6G3X6,402 Melita Crescent
+2438,St Elizabeth,Thunder Bay,4.7,P7E1V3,735 South Selkirk Ave
+2439,St Francis,London,4.7,N6E2G2,690 Osgoode Dr
+2440,St John,Guelph,4.7,N1E5G9,63 Victoria Rd N
+2441,St Martha,Toronto,4.7,M3L1Y5,1865 Sheppard Ave W
+2442,St Patrick's,Hamilton,4.7,L8N3X1,20 East Ave S
+2443,St. André Bessette,Brampton,4.7,L6P2V7,25 Riverstone Drive
+2444,Straffordville,Straffordville,4.7,N0J1Y0,9188 Plank Rd S Box 94
+2445,Summers' Corners,Aylmer,4.7,N5H2R1,50576 Talbot Line
+2446,Tecumseh,Chatham,4.7,N7L1R8,287 McNaughton Ave W
+2447,Tosorontio Central,Everett,4.7,L0M1J0,7016 County Rd 13
+2448,André-Cary,Kapuskasing,4.6,P5N1H9,39 rue Murdock
+2449,Angus Morrison,Angus,4.6,L0M1B0,91 Simcoe St
+2450,Boyne River,Alliston,4.6,L9R0E7,117 John W Taylor Avenue
+2451,Burnham,Cobourg,4.6,K9A2X1,614 Burnham St
+2452,Caledon Central,Caledon Village,4.6,L7K1Y7,18357 KENNEDY RD
+2453,Cedarland,Brantford,4.6,N3R6E5,60 Ashgrove Ave
+2454,Chief Dan George,Toronto,4.6,M1B2K5,185 Generation Blvd
+2455,Christ the King,Brantford,4.6,N3T4R4,165 Dufferin Ave
+2456,Dr F J McDonald,Ottawa,4.6,K2B6Z9,2860 Ahearn Ave
+2457,Elgin Court,St Thomas,4.6,N5R4P5,254 First Ave
+2458,Fairbank,Toronto,4.6,M6E3S5,2335 Dufferin St
+2459,Green Acres,Stoney Creek,4.6,L8G2K8,45 Randall Avenue
+2460,Grey Owl,Toronto,4.6,M1B1M4,150 Wickson Trail
+2461,Harold Longworth,Bowmanville,4.6,L1C5J5,350 Longworth Ave
+2462,Helen Detwiler,Hamilton,4.6,L9B2E3,320 Brigade Drive
+2463,Highview,Pembroke,4.6,K8A2Y4,320 Herbert St
+2464,Hillcrest,Barrie,4.6,L4N1V5,184 Toronto St
+2465,Hillside,Mississauga,4.6,L5J3V1,1290 Kelly Rd
+2466,Holbrook,Hamilton,4.6,L9C2B1,450 Sanatorium Road
+2467,Hugh Beaton,Windsor,4.6,N8W2V4,2229 Chilver Rd
+2468,Jersey,Keswick,4.6,L4P3E9,176 Glenwoods Ave.
+2469,John N Given,Chatham,4.6,N7L3T5,92 Churchill St
+2470,Kent,Campbellford,4.6,K0L1L0,150 Kent St. Box 1090
+2471,Langton,Langton,4.6,N0E1G0,23 Albert St Box 10
+2472,Laurie Hawkins,Ingersoll,4.6,N5C2R8,156 Innes Street
+2473,Maynard,Prescott,4.6,K0E1T0,21 Stewart Dr
+2474,Our Lady of Victory,Fort Erie,4.6,L2A3P7,300 Central Ave
+2475,Pauline Vanier,Brampton,4.6,L6Y4G5,56 Oaklea Blvd
+2476,Prince of Wales,Hamilton,4.6,L8L6X4,77 Melrose Avenue North
+2477,Prince of Wales,Peterborough,4.6,K9J5L4,1211 Monaghan Rd
+2478,Rockland,Rockland,4.6,K4K1C2,999 Giroux St
+2479,St Daniel's,Hamilton,4.6,L8T2X5,75 Anson Ave
+2480,St Francis de Sales,Toronto,4.6,M3N1K9,333 Firgrove Cres
+2481,St Mary,Toronto,4.6,M6H1M4,20 Portugal Sq
+2482,St Thomas Aquinas,Oshawa,4.6,L1J1V9,400 Pacific Ave
+2483,St. Anthony's,Port Hope,4.6,L1A3R9,74 Toronto Rd
+2484,Ste-Marguerite-d'Youville,Verner,4.6,P0H2M0,73 rue Principale Est C.P. 190
+2485,Tilbury Area,Tilbury,4.6,N0P2L0,5 Mable St Box 489
+2486,Trillium,Kitchener,4.6,N2E1C3,79 Laurentian Dr
+2487,Walpole Island,Wallaceburg,4.6,4K9,521 Tecumseh Road
+2488,Wilson Avenue,Kitchener,4.6,N2C1G9,221 Wilson Ave
+2489,Woodman-Cainsville,Brantford,4.6,N3S4K3,51 Woodman Dr
+2490,Andrew Hunter,Barrie,4.5,L4N5G4,59 Lampman Lane
+2491,Anna McCrea,Sault Ste. Marie,4.5,P6A3M7,250 Mark St
+2492,Burleigh Hill,St Catharines,4.5,L2T2V6,15 Burleigh Hill Dr
+2493,catholique Sainte-Anne,Ottawa,4.5,K1N8X8,235 promenade Beausoleil
+2494,Centennial,Cambridge,4.5,N3C1W4,100 Weaver St
+2495,Chedoke,Hamilton,4.5,L9C1R3,500 Bendamere Avenue
+2496,General Crerar,Toronto,4.5,M1P1C8,30 McGregor Rd
+2497,Gledhill,Toronto,4.5,M4C5K6,2 Gledhill Ave
+2498,Golden Avenue,South Porcupine,4.5,P0N1H0,117 Golden Avenue Box 2003
+2499,Good Shepherd,Gloucester,4.5,K1B3H5,101 Bearbrook Rd
+2500,Guardian Angels,Brampton,4.5,L7A2H4,62 Heatherdale Dr
+2501,Hamlet,Stratford,4.5,N5A7N4,315 West Gore St
+2502,J A McWilliam,Windsor,4.5,N8W1Y6,1901 E C Row Ave E
+2503,Kakabeka Falls District,Kakabeka Falls,4.5,P0T1W0,1 Porter Street
+2504,Keppel-Sarawak,Owen Sound,4.5,N4K5N4,937 24th St W
+2505,Metcalfe,Metcalfe,4.5,K0A2P0,2701 8th Line Rd
+2506,Mount Hope,Mount Hope,4.5,L0R1W0,9149 Airport Road West P.O. Box 220
+2507,Norwood,Norwood,4.5,K0L2V0,24 Flora St Box 220
+2508,Nottawasaga and Creemore,Creemore,4.5,L0M1G0,240 Collingwood St Box 276
+2509,Pauline Johnson,Hamilton,4.5,L9A4B1,25 Hummingbird Lane
+2510,Pauline Johnson,Toronto,4.5,M1T2K2,35 Dunmurray Blvd
+2511,Princess Elizabeth,London,4.5,N5Z2Z3,247 Thompson Rd
+2512,Sacred Heart,Toronto,4.5,M1B4S3,75 Hupfield Trail
+2513,Saint-Dominique,Sudbury,4.5,P3A2K8,2096 rue Montfort
+2514,Saint-Joseph,Port Colborne,4.5,L3K2C3,210 rue Elizabeth
+2515,Sawmill Creek,Gloucester,4.5,K1T1R5,3400 D'Aoust Ave
+2516,Silver Birches,North Bay,4.5,P1B3L4,65 Marshall Ave W
+2517,Spruce Ridge,Durham,4.5,N0G1R0,239 Kincardine Street Box 679
+2518,St Andrew,Welland,4.5,L3B1E1,16 St Andrews Street
+2519,St Angela,Windsor,4.5,N8X2H6,816 Ellis St E
+2520,St Anne,Blenheim,4.5,N0P1A0,183 Snow Ave P O Box 2038
+2521,St Antoine Daniel,Victoria Harbour,4.5,L0K2A0,460 Park St 69
+2522,St Brigid,Ottawa,4.5,K1M1C2,200 Springfield Rd
+2523,St Joseph,Oshawa,4.5,L1K0C2,1200 Summerwood Heights
+2524,St Peter,Orangeville,4.5,L9W2W3,46 Dawson Rd
+2525,St. Matthew,Sarnia,4.5,N7T4H3,720 Elm Ave
+2526,Storrington,Battersea,4.5,K0H1H0,4576 Battersea Rd
+2527,Victoria Terrace,Fergus,4.5,N1M2G5,500 Victoria Terrace
+2528,Bertha Shaw,South Porcupine,4.4,P0N1H0,109 Powell Ave Box 2004
+2529,Clearview Meadows,Stayner,4.4,L0M1S0,12 Locke Ave
+2530,Cyril Varney,Sudbury,4.4,P3A4G5,1545 Gary St
+2531,Emily C General,Ohsweken,4.4,1M0,1575 Onondaga Rd RR 1
+2532,Englehart,Englehart,4.4,P0J1H0,70 Eighth Ave 489
+2533,Fairview Avenue,Dunnville,4.4,N1A1M4,223 Fairview Ave W
+2534,Greenwood,Sault Ste. Marie,4.4,P6A5K8,8 Fourth Line W
+2535,Harris Heights,Ingersoll,4.4,N5C3M8,2 Caffyn St
+2536,J R Wilcox,Toronto,4.4,M6C1X3,231 Ava Rd
+2537,Kings Road,Burlington,4.4,L7T3P3,660 Greenwood Dr
+2538,Linwood,Linwood,4.4,N0B2A0,50 Pine St
+2539,London Road,Sarnia,4.4,N7T4V8,240 London Rd
+2540,Lucy Maud Montgomery,Toronto,4.4,M1B2L6,95 Murison Blvd
+2541,Lynngate,Toronto,4.4,M1T2B5,129 Cass Ave
+2542,Madoc,Madoc,4.4,K0K2K0,32 Baldwin St Box 700
+2543,Mitchell Woods,Guelph,4.4,N1H8K2,670 Willow Rd
+2544,Monsignor Haller,Kitchener,4.4,N2E1E8,118 Shea Cres
+2545,North Woods,Ethel,4.4,N0G1T0,84925 Ethel Line
+2546,Palmerston,Palmerston,4.4,N0G2P0,530 Prospect St Box 430
+2547,Pleasant Corners,Vankleek Hill,4.4,K0B1R0,4099 Highway 34
+2548,Redwood Acres,Hanmer,4.4,P3P1V1,4625 Carl St Box 2000
+2549,Roger Neilson,Peterborough,4.4,K9J5T4,550 Erskine Ave
+2550,Roseneath Centennial,Roseneath,4.4,K0K2X0,9047 County Rd 45 Box 59
+2551,St Anthony,Brampton,4.4,L6S3L5,950 North Park Dr
+2552,St Anthony's,Chalk River,4.4,K0J1J0,2 McCarthy St
+2553,St Bernard,Windsor,4.4,N8W4E1,1847 Meldrum Rd
+2554,St Catherine,Toronto,4.4,M3A1E9,30 Roanoke Rd
+2555,St Sebastian,London,4.4,N5Z3W6,225 Cairn St
+2556,St Theresa,Whitby,4.4,L1N3S4,173 Crawforth St
+2557,Steele Street,Barrie,4.4,L4M2E7,36 Steel St
+2558,St-Joseph,Penetanguishene,4.4,L9M1N4,30 rue Poyntz
+2559,Blessed Trinity,Toronto,4.3,M2K1G3,3205 Bayview Ave
+2560,Brant Avenue,Guelph,4.3,N1E1G2,64 Brant Ave
+2561,Buchanan Park,Hamilton,4.3,L9C3R9,30 Laurier Avenue
+2562,Byng,Stayner,4.3,L0M1S0,239 William St Box 320
+2563,Claude E Garton,Thunder Bay,4.3,P7A1X9,414 Grenville Ave
+2564,Essex,Toronto,4.3,M6G1T3,50 Essex St  East Building
+2565,Fairwood,Keswick,4.3,L4P3Y5,201 Fairwood Drive
+2566,General Brock,Toronto,4.3,M1L1Y5,140 Chestnut Cres
+2567,Heritage,Navan,4.3,K4B1N1,1375 Colonial Rd
+2568,Lake Simcoe,Keswick,4.3,L4P4A3,38 Thornlodge Dr
+2569,Macphail Memorial,Flesherton,4.3,N0C1E0,49 Campbell St Box 160
+2570,Madoc Township,Madoc,4.3,K0K2K0,234 Public School Rd
+2571,Maple Leaf,Newmarket,4.3,L3Y2Y7,155 Longford Dr
+2572,Maple Wood,Mississauga,4.3,L5N2R2,2650 Gananoque Dr
+2573,Montague,Smiths Falls,4.3,K7A4S6,1200 Rosedale Road South
+2574,New Liskeard,New Liskeard,4.3,P0J1P0,141 Dymond St Box 159
+2575,North Ward,Paris,4.3,N3L1V2,107 Silver St
+2576,Parkland,Sault Ste. Marie,4.3,P6A5G1,54 Amber St
+2577,Queen Elizabeth II,Chatham,4.3,N7M3Y9,79 Eugenie St
+2578,Rawlinson,Toronto,4.3,M6E3C7,231 Glenholme Ave
+2579,Ridgeview Moravian,Ridgetown,4.3,N0P2C0,20473 Victoria Rd
+2580,Sainte-Trinité,Rockland,4.3,K4K1C2,879 rue St-Joseph
+2581,Saint-Thomas-D'Aquin,Astorville,4.3,P0H1B0,1392 chemin Village C.P. 159
+2582,St Anne,Brampton,4.3,L6V1M5,124 Vodden St
+2583,St David,Sudbury,4.3,P3C2S8,350 Jean Street
+2584,St Gerald,Toronto,4.3,M2J3L9,200 Old Sheppard Ave
+2585,St Nicholas of Bari,Toronto,4.3,M6E1R6,363 Rogers Rd
+2586,St Vincent,Thunder Bay,4.3,P7C1Z6,150 West Redwood Ave
+2587,St. Anne's,St Thomas,4.3,N5R4W1,84 Park Ave
+2588,Valleyview,Kenora,4.3,P9N4K3,1529 Valley Drive
+2589,Viscount Montgomery,Hamilton,4.3,L8K1R3,1525 Lucerne Avenue
+2590,W Earle Miller,Timmins,4.3,P4N8H3,200 Victoria Ave Bag 2014
+2591,West Lynn,Simcoe,4.3,N3Y1A1,18 Parker Dr
+2592,Winston Churchill,Chatham,4.3,N7M3C7,30 Crystal Dr
+2593,Beau Valley,Oshawa,4.2,L1G3G3,230 Marigold Ave
+2594,Chelmsford,Chelmsford,4.2,P0M1L0,121 Charlotte St Box 249
+2595,Dixon Grove,Toronto,4.2,M9R1H1,315 The Westway
+2596,Dovercourt,Toronto,4.2,M6H3G4,228 Bartlett Ave
+2597,East Lambton,Watford,4.2,N0M2S0,139 Centennial Ave 250
+2598,East View,Sault Ste. Marie,4.2,P6A4L9,75 Arizona Ave
+2599,Evergreen,Kenora,4.2,P9N2R5,675 Brinkman Rd
+2600,Harwich-Raleigh,Blenheim,4.2,N0P1A0,231 Chatham St S Box 1060
+2601,Héritage,North Bay,4.2,P1B0A3,2345 ave Connaught
+2602,Isabel Fletcher,Sault Ste. Marie,4.2,P6A6K4,599 Third Line W
+2603,June Avenue,Guelph,4.2,N1H1H6,30 June Ave
+2604,Kane,Toronto,4.2,M6M3P1,300 Kane Ave
+2605,King Edward,Toronto,4.2,M5S2P1,112 Lippincott St
+2606,Macaulay,Bracebridge,4.2,P1L1W9,1270 Cedar Lane
+2607,Oakwood,Port Colborne,4.2,L3K3Z1,255 Omer Ave
+2608,Osprey Central,Maxwell,4.2,N0C1J0,408053 Grey Road 4 Box 60
+2609,Our Lady of Fatima,Belleville,4.2,K8P3Z3,300 Sidney St
+2610,Paris Central,Paris,4.2,N3L2R2,7 Broadway St E
+2611,Prince Edward,Windsor,4.2,N9A4G2,949 Giles Blvd E
+2612,Queen Victoria,Lindsay,4.2,K9V1J3,11 John St
+2613,St James,Toronto,4.2,M6S4L3,230 Humbercrest Blvd
+2614,St John Brebeuf,Erin,4.2,N0B1T0,30 Millwood Rd
+2615,St Jude,Thunder Bay,4.2,P7C2N4,345 Ogden St
+2616,St Patrick's,Atikokan,4.2,P0T1C0,160 Hemlock Ave
+2617,St Peter,Guelph,4.2,N1H7G1,150 Westwood Rd
+2618,St Vincent de Paul,Strathroy,4.2,N7G2Y5,286 McKellar St
+2619,Teeterville,Teeterville,4.2,N0E1S0,229 Teeter St Box 1
+2620,Walkerton District,Walkerton,4.2,N0G2V0,1320 Yonge Street S.
+2621,Arch Street,Ottawa,4.1,K1G2H5,2129 Arch St
+2622,Archie Stouffer,Minden,4.1,K0M2K0,12 Vintage Cres. Box 370
+2623,Assumption,Aylmer,4.1,N5H1P6,42 South St E
+2624,Birchview Dunes,Wasaga Beach,4.1,L9Z2W6,1315 River Rd W
+2625,Canadian Martyrs,Penetanguishene,4.1,L9M1N6,7 Bellisle Rd
+2626,Copper Cliff,Copper Cliff,4.1,P0M1N0,50 School St Box 879
+2627,D'Arcy McGee,Toronto,4.1,M6E2A2,20 Bansley Ave
+2628,Delhi,Delhi,4.1,N4B2K6,227 Queen St
+2629,Dr H D Taylor,Windsor,4.1,N9B3M7,1275 Campbell Ave
+2630,Elgin Avenue,Simcoe,4.1,N3Y4A8,80 Elgin Ave
+2631,Fairfield,Amherstview,4.1,K7N1J1,59 Kildare Ave
+2632,Forest Hill,Kitchener,4.1,N2M4Z2,255 Westmount Rd E
+2633,Gravenhurst,Gravenhurst,4.1,P1P1X6,301 Mary St S
+2634,Grenoble,Toronto,4.1,M3C1C3,9 Grenoble Dr
+2635,Highview,Hamilton,4.1,L8T1J4,1040 Queensdale Avenue East
+2636,King Edward,Windsor,4.1,N8Y2K5,853 Chilver Rd
+2637,Land O Lakes,Mountain Grove,4.1,K0H2E0,1447 Mountain Grove Rd 57
+2638,Land of Lakes,Burk's Falls,4.1,P0A1C0,92 Ontario St Box 538
+2639,Princess Anne,Sudbury,4.1,P3C1H7,500 Douglas St W
+2640,Ridgemount,Hamilton,4.1,L9A2N3,65 Hester Street
+2641,Sacred Heart,Espanola,4.1,P5E1B3,273 Mead Blvd
+2642,Saint Mary's,Huntsville,4.1,P1H1N1,36 Silverwood Dr
+2643,St Angela,Toronto,4.1,M9V3Z5,220 Mount Olive Dr
+2644,St Augustine,Welland,4.1,L3B2J8,300 Santone Ave
+2645,St Francis of Assisi,Innisfil,4.1,L9S1W2,1067 Anna Maria Ave
+2646,St Mary,Brampton,4.1,L6W2C6,66 Main St S
+2647,St Peter,Trenton,4.1,K8V4Y2,101 Queen St
+2648,Victoria Harbour,Victoria Harbour,4.1,L0K2A0,1 MacKenzie Cres Box 70
+2649,Westwood,Guelph,4.1,N1H7C7,495 Willow Rd
+2650,York Street,Ottawa,4.1,K1N5V3,310 York St
+2651,Bobby Orr,Oshawa,4,L1H8V9,7 Waterloo St
+2652,Boston,Waterford,4,N0E1Y0,2993 Cockshutt Rd
+2653,Cedar Drive,Toronto,4,M1J3G4,21 Gatesview Ave
+2654,Corvette,Toronto,4,M1K3G2,30 Corvette Ave
+2655,D M Sutherland,Woodstock,4,N4S7K6,110 Winchester St
+2656,Gateway Drive,Guelph,4,N1H6X1,33 Gateway Dr
+2657,Havelock-Belmont,Havelock,4,K0L1Z0,55 Mathison St  250325
+2658,Hess Street,Hamilton,4,L8R2T1,107 Hess Street North
+2659,Holy Cross,Brantford,4,N3S4V1,358 Marlboro St
+2660,Howard Robertson,Kitchener,4,N2A2M5,130 Morgan Ave
+2661,Huron Park,Midland,4,L4R2M2,425 Robert St
+2662,Maple Grove,Barrie,4,L4M2P9,242 Grove St E
+2663,Military Trail,Toronto,4,M1E4P6,701 Military Trail
+2664,Nicholas Wilson,London,4,N6E1C9,927 Osgoode Dr
+2665,Nobel,Nobel,4,P0G1G0,140 Hammel Ave
+2666,Notre-Dame-de-la-Jeunesse,Niagara Falls,4,L2G4S1,7374 croissant Wilson
+2667,Our Lady of Lourdes,Elmvale,4,L0L1P0,34 Kerr Street
+2668,Portage Trail Junior Community,Toronto,4,M6M5H6,100 Sidney Belsey Cres
+2669,Rainham Central,Fisherville,4,N0A1G0,572 Concession 5
+2670,St Barbara,Toronto,4,M1G1Y2,25 Janray Dr
+2671,St Christopher,St Catharines,4,L2P2A1,33 Woodrow St
+2672,St Mary,Trenton,4,K8V3A2,85 Campbell St
+2673,St Mary's,West Lorne,4,N0L2P0,128 William St Box 119
+2674,St Patrick,Peterborough,4,K9J8L9,300 Otonabee Dr
+2675,Thompson Creek,Dunnville,4,N1A1N7,800 Cross St W
+2676,Warden Avenue,Toronto,4,M1L3Z3,644 Warden Ave
+2677,Willow Park,Toronto,4,M1G1P1,45 Windover Dr
+2678,Woodland Heights,London,4,N6J1G8,474 Springbank Dr
+2679,A A Wright,Wallaceburg,3.9,N8A3M7,55 Elm St
+2680,Aberdeen,London,3.9,N6B1H8,580 Grey St
+2681,Brant Hills,Burlington,3.9,L7P4C3,2330 Duncaster Dr
+2682,Bridgewood,Cornwall,3.9,K6H0G4,850 Nick Kaneb Drive
+2683,Colonel Cameron,Corunna,3.9,N0N1G0,338 Cameron St 250
+2684,Couchiching Heights,Orillia,3.9,L3V4P7,455 LACLIE ST
+2685,Deer Park,Keswick,3.9,L4P3C8,605 Varney Rd
+2686,Deseronto,Deseronto,3.9,K0K1X0,385 Stanley Ave
+2687,Elgin Street,Cambridge,3.9,N1R7W6,685 Elgin St N
+2688,Franklin D Roosevelt,London,3.9,N5V2B7,560 Second St
+2689,Gordon B Attersley,Oshawa,3.9,L1K1X8,1110 Attersley Dr
+2690,Gordon McGregor,Windsor,3.9,N8Y4P4,1646 Alexis Rd
+2691,Holy Name,Pembroke,3.9,K8A5C3,299 First Ave North
+2692,Immaculée-Conception,St Catharines,3.9,L2R3E2,153 rue Church
+2693,J G Workman,Toronto,3.9,M1K1N7,487 Birchmount Rd
+2694,Kinnwood Central,Forest,3.9,N0N1J0,63 MacDonald St Box 1060
+2695,La Résurrection,Sturgeon Falls,3.9,P2B3C6,136 rue Third C.P. 120
+2696,Mapleridge,Powassan,3.9,P0H1Z0,171 Edward St S Box 340
+2697,Maryvale,Toronto,3.9,M1R2J1,1325 Pharmacy Ave
+2698,P.E. McGibbon,Sarnia,3.9,N7T3L6,217 RUSSELL ST
+2699,Pope John Paul II,Lindsay,3.9,K9V5K1,130 Orchard Park Rd
+2700,Priory Park,Guelph,3.9,N1G3A1,275 Scottsdale Dr
+2701,River View,Sault Ste. Marie,3.9,P6B1L4,51 Wireless Ave
+2702,Robert Moore,Fort Frances,3.9,P9A1N4,528 Second St E
+2703,Sioux Mountain,Sioux Lookout,3.9,P8T1B5,89 First St Box 969
+2704,St Albert,Toronto,3.9,M1K4H2,1125 Midland Ave
+2705,St Elizabeth Seton,Toronto,3.9,M1S3A4,25 Havenview Rd
+2706,St John's,Red Lake,3.9,P0V2M0,54 Discovery Rd Box 888
+2707,St Joseph,Brampton,3.9,L6X2G4,8 Parkway Ave
+2708,St Ursula,Toronto,3.9,M1E1L8,215 Livingston Rd
+2709,Tweedsmuir,London,3.9,N5W1L5,349 Tweedsmuir Ave
+2710,Ahkwesahsne Mohawk,Cornwall,3.8,K6H5T7,Box 819
+2711,Armour Heights,Peterborough,3.8,K9H1K1,245 McFarlane St
+2712,Cleardale,London,3.8,N6C3W4,780 Dulaney Dr
+2713,Fenelon,Cameron,3.8,K0M1G0,50 Cameron Rd
+2714,Immaculate Conception,Toronto,3.8,M6M2K9,23 Comay Rd
+2715,Jean Vanier,Brantford,3.8,N3S1E7,120 NINTH AVE
+2716,King George VI,Kenora,3.8,P9N2C3,320 Sixth Ave S
+2717,Knob Hill,Toronto,3.8,M1J1M8,25 Seminole Ave
+2718,Manchester,Cambridge,3.8,N1R5R5,455 Dundas St
+2719,Manhattan Park,Toronto,3.8,M1R3V8,90 Manhattan Dr
+2720,Northbrae,London,3.8,N5Y2K3,335 Belfield St
+2721,Our Lady of the Assumption,Toronto,3.8,M6B3C2,125 Glenmount Ave
+2722,Pine Glen,Huntsville,3.8,P1H1M5,126 West Road
+2723,Prueter,Kitchener,3.8,N2H6G6,40 Prueter Ave
+2724,Queen Elizabeth II,Sudbury,3.8,P3C2X8,32 Dell St
+2725,Regina Street,Ottawa,3.8,K2B8B6,2599 Regina St
+2726,Saint-Louis,Penetanguishene,3.8,L9M1H4,54 rue Dufferin
+2727,Saint-Paul,Pointe-aux-Roches,3.8,N0R1N0,840 Road Comber Side C.P. 70
+2728,Springfield,Springfield,3.8,N0L2J0,51336 Ron McNeil Line
+2729,St Columba,Toronto,3.8,M1B1M9,10 John Tabor Trail
+2730,St John Bosco,Brampton,3.8,L6S4E1,1025 North Park Dr
+2731,St Michael,Belleville,3.8,K8N3C7,273 Church St
+2732,St. Joseph,Cobourg,3.8,K9A4B4,919 D'Arcy St N
+2733,Vanier,Brockville,3.8,K6V3J5,40 Vanier Drive
+2734,Assomption,Earlton,3.7,P0J1E0,24 avenue 9e CP 40
+2735,Bishop Townshend,London,3.7,N5Y1X4,814 Quebec St  7865
+2736,Centennial,Ottawa,3.7,K1R5E8,376 Gloucester St
+2737,David Bouchard,Oshawa,3.7,L1H6C9,460 Wilson Road
+2738,David Maxwell,Windsor,3.7,N8Y4L9,1648 Francois Rd
+2739,Elizabeth Bagshaw,Hamilton,3.7,L8K5J4,350 Albright Road
+2740,Evergreen Heights,Emsdale,3.7,P0A1J0,2510 Highway 592 Box 149
+2741,Frankford,Frankford,3.7,K0K2C0,36 Adelaide St Box 300
+2742,Galloway Road,Toronto,3.7,M1E1X2,192 Galloway Rd
+2743,General Brock,Windsor,3.7,N9C1B1,3312 Sandwich St
+2744,Glen Cairn,London,3.7,N5Z3Y5,53 Frontenac Rd
+2745,Grafton,Grafton,3.7,K0K2G0,654 Station Rd Box 100
+2746,Greely,Greely,3.7,K4P1A9,7066 Parkway Rd
+2747,Humphrey Central,Parry Sound,3.7,P2A2W8,120 Hwy 141
+2748,J L Mitchener,Cayuga,3.7,N0A1E0,60 Munsee St. S Box 99
+2749,Lawfield,Hamilton,3.7,L8V2R5,45 Berko Avenue
+2750,Meadowbrook,Newmarket,3.7,L3Y3L5,233 Patterson St
+2751,Mosa Central,Glencoe,3.7,N0L1M0,22741 Pratt Siding Rd  22741
+2752,Oakley Park,Barrie,3.7,L4M3R8,22 Davidson St
+2753,Princess Elizabeth,Windsor,3.7,N8S1Z6,5399 Raymond Rd
+2754,Roxmore,Avonmore,3.7,K0C1C0,16279 Fairview Drive 39
+2755,Santa Maria,Toronto,3.7,M6N4X8,25 Avon Ave
+2756,St Margaret's,Toronto,3.7,M1E1X5,235 Galloway Rd
+2757,St Mary's,Goderich,3.7,N7A1A4,70 Bennett St E
+2758,Stella Maris,Toronto,3.7,M6E1E6,31 Ascot Ave
+2759,Sundridge Centennial,Sundridge,3.7,P0A1Z0,118 Main St Box 419
+2760,The Prince Charles,Napanee,3.7,K7R2J9,75 Graham St W
+2761,V P Carswell,Trenton,3.7,K8V2E9,4 Seneca Rd
+2762,Victor Lauriston,Chatham,3.7,N7M1Y1,44 Alexandra Ave
+2763,Zorra Highland Park,Embro,3.7,N0J1J0,County Road 6
+2764,Annandale,Tillsonburg,3.6,N4G3A1,60 Tillson Ave
+2765,Avenue Road,Cambridge,3.6,N1R4M2,42 Gail St
+2766,Bonaventure Meadows,London,3.6,N5V4S6,141 Bonaventure Dr
+2767,Central,Cambridge,3.6,N1R1W5,175 Main St E
+2768,Chesterville,Chesterville,3.6,K0C1H0,38 College Street 489
+2769,Evelyn Harrison,London,3.6,N5V2M8,50 Tewksbury Cres
+2770,Frank W Begley,Windsor,3.6,N9A3C5,1093 Assumption St
+2771,G C Huston,Southampton,3.6,N0H2L0,61 Victoria St Box 970
+2772,John Wise,St Thomas,3.6,N5R3T9,100 Parkside Drive
+2773,Joyceville,Joyceville,3.6,K0H1Y0,2903 Joyceville Rd
+2774,L'Héritage,St Catharines,3.6,L2N3Y8,35 promenade Prince Charles
+2775,Lincoln Heights,Waterloo,3.6,N2J3S9,270 Quickfall Dr
+2776,McGillivray Central,Ailsa Craig,3.6,N0M1A0,34714 Creamery Rd
+2777,Our Lady of Grace,Angus,3.6,L0M1B2,24 Roth St
+2778,Parkview,Lindsay,3.6,K9V4M2,133 Adelaide St N
+2779,Prince Charles,Belleville,3.6,K8P3W2,75 Ritchie Ave
+2780,Robert E Wilson,Vanier,3.6,K1L6N5,373 McArthur Ave
+2781,Sir Winston Churchill,Brampton,3.6,L6W1V1,89 Ardglen Dr
+2782,St Ann's,Penetanguishene,3.6,L9M1J2,5 Dunlop St
+2783,St Bernadette,Kitchener,3.6,N2M3Y9,245 Lorne Ave
+2784,St Joseph,Toronto,3.6,M4M3C7,176 Leslie St
+2785,St Mary,Massey,3.6,P0P1P0,290 Algoma St Box 640
+2786,St Patrick,Niagara Falls,3.6,L2E4B8,4653 Victoria Ave
+2787,Académie de la Moraine,Richmond Hill,3.5,L4E2T2,13200 rue Yonge
+2788,Blessed Sacrament,London,3.5,N5Y3L4,1063 Oxford St E
+2789,Charles C McLean,Gore Bay,3.5,P0P1H0,43 Hall St PO Box 678
+2790,Cochrane,Cochrane,3.5,P0L1C0,453A Chalmers Avenue Box 999
+2791,E W Norman,North Bay,3.5,P1A3A1,599 Lake Heights Rd
+2792,Elgin Market,Kincardine,3.5,N2Z2R6,305 Queen St
+2793,Ernest Cumberland,Alliston,3.5,L9R1A5,160 Eighth Ave
+2794,Franklin,Hamilton,3.5,L8V2A4,500 Franklin Road
+2795,Granite Ridge Education Centre,Sharbot Lake,3.5,K0H2P0,14432 Road 38
+2796,H J Lassaline,Windsor,3.5,N8R1Y1,3145 Wildwood Dr
+2797,James Keating,Penetanguishene,3.5,L9M1B2,20 Lorne Ave
+2798,K P Manson,Severn Bridge,3.5,P0E1N0,1017 Graham Rd.  1017 Graham Rd
+2799,Kingsway Park,Thunder Bay,3.5,P7E4R9,315 Empire Ave
+2800,Marie-Curie,Ottawa,3.5,K1G1R7,860 avenue Colson
+2801,Monseigneur-de-Laval,Hamilton,3.5,L9C1N4,135 avenue Bendamere
+2802,Northdale,Woodstock,3.5,N4S6W5,290 Victoria St N
+2803,Prince of Wales,Brockville,3.5,K6V4C8,210 Pearl Street West
+2804,Queen Elizabeth,Kitchener,3.5,N2M3N2,191 Hoffman St
+2805,Queen Elizabeth,Leamington,3.5,N8H2E2,4 Maxon Ave
+2806,Rockway,Kitchener,3.5,N2C1J5,70 Vanier Dr
+2807,Sainte-Catherine,Pain Court,3.5,N0P1Z0,24162 chemin Winterline C.P. 10
+2808,Sherbrooke,Thunder Bay,3.5,P7C4R6,110 Sherbrooke St
+2809,Sir Wilfrid Laurier,Hamilton,3.5,L8K5J3,70 Albright Road
+2810,South Edwardsburg,Johnstown,3.5,1T1,8 Second Street
+2811,Thessalon,Thessalon,3.5,P0R1L0,90 Stanley St Box 370
+2812,Village Union,Oshawa,3.5,L1H4H4,240 Simcoe St S
+2813,White Oaks,London,3.5,N6E3Z8,565 Bradley Ave
+2814,Carleton Heights,Ottawa,3.4,K2C1P4,1660 Prince of Wales Dr
+2815,Centennial,Kingston,3.4,K7M2R2,120 Norman Rogers Dr
+2816,Delaware Central,Delaware,3.4,N0L1E0,14 Osborne St Box 36
+2817,Grandview,Brantford,3.4,N3R4J9,68 North Park St
+2818,Knollwood Park,London,3.4,N5Y2B1,70 Gammage St
+2819,Lady Evelyn Alternative,Ottawa,3.4,K1S0C6,63 Evelyn Ave
+2820,Lord Elgin,London,3.4,N5Y4E2,1100 Victoria Dr
+2821,Maple Grove,Lanark,3.4,K0G1K0,151 George Street 90
+2822,Mattawa District,Mattawa,3.4,P0H1V0,376 Park St Box 330
+2823,Monsignor Philip Coffey,Oshawa,3.4,L1J3W6,1324 Oxford St
+2824,Northeastern,Garson,3.4,P3L1P8,45 Spruce St
+2825,Our Lady of Victory,Toronto,3.4,M6N4N3,70 Guestville Ave
+2826,Pope John XXIII,Nepean,3.4,K2G1B1,165 Knoxdale Rd
+2827,Queen Elizabeth,Peterborough,3.4,K9J5V9,830 Barnardo Ave
+2828,Queen Mary,Hamilton,3.4,L8H1V6,1292 Cannon Street East
+2829,Sainte-Anne,Mattawa,3.4,P0H1V0,361 rue Brydges C.P. 1100
+2830,Séraphin-Marion,Ottawa,3.4,K1J7W3,2147 avenue Loyola
+2831,St Bernard's,Orillia,3.4,L3V1H6,255 Oxford St
+2832,St Teresa's,Peterborough,3.4,K9J6S9,1525 Fairmount Blvd
+2833,Woodville,Woodville,3.4,K0M2T0,109 Nappadale St Box 39
+2834,C C Carrothers,London,3.3,N5Z3G2,360 Chippendale Cres
+2835,Central,Kirkland Lake,3.3,P2N3H2,23 Station Rd
+2836,East Oxford,Woodstock,3.3,N4S7V8,RR 4
+2837,East Ridge,Owen Sound,3.3,N4K0A2,1550 8th Street East
+2838,General Mercer,Toronto,3.3,M6N1P8,30 Turnberry Ave
+2839,Gore Hill,Leamington,3.3,N8H3V7,1135 County Rd 20
+2840,Jean-Béliveau,East Gwillimbury,3.3,L9N0E5,Hillcrest Drive / 2nd Concession
+2841,Nelson Mandela Park,Toronto,3.3,M5A1X6,440 Shuter St
+2842,Riverside,Huntsville,3.3,P1H1Z3,755 Brunel Road
+2843,S Geiger,Massey,3.3,P0P1P0,355 Government Rd W Box 427
+2844,St Stephen,Toronto,3.3,M9W2H8,55 Golfdown Dr
+2845,St Theresa,St Catharines,3.3,L2P1A7,58 Seymour Ave
+2846,St-Jude,Porcupine,3.3,P0N1C0,255 rue Dixon
+2847,Adelaide Hoodless,Hamilton,3.2,L8M1W7,71 Maplewood Avenue
+2848,Assumption,Vanier,3.2,K1L6H8,236 Levis Ave
+2849,Chester Le,Toronto,3.2,M1W2K7,201 Chester Le Blvd
+2850,Country Hills,Kitchener,3.2,N2E2G7,195 Country Hill Dr
+2851,Erin,Erin,3.2,N0B1T0,185 Daniel St
+2852,J F Carmichael,Kitchener,3.2,N2M1J3,80 Patricia Ave
+2853,Joseph Brant,Toronto,3.2,M1E3V4,270 Manse Rd
+2854,Notre-Dame-de-la-Huronie,Collingwood,3.2,0G6,"55, promenade Findlay"
+2855,Oliver Stephens,Woodstock,3.2,N4S3S6,164 Fyfe Ave
+2856,Our Lady Immaculate,Strathroy,3.2,N7G2J6,75 Head St N
+2857,Peninsula Shores,Wiarton,3.2,N0H2T0,115 George St
+2858,Prince Charles,Verona,3.2,K0H2W0,6875 Highway 38 100
+2859,Prince of Peace,Ottawa,3.2,K1V9P5,1620 Heatherington Rd
+2860,Ridgewood,Coboconk,3.2,K0M1K0,6763 35 Hwy Box 89
+2861,Saint-Joseph,Blind River,3.2,P0R1B0,44 rue Lawton CP 610
+2862,Saints-Anges,North Bay,3.2,P1B6G8,681-B rue Chippewa Ouest
+2863,Valley Way,Niagara Falls,3.2,L2E1X5,5315 Valley Way
+2864,West Hill,Toronto,3.2,M1E3G1,299 Morningside Ave
+2865,Ben R McMullin,Sault Ste. Marie,3.1,P6B5K2,24 Paradise Ave
+2866,Blind River,Blind River,3.1,P0R1B0,19 Hanes Ave Box 850
+2867,Dr. J. Edgar Davey,Hamilton,3.1,L8R1L6,99 Ferguson Ave.
+2868,Glen Orchard/Honey Harbour,Port Carling,3.1,P0B1J0,3954 Muskoka Road 169 Rd
+2869,Our Lady of Lourdes,Elliot Lake,3.1,P5A1E3,139 Mississauga Ave
+2870,Pavillon-de-l'Avenir,Chelmsford,3.1,P0M1L0,370 ave Côté
+2871,Sacré-Coeur,Chapleau,3.1,P0M1K0,14 rue Strathcona CP 970
+2872,St Michael,London,3.1,N5Y2X1,926 Maitland St
+2873,Stewart Avenue,Cambridge,3.1,N1R2V5,145 Stewart Ave
+2874,Forest Park,St Thomas,3,N5R2K5,295 Forest Ave
+2875,Holy Family,Toronto,3,M6K2V6,141 Close Ave
+2876,Iroquois Falls,Iroquois Falls,3,P0K1G0,900 Centennial St 998
+2877,King Edward,Kitchener,3,N2G1E3,709 King St W
+2878,Markstay/Warren,Markstay,3,P0M2G0,7 Pioneer St E Box 80
+2879,North Star,Atikokan,3,P0T1C0,209 Hawthorne Avenue
+2880,Our Lady of Fatima,Elliot Lake,3,P5A1X7,140 Hillside Dr N
+2881,R M Moore,Sault Ste. Marie,3,P6A6K4,1272 Base Line
+2882,Southside,Woodstock,3,N4S2L4,360 Albert St
+2883,St Thomas More,London,3,N6G1R5,18 Wychwood Pk
+2884,St-Joseph,Sudbury,3,P3C2V1,100 rue Bruyère
+2885,Alexandra,Owen Sound,2.9,N4K3B6,1556 8th Ave E
+2886,Algonquin Avenue,Thunder Bay,2.9,P7B4T1,160 South Algonquin Ave
+2887,Bayview Heights,Pickering,2.9,L1W1J6,1400 Garvolin Ave
+2888,Charles H. Hulse,Ottawa,2.9,K1V7T3,2605 Alta Vista Dr
+2889,Colborne,Colborne,2.9,K0K1S0,8 Alfred St Box 70
+2890,des Navigateurs,Haileybury,2.9,P0J1P0,39 ave Hessle
+2891,Jeunesse-Active,Sturgeon Falls,2.9,P2B3H4,130 rue Lisgar CP 330
+2892,John P Robarts,London,2.9,N5V1B1,84 Bow St
+2893,Northern Heights,Sault Ste. Marie,2.9,P6B4S8,210 Grand Blvd
+2894,Our Lady of Mount Carmel,Ottawa,2.9,K1K1C9,675 Gardenvale Rd
+2895,Paul VI,Hawkesbury,2.9,K6A1A9,500 rue Principale Est
+2896,Port Burwell,Port Burwell,2.9,N0J1T0,30 Strachan St Box 209
+2897,Queen Elizabeth,Picton,2.9,K0K2T0,35 Barker St
+2898,Selby,Selby,2.9,K0K2Z0,1623 County Rd 41
+2899,V K Greer Memorial,Utterson,2.9,P0B1M0,130 Muskoka Rd. 10 Rd.
+2900,W H Ballard,Hamilton,2.9,L8H1H9,801 Dunsmure Road
+2901,Wellington,Prescott,2.9,K0E1T0,920 Boundary Street Box 1329
+2902,Whitefish Valley,Kakabeka Falls,2.9,P0T1W0,RR 1
+2903,Assomption,Kirkland Lake,2.8,P2N1T8,31 promenade Churchill
+2904,Bishop Macdonell,Cornwall,2.8,K6H3S6,300 Adolphus St
+2905,Blossom Park,Gloucester,2.8,K1T1K6,3810 Sixth St
+2906,Parkdale,Toronto,2.8,M6K3L2,78 Seaforth Ave
+2907,St Charles Garnier,Toronto,2.8,M3N2X9,20 Stong Crt
+2908,St James,Thunder Bay,2.8,P7A3P1,243 St James St
+2909,St Patrick,Kapuskasing,2.8,P5N2A8,6 Cedar St
+2910,White Woods,Sturgeon Falls,2.8,P2B2Z8,177 Ethel St
+2911,Woodland,North Bay,2.8,P1B4S3,1325 Cedargrove Drive
+2912,Central,Cornwall,2.7,K6H0A5,200 Amelia Street
+2913,Dunlop,Ottawa,2.7,K1V7R8,1310 Pebble Rd
+2914,Glen Street,Oshawa,2.7,L1J3T9,929 Glen St
+2915,Highland Heights,Peterborough,2.7,K9H5J7,430 Highland Rd
+2916,Hillcrest,London,2.7,N5Y4P7,1231 Fuller St
+2917,Hillsdale,Oshawa,2.7,L1G5T6,525 Oshawa Blvd N
+2918,Johnson Street,Barrie,2.7,L4M4R4,105 Johnson St
+2919,McDougall,Parry Sound,2.7,P2A2W7,69 Hwy 124
+2920,Memorial (City),Hamilton,2.7,L8M1P3,1175 Main Street East
+2921,Pavillon de la jeunesse,Hamilton,2.7,L8T3Z4,105 rue High
+2922,St Gregory,Cambridge,2.7,N1S3H1,34 Osborne Ave
+2923,St. Francis of Assisi,Kingston,2.7,K7K5B5,114 Wiley Street
+2924,W.E. Gowling,Ottawa,2.7,K1Z7V6,250 Anna St
+2925,Aldborough,Rodney,2.6,N0L2C0,11443 Furnival Rd
+2926,Central,Woodstock,2.6,N4S4G4,410 Hunter St
+2927,Fairmont,London,2.6,N5W1A6,1040 Hamilton Rd
+2928,King George,Brantford,2.6,N3S6G7,265 Rawdon St
+2929,Queen Elizabeth,Ottawa,2.6,K1K3A6,689 St Laurent Blvd
+2930,St Michael,Ottawa,2.6,K1K1L8,437 Donald St
+2931,Agnes Hodge,Brantford,2.5,N3T1B6,52 Clench Ave
+2932,Arthur Stringer,London,2.5,N6C2Y5,43 Shaftesbury Ave
+2933,Bennetto,Hamilton,2.5,L8L3N2,47 Simcoe Street East
+2934,East Williams Memorial,Ailsa Craig,2.5,N0M1A0,4441 Queens Ave
+2935,Epiphany of our Lord,Toronto,2.5,M1W3J5,3150 Pharmacy Ave
+2936,Lansdowne,Sarnia,2.5,N7S1G7,95 Lansdowne Ave
+2937,Muskoka Falls,Bracebridge,2.5,P1L0A1,42 Morrow Dr
+2938,Parkhill-West Williams,Parkhill,2.5,N0M2K0,204 McLeod St 488
+2939,Princess Elizabeth,Brantford,2.5,N3S2B5,60 Tecumseh St
+2940,Saint-Raymond,North Bay,2.5,P1A2S7,22 avenue Borge
+2941,St Dorothy,Toronto,2.5,M9V1N7,155 John Garland Blvd
+2942,St Roch,Toronto,2.5,M9L2E3,174 Duncanwoods Dr
+2943,Good Shepherd,Port Perry,2.4,L9L1T1,1650 Reach St
+2944,Hanna Memorial,Sarnia,2.4,N7T4T7,369 Maria St
+2945,Levack,Levack,2.4,P0M2C0,100 High St
+2946,Molly Brant,Kingston,2.4,0J5,30 Lyons Street
+2947,St Columban's,Cornwall,2.4,K6J3W4,323 Augustus St
+2948,Tamworth,Tamworth,2.4,K0K3G0,6668 Wheeler St
+2949,Trent River,Trenton,2.4,0H1,84 Dixon Drive
+2950,A R Kaufman,Kitchener,2.3,N2M2G3,11 Chopin Dr
+2951,Eastview,Toronto,2.3,M1E2E5,20 Waldock St
+2952,Hawthorne,Ottawa,2.3,K1G1A9,2158 St. Laurent Blvd
+2953,Lionel-Gauthier,Timmins,2.3,P4N3P9,88 rue Rea S
+2954,St Noel Chabanel,Wasaga Beach,2.3,L9Z1P3,425 Ramblewood Dr
+2955,Woodcrest,Oshawa,2.3,L1J2T8,506 Woodcrest Ave
+2956,M S Hetherington,Windsor,2.2,N8S1W4,8800 Menard St
+2957,Sacred Heart,Sioux Lookout,2.2,P8T1B7,41 8th St Box 1059
+2958,Saint-François-d'Assise,Welland,2.2,L3B1K9,58 avenue Empress
+2959,A B Ellis,Espanola,2.1,P5E1S7,128 Park St
+2960,Crossroads,Devlin,2.1,P0W1C0,Highway 613
+2961,Hyland Heights,Shelburne,2.1,L0N1S1,200 Fourth Ave
+2962,Jeanne-Sauvé,Sudbury,2.1,P3B1H9,300 rue Van Horne
+2963,John Graves Simcoe,Kingston,2.1,K7K5B4,90 Wiley St
+2964,Sir Arthur Carty,London,2.1,N6E2S3,1655 Ernest Ave
+2965,Emily Stowe,Norwich,2,N0J1P0,1 Jerdon Street 759
+2966,Ionview,Toronto,2,M1K2Z9,90 Ionview Rd
+2967,Le Trillium,Vanier,2,K1L7X5,307 rue Montgomery
+2968,Mountain View,Goulais River,2,P0S1E0,Mahler Rd
+2969,Plymouth,Welland,2,L3B4S1,111 First St
+2970,Connaught,Collingwood,1.9,L9Y3W2,300 Peel St
+2971,Joseph H Kennedy,Matheson,1.9,P0K1N0,422 4th Avenue Box 640
+2972,Queen Victoria,Hamilton,1.9,L8L6X4,166 Forest Avenue
+2973,R J Lang,Toronto,1.9,M2M1E3,227 Drewry Ave
+2974,Victoria,London,1.9,N6J2K5,130 Wharncliffe Rd S
+2975,Federal,Kirkland Lake,1.8,P2N1J5,80 Tweedsmuir Rd
+2976,Highland Heights,Toronto,1.8,M1T2Z3,35 Glendower Circt
+2977,I L Thomas Odadrihonyani'ta',Ohsweken,1.8,ON,
+2978,LaMarsh,Niagara Falls,1.8,L2E6C8,4571 Rd Drummond
+2979,Lansdowne-Costain,Brantford,1.8,N3T5B1,21 Preston Blvd
+2980,Quinte Mohawk,Tyendinaga Territory,1.8,1X0,1624 York Road  R.R. #1
+2981,Dawnview,Hanover,1.7,N4N2S8,149 12th Ave
+2982,Rideau Heights,Kingston,1.7,K7K2V8,77 MacCauley St
+2983,Sir George Etienne Cartier,London,1.7,N6C2W9,695 Chiddington Ave
+2984,Cathy Wever,Hamilton,1.6,L8L5V7,160 Wentworth Street North
+2985,Cecil B Stirling,Hamilton,1.6,L8W1T9,340 Queen Victoria Drive
+2986,First Nations School of Toronto,Toronto,1.6,M4M1R4,935 Dundas St E
+2987,Lloyd S King,Hagersville,1.6,1H0,659 Unit #3 New Credit Road RR 6
+2988,Odessa,Odessa,1.6,K0H2H0,10 North St 160
+2989,Tyendinaga,Shannonville,1.6,K0K3A0,650 Shannonville Rd
+2990,Central,Brantford,1.5,N3W2B2,135 George St
+2991,North Hastings,Bancroft,1.5,K0L1C0,132 Newkirk Blvd Box 1030
+2992,Notre-Dame,Hamilton,1.5,L8M2A2,400 avenue Cumberland
+2993,Sir John A Macdonald,London,1.5,N5Y3W3,1150 Landor St
+2994,B A Parker,Geraldton,1.4,P0T1M0,Hogarth Ave Box 909
+2995,Queen Mary Street,Ottawa,1.4,K1K1V9,557 Queen Mary St
+2996,Graham Bell-Victoria,Brantford,1.3,N3R4B2,56 Grand St
+2997,Hillside,Forest,1.3,1J0,6265 Indian Lane
+2998,Lord Strathcona,Kingston,1.3,K7M3H4,251 McMahon Ave
+2999,Prince Charles,London,1.3,N5W2C9,1601 Wavell St
+3000,High Park,Sarnia,1.2,N7S2T3,757 Kember Ave
+3001,North Addington,Cloyne,1.2,K0H1K0,14196 Highway 41
+3002,Prince Charles,Brantford,1.2,N3R2N5,40 Morton Ave
+3003,Schumacher,Schumacher,1.2,P0N1G0,64 Croatia Ave Bag 919
+3004,Baibombeh Anishinabe,Pawitik,1,P0X1L0,General Delivery
+3005,Black River,Sutton West,1,L0E1R0,5279 Black River Rd Box 1120
+3006,George L Armstrong,Hamilton,0.9,L9A1C3,460 Concession Street
+3007,Queen Elizabeth II,Sarnia,0.9,N7S2N8,60 Aberdeen Ave
+3008,Lakeview,M'Chigeeng,0.8,1G0,18 Lakeview Drive Box 297
+3009,Wilton Grove,London,0.8,N6E1C1,626 Osgoode Dr
+3010,Adamsdale,Sudbury,0.7,P3B3L3,181 First Ave
+3011,Centre Peel,Drayton,0.7,N0G1P0,7623 Sixth Line
+3012,Deer Lake,Deer Lake,0.7,P0V1N0,Box 69
+3013,F H Miller,Toronto,0.7,M6E4T5,300 Caledonia Rd
+3014,Kiwedin,Sault Ste. Marie,0.7,P6B2C4,735 North St
+3015,Prince of Wales,Belleville,0.7,K8P2T6,37 Prince of Wales Dr
+3016,St-Gérard,Timmins,0.7,P4N1R7,59 avenue Sterling Est
+3017,Eastdale,Woodstock,0.6,N4S4A2,65 Aileen Dr
+3018,Jamieson,Ohsweken,0.6,1M0,1613 Chiefswood
+3019,Lansdowne,Sudbury,0.6,P3C4M1,185 Lansdowne St
+3020,Marmora,Marmora,0.6,K0K2M0,91 Madac St Box 310
+3021,Pinecrest,Timmins,0.6,P4N6W1,542 Toke St
+3022,Central Avenue,Elliot Lake,0.5,P5A2G4,81 Central Ave
+3023,Diamond Jubilee,Kapuskasing,0.5,P5N1C5,61 Devonshire St
+3024,Sir James Dunn,Wawa,0.4,P0S1K0,36 McKinley Ave Box 560
+3025,St Brigids,Hamilton,0.4,L8L5P1,24 Smith Ave
+3026,Major Ballachey,Brantford,0.3,N3S6C7,105 Rawdon St
+3027,Duncan J Schoular,Smiths Falls,0.2,K7A3M9,41 McGill Street South
+3028,Standing Stone,Southwold,0.2,N0L2G0,"2315 Keystone Pl, RR 2"
+3029,Abe Scatch Memorial,Poplar Hill,0,3.00E+00,Box 23
+3030,Biidaaban Kinoomagegamik,Massey,0,P0L1N0,30 rue 10e SP13000
+3031,Chief Simeon McKay,Kasabonika,0,P0V1Y0,Box 120 Chief Simeon McKay Education Centre
+3032,Eenchokay Birchstick,Pikangikum,0,P0V2L0,General Delivery
+3033,Houghton,Langton,0,N0E1G0,505 Fairground Side Rd
+3034,John C Yesno,Eabametoong (Fort Hope),0,P0T1L0,Box 297
+3035,Kattawapiskak,Attawapiskat,0,P0L1A0,"2100 Riverside Dr W,"
+3036,Lydia Lois Beardy Memorial,Wunnumin Lake,0,P0V2Z0,General Delivery Box 108
+3037,Martin McKay Memorial,Sachigo Lake,0,2P0,
+3038,Ministik,Moose Factory,0,P0L1W0,9 Horden St Box 160
+3039,Mornington Central,Newton,0,N0K1R0,7241 Road 131
+3040,Mundo Peetabeck,Fort Albany,0,P0L1H0,1 School Road 211
+3041,Obishikokaang,Lac Seul,0,2A0,Frenchman's Head
+3042,Saint-Joseph,Espanola,0,P5E1C4,333 boulevard Mead
+3043,St Peter's,Parry Sound,0,P2A0A8,15 Silver Birch Court
+3044,St-Dominique-Savio,Owen Sound,0,N4K6Z5,800 rue 23e est
+3045,Thomas Fiddler Memorial,Sandy Lake,0,P0V1V0,8
